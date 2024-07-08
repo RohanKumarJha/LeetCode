@@ -8,6 +8,7 @@ I solved the leetCode problems and upload here daily.
 | ------- |
 | [0001-two-sum](https://github.com/RohanKumarJha/LeetCode/tree/master/0001-two-sum) |
 | [1677-matrix-diagonal-sum](https://github.com/RohanKumarJha/LeetCode/tree/master/1677-matrix-diagonal-sum) |
+| [2398-check-if-matrix-is-x-matrix](https://github.com/RohanKumarJha/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,4 +33,5 @@ I solved the leetCode problems and upload here daily.
 |  |
 | ------- |
 | [1677-matrix-diagonal-sum](https://github.com/RohanKumarJha/LeetCode/tree/master/1677-matrix-diagonal-sum) |
+| [2398-check-if-matrix-is-x-matrix](https://github.com/RohanKumarJha/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
 <!---LeetCode Topics End-->
