@@ -23,4 +23,8 @@ I solved the leetCode problems and upload here daily.
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/RohanKumarJha/LeetCode/tree/master/0412-fizz-buzz) |
+## Concurrency
+|  |
+| ------- |
+| [1316-fizz-buzz-multithreaded](https://github.com/RohanKumarJha/LeetCode/tree/master/1316-fizz-buzz-multithreaded) |
 <!---LeetCode Topics End-->
