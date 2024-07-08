@@ -8,6 +8,7 @@ I solved the leetCode problems and upload here daily.
 | ------- |
 | [0001-two-sum](https://github.com/RohanKumarJha/LeetCode/tree/master/0001-two-sum) |
 | [1677-matrix-diagonal-sum](https://github.com/RohanKumarJha/LeetCode/tree/master/1677-matrix-diagonal-sum) |
+| [2058-concatenation-of-array](https://github.com/RohanKumarJha/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/RohanKumarJha/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
 ## Hash Table
 |  |
@@ -25,6 +26,7 @@ I solved the leetCode problems and upload here daily.
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/RohanKumarJha/LeetCode/tree/master/0412-fizz-buzz) |
+| [2058-concatenation-of-array](https://github.com/RohanKumarJha/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Concurrency
 |  |
 | ------- |
