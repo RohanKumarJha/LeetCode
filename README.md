@@ -7,6 +7,7 @@ I solved the leetCode problems and upload here daily.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RohanKumarJha/LeetCode/tree/master/0001-two-sum) |
+| [1677-matrix-diagonal-sum](https://github.com/RohanKumarJha/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,4 +28,8 @@ I solved the leetCode problems and upload here daily.
 |  |
 | ------- |
 | [1316-fizz-buzz-multithreaded](https://github.com/RohanKumarJha/LeetCode/tree/master/1316-fizz-buzz-multithreaded) |
+## Matrix
+|  |
+| ------- |
+| [1677-matrix-diagonal-sum](https://github.com/RohanKumarJha/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
