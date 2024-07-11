@@ -7,6 +7,7 @@ I solved the leetCode problems and upload here daily.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RohanKumarJha/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/RohanKumarJha/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RohanKumarJha/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/RohanKumarJha/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/RohanKumarJha/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -60,6 +61,7 @@ I solved the leetCode problems and upload here daily.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/RohanKumarJha/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RohanKumarJha/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/RohanKumarJha/LeetCode/tree/master/0042-trapping-rain-water) |
 ## Prefix Sum
@@ -87,4 +89,8 @@ I solved the leetCode problems and upload here daily.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RohanKumarJha/LeetCode/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/RohanKumarJha/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
