@@ -29,6 +29,7 @@ I solved the leetCode problems and upload here daily.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/RohanKumarJha/LeetCode/tree/master/0002-add-two-numbers) |
 | [0412-fizz-buzz](https://github.com/RohanKumarJha/LeetCode/tree/master/0412-fizz-buzz) |
 | [2619-categorize-box-according-to-criteria](https://github.com/RohanKumarJha/LeetCode/tree/master/2619-categorize-box-according-to-criteria) |
 ## String
@@ -93,4 +94,12 @@ I solved the leetCode problems and upload here daily.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RohanKumarJha/LeetCode/tree/master/0011-container-with-most-water) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/RohanKumarJha/LeetCode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/RohanKumarJha/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
