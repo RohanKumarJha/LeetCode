@@ -18,6 +18,7 @@ I solved the leetCode problems and upload here daily.
 | [1791-richest-customer-wealth](https://github.com/RohanKumarJha/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/RohanKumarJha/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/RohanKumarJha/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/RohanKumarJha/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/RohanKumarJha/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/RohanKumarJha/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/RohanKumarJha/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
@@ -33,6 +34,7 @@ I solved the leetCode problems and upload here daily.
 | [0002-add-two-numbers](https://github.com/RohanKumarJha/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/RohanKumarJha/LeetCode/tree/master/0007-reverse-integer) |
 | [0412-fizz-buzz](https://github.com/RohanKumarJha/LeetCode/tree/master/0412-fizz-buzz) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/RohanKumarJha/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2619-categorize-box-according-to-criteria](https://github.com/RohanKumarJha/LeetCode/tree/master/2619-categorize-box-according-to-criteria) |
 ## String
 |  |
@@ -104,4 +106,8 @@ I solved the leetCode problems and upload here daily.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RohanKumarJha/LeetCode/tree/master/0002-add-two-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/RohanKumarJha/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
