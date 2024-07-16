@@ -7,7 +7,7 @@ class Solution {
                 if(j%10==0) {
                     count=1;
                 }
-                else if(i%(j%10)!=0) {
+                else if(i%(j%10)!=0 || j%10==0) {
                     count = 1;
                     break;
                 }
