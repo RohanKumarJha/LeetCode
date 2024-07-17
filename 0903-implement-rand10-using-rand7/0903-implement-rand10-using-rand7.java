@@ -8,10 +8,10 @@ class Solution extends SolBase {
         while(true) {
             int row = (rand7()-1)*7;
             int col = rand7();
-            int total = row+col;
-            if(total <= 40) {
-                return 1+(total-1)%10;
+            int tot = row+col;
+            if(tot <= 40) {
+                return 1+(tot-1)%10;
             }
-        } 
+        }
     }
 }
