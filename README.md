@@ -13,6 +13,7 @@ I solved the leetCode problems and upload here daily.
 | [0074-search-a-2d-matrix](https://github.com/RohanKumarJha/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0485-max-consecutive-ones](https://github.com/RohanKumarJha/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [1284-four-divisors](https://github.com/RohanKumarJha/LeetCode/tree/master/1284-four-divisors) |
 | [1603-running-sum-of-1d-array](https://github.com/RohanKumarJha/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/RohanKumarJha/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/RohanKumarJha/LeetCode/tree/master/1677-matrix-diagonal-sum) |
@@ -39,6 +40,7 @@ I solved the leetCode problems and upload here daily.
 | [0412-fizz-buzz](https://github.com/RohanKumarJha/LeetCode/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/RohanKumarJha/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0903-implement-rand10-using-rand7](https://github.com/RohanKumarJha/LeetCode/tree/master/0903-implement-rand10-using-rand7) |
+| [1284-four-divisors](https://github.com/RohanKumarJha/LeetCode/tree/master/1284-four-divisors) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/RohanKumarJha/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/RohanKumarJha/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/RohanKumarJha/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
