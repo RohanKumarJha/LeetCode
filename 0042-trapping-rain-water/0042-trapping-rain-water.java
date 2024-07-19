@@ -6,22 +6,22 @@ class Solution {
         int[] right = new int[n];
 
         // For left array
-        int leftMax = Integer.MIN_VALUE;
+        int leftVal = Integer.MIN_VALUE;
         for(int i=0; i<n; i++) {
-            leftMax = Math.max(leftMax, height[i]);
-            left[i] = leftMax;
+            leftVal = Math.max(leftVal, height[i]);
+            left[i] = leftVal;
         }
 
         // For right array
-        int rightMax = Integer.MIN_VALUE;
+        int rightVal = Integer.MIN_VALUE;
         for(int i=n-1; i>=0; i--) {
-            rightMax = Math.max(rightMax, height[i]);
-            right[i] = rightMax;
+            rightVal = Math.max(rightVal, height[i]);
+            right[i] = rightVal;
         }
 
-        int total = 0;
+        int sum = 0;
         for(int i=0; i<n; i++) {
-            total += (Math.min(left[i], right[i]) - height[i]);
-        } return total;
+            sum += (Math.min(left[i], right[i]) - height[i]);
+        } return sum;
     }
 }
