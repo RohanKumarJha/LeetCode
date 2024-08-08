@@ -10,5 +10,5 @@ class Solution {
             K /= 10;
         }
         return res;
-        }
+    }
 }
