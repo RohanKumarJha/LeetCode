@@ -1,6 +1,6 @@
 class Solution {
     public int[] plusOne(int[] digits) {
-        List<Integer> li = new ArrayList<> ();
+        List<Integer> li = new LinkedList<> ();
         int k = 1;
         for(int i=digits.length-1; i>=0; i--) {
             if(i == digits.length-1) {
