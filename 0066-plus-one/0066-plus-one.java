@@ -3,13 +3,8 @@ class Solution {
         List<Integer> li = new LinkedList<> ();
         int k = 1;
         for(int i=digits.length-1; i>=0; i--) {
-            if(i == digits.length-1) {
-                li.add(0, (digits[i] + k)%10);
-                k= (digits[i] +k) / 10;
-            } else {
-                li.add(0, (digits[i]+k)%10);
-                k= (digits[i] +k) / 10;
-            } 
+            li.add(0, (digits[i]+k)%10);
+            k= (digits[i] +k) / 10;
         }
         while (k > 0) {
             li.add(0, k % 10);
