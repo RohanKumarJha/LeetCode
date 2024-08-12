@@ -22,6 +22,7 @@ I solved the leetCode problems and upload here daily.
 | [0477-total-hamming-distance](https://github.com/RohanKumarJha/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/RohanKumarJha/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/RohanKumarJha/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/RohanKumarJha/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0861-flipping-an-image](https://github.com/RohanKumarJha/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/RohanKumarJha/LeetCode/tree/master/0898-transpose-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/RohanKumarJha/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -154,6 +155,7 @@ I solved the leetCode problems and upload here daily.
 | [0278-first-bad-version](https://github.com/RohanKumarJha/LeetCode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/RohanKumarJha/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/RohanKumarJha/LeetCode/tree/master/0441-arranging-coins) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/RohanKumarJha/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
