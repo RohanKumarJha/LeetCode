@@ -32,6 +32,7 @@ I solved the leetCode problems and upload here daily.
 | [1284-four-divisors](https://github.com/RohanKumarJha/LeetCode/tree/master/1284-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RohanKumarJha/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/RohanKumarJha/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/RohanKumarJha/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RohanKumarJha/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/RohanKumarJha/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/RohanKumarJha/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -124,6 +125,7 @@ I solved the leetCode problems and upload here daily.
 | [0566-reshape-the-matrix](https://github.com/RohanKumarJha/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/RohanKumarJha/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/RohanKumarJha/LeetCode/tree/master/0898-transpose-matrix) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/RohanKumarJha/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/RohanKumarJha/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/RohanKumarJha/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1791-richest-customer-wealth](https://github.com/RohanKumarJha/LeetCode/tree/master/1791-richest-customer-wealth) |
@@ -159,6 +161,7 @@ I solved the leetCode problems and upload here daily.
 | [0374-guess-number-higher-or-lower](https://github.com/RohanKumarJha/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/RohanKumarJha/LeetCode/tree/master/0441-arranging-coins) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/RohanKumarJha/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/RohanKumarJha/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/RohanKumarJha/LeetCode/tree/master/1646-kth-missing-positive-number) |
 ## Divide and Conquer
 |  |
