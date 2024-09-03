@@ -81,6 +81,7 @@ I solved the leetCode problems and upload here daily.
 | [0066-plus-one](https://github.com/RohanKumarJha/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/RohanKumarJha/LeetCode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/RohanKumarJha/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
+| [0231-power-of-two](https://github.com/RohanKumarJha/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/RohanKumarJha/LeetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/RohanKumarJha/LeetCode/tree/master/0412-fizz-buzz) |
@@ -203,6 +204,7 @@ I solved the leetCode problems and upload here daily.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RohanKumarJha/LeetCode/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/RohanKumarJha/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/RohanKumarJha/LeetCode/tree/master/0342-power-of-four) |
 ## Number Theory
 |  |
@@ -231,6 +233,7 @@ I solved the leetCode problems and upload here daily.
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/RohanKumarJha/LeetCode/tree/master/0029-divide-two-integers) |
+| [0231-power-of-two](https://github.com/RohanKumarJha/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/RohanKumarJha/LeetCode/tree/master/0342-power-of-four) |
 | [0477-total-hamming-distance](https://github.com/RohanKumarJha/LeetCode/tree/master/0477-total-hamming-distance) |
