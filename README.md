@@ -180,6 +180,7 @@ I solved the leetCode problems and upload here daily.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RohanKumarJha/LeetCode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/RohanKumarJha/LeetCode/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
 |  |
@@ -235,6 +236,7 @@ I solved the leetCode problems and upload here daily.
 | ------- |
 | [0029-divide-two-integers](https://github.com/RohanKumarJha/LeetCode/tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/RohanKumarJha/LeetCode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/RohanKumarJha/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/RohanKumarJha/LeetCode/tree/master/0342-power-of-four) |
