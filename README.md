@@ -187,6 +187,7 @@ I solved the leetCode problems and upload here daily.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RohanKumarJha/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0338-counting-bits](https://github.com/RohanKumarJha/LeetCode/tree/master/0338-counting-bits) |
 ## Stack
 |  |
 | ------- |
@@ -241,6 +242,7 @@ I solved the leetCode problems and upload here daily.
 | [0191-number-of-1-bits](https://github.com/RohanKumarJha/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/RohanKumarJha/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/RohanKumarJha/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/RohanKumarJha/LeetCode/tree/master/0342-power-of-four) |
 | [0477-total-hamming-distance](https://github.com/RohanKumarJha/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0861-flipping-an-image](https://github.com/RohanKumarJha/LeetCode/tree/master/0861-flipping-an-image) |
