@@ -1,16 +1,14 @@
+import java.util.*;
 class Solution {
     public int findGCD(int[] nums) {
-        int n = nums.length;
-        int maxVal = Integer.MIN_VALUE;
-        int minVal = Integer.MAX_VALUE;
-        for(int i=0; i<n; i++) {
-            maxVal = Math.max(maxVal, nums[i]);
-            minVal = Math.min(minVal, nums[i]);
-        }
-        for(int i=minVal; i>1; i--) {
-            if((maxVal%i==0) && (minVal%i==0)){
-                return i;
-            }
-        } return 1;
-    }
+        int minValue = Integer.MAX_VALUE;
+        int maxValue = Integer.MIN_VALUE;
+       for(int i=0; i<nums.length; i++) {
+        minValue = Math.min(minValue, nums[i]);
+        maxValue = Math.max(maxValue, nums[i]);
+       } 
+       for(int i=minValue; i>1; i--) {
+        if((minValue%i==0) & (maxValue%i==0)) return i;
+       } return 1;
+    } 
 }
