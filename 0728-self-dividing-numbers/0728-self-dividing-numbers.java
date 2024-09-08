@@ -1,19 +1,19 @@
 class Solution {
     public List<Integer> selfDividingNumbers(int left, int right) {
-        ArrayList<Integer> newArr = new ArrayList<> ();
+        List<Integer> ans = new ArrayList<>();
         for(int i=left; i<=right; i++) {
             int count = 0;
-            for(int j=i; j>0; j/=10) {
-                if(j%10==0) {
-                    count=1;
+            int j = i;
+            while(j>0) {
+                if(i%10==0) {
+                    count++;
                 }
-                else if(i%(j%10)!=0 || j%10==0) {
-                    count = 1;
+                else if((i%(j%10))!=0 || (j%10==0)) { 
+                    count++;
                     break;
                 }
-            } if(count==0) {
-                newArr.add(i);
-            }
-        } return newArr;
+                j /= 10;
+            } if(count == 0) ans.add(i);
+        } return ans;
     }
 }
