@@ -89,6 +89,7 @@ I solved the leetCode problems and upload here daily.
 | [0441-arranging-coins](https://github.com/RohanKumarJha/LeetCode/tree/master/0441-arranging-coins) |
 | [0477-total-hamming-distance](https://github.com/RohanKumarJha/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0728-self-dividing-numbers](https://github.com/RohanKumarJha/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [0866-rectangle-overlap](https://github.com/RohanKumarJha/LeetCode/tree/master/0866-rectangle-overlap) |
 | [0903-implement-rand10-using-rand7](https://github.com/RohanKumarJha/LeetCode/tree/master/0903-implement-rand10-using-rand7) |
 | [1031-add-to-array-form-of-integer](https://github.com/RohanKumarJha/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1230-maximum-of-absolute-value-expression](https://github.com/RohanKumarJha/LeetCode/tree/master/1230-maximum-of-absolute-value-expression) |
@@ -268,4 +269,8 @@ I solved the leetCode problems and upload here daily.
 | ------- |
 | [0278-first-bad-version](https://github.com/RohanKumarJha/LeetCode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/RohanKumarJha/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Geometry
+|  |
+| ------- |
+| [0866-rectangle-overlap](https://github.com/RohanKumarJha/LeetCode/tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
