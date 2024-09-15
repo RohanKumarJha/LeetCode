@@ -84,6 +84,7 @@ I solved the leetCode problems and upload here daily.
 | [0002-add-two-numbers](https://github.com/RohanKumarJha/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/RohanKumarJha/LeetCode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/RohanKumarJha/LeetCode/tree/master/0029-divide-two-integers) |
+| [0062-unique-paths](https://github.com/RohanKumarJha/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/RohanKumarJha/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/RohanKumarJha/LeetCode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/RohanKumarJha/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
@@ -196,6 +197,7 @@ I solved the leetCode problems and upload here daily.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RohanKumarJha/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/RohanKumarJha/LeetCode/tree/master/0062-unique-paths) |
 | [0338-counting-bits](https://github.com/RohanKumarJha/LeetCode/tree/master/0338-counting-bits) |
 ## Stack
 |  |
@@ -281,4 +283,8 @@ I solved the leetCode problems and upload here daily.
 |  |
 | ------- |
 | [0866-rectangle-overlap](https://github.com/RohanKumarJha/LeetCode/tree/master/0866-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/RohanKumarJha/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
