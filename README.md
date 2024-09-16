@@ -112,6 +112,7 @@ I solved the leetCode problems and upload here daily.
 | ------- |
 | [0412-fizz-buzz](https://github.com/RohanKumarJha/LeetCode/tree/master/0412-fizz-buzz) |
 | [1899-count-items-matching-a-rule](https://github.com/RohanKumarJha/LeetCode/tree/master/1899-count-items-matching-a-rule) |
+| [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/RohanKumarJha/LeetCode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/RohanKumarJha/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/RohanKumarJha/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Simulation
