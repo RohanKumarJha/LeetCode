@@ -2,8 +2,8 @@ class Solution {
     public int chalkReplacer(int[] chalk, int k) {
         long totalChalk = 0;
         int n = chalk.length;
-        for(int i=0; i<n; i++) {
-            totalChalk += chalk[i];
+        for(int studentChalkUse : chalk) {
+            totalChalk += studentChalkUse;
         }
         int answer = (int)(k % totalChalk);
         for(int i=0; i<n; i++) {
