@@ -118,6 +118,7 @@ I solved the leetCode problems and upload here daily.
 | [1651-shuffle-string](https://github.com/RohanKumarJha/LeetCode/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/RohanKumarJha/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/RohanKumarJha/LeetCode/tree/master/1797-goal-parser-interpretation) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/RohanKumarJha/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1899-count-items-matching-a-rule](https://github.com/RohanKumarJha/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/RohanKumarJha/LeetCode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/RohanKumarJha/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -244,6 +245,7 @@ I solved the leetCode problems and upload here daily.
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RohanKumarJha/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/RohanKumarJha/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/RohanKumarJha/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/RohanKumarJha/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
 ## Rejection Sampling
 |  |
 | ------- |
