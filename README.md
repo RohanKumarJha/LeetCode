@@ -22,6 +22,7 @@ I solved the leetCode problems and upload here daily.
 | [0162-find-peak-element](https://github.com/RohanKumarJha/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RohanKumarJha/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/RohanKumarJha/LeetCode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/RohanKumarJha/LeetCode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0268-missing-number) |
@@ -112,6 +113,7 @@ I solved the leetCode problems and upload here daily.
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0179-largest-number) |
 | [0412-fizz-buzz](https://github.com/RohanKumarJha/LeetCode/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/RohanKumarJha/LeetCode/tree/master/0742-to-lower-case) |
 | [1205-defanging-an-ip-address](https://github.com/RohanKumarJha/LeetCode/tree/master/1205-defanging-an-ip-address) |
@@ -224,6 +226,7 @@ I solved the leetCode problems and upload here daily.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RohanKumarJha/LeetCode/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0179-largest-number) |
 ## Linked List
 |  |
 | ------- |
@@ -277,6 +280,7 @@ I solved the leetCode problems and upload here daily.
 | ------- |
 | [0088-merge-sorted-array](https://github.com/RohanKumarJha/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/RohanKumarJha/LeetCode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/RohanKumarJha/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0268-missing-number) |
 | [0941-sort-array-by-parity](https://github.com/RohanKumarJha/LeetCode/tree/master/0941-sort-array-by-parity) |
