@@ -17,6 +17,7 @@ I solved the leetCode problems and upload here daily.
 | [0066-plus-one](https://github.com/RohanKumarJha/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/RohanKumarJha/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/RohanKumarJha/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RohanKumarJha/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/RohanKumarJha/LeetCode/tree/master/0162-find-peak-element) |
@@ -277,6 +278,7 @@ I solved the leetCode problems and upload here daily.
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/RohanKumarJha/LeetCode/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/RohanKumarJha/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/RohanKumarJha/LeetCode/tree/master/0191-number-of-1-bits) |
