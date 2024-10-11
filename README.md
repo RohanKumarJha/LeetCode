@@ -23,6 +23,7 @@ I solved the leetCode problems and upload here daily.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RohanKumarJha/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/RohanKumarJha/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/RohanKumarJha/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/RohanKumarJha/LeetCode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0268-missing-number) |
@@ -92,6 +93,7 @@ I solved the leetCode problems and upload here daily.
 | [0066-plus-one](https://github.com/RohanKumarJha/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/RohanKumarJha/LeetCode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/RohanKumarJha/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/RohanKumarJha/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/RohanKumarJha/LeetCode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/RohanKumarJha/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0268-missing-number) |
@@ -171,6 +173,7 @@ I solved the leetCode problems and upload here daily.
 | [0042-trapping-rain-water](https://github.com/RohanKumarJha/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/RohanKumarJha/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RohanKumarJha/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/RohanKumarJha/LeetCode/tree/master/0189-rotate-array) |
 | [0861-flipping-an-image](https://github.com/RohanKumarJha/LeetCode/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/RohanKumarJha/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/RohanKumarJha/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
