@@ -27,6 +27,7 @@ I solved the leetCode problems and upload here daily.
 | [0217-contains-duplicate](https://github.com/RohanKumarJha/LeetCode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/RohanKumarJha/LeetCode/tree/master/0283-move-zeroes) |
 | [0477-total-hamming-distance](https://github.com/RohanKumarJha/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/RohanKumarJha/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/RohanKumarJha/LeetCode/tree/master/0566-reshape-the-matrix) |
@@ -174,6 +175,7 @@ I solved the leetCode problems and upload here daily.
 | [0088-merge-sorted-array](https://github.com/RohanKumarJha/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RohanKumarJha/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/RohanKumarJha/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/RohanKumarJha/LeetCode/tree/master/0283-move-zeroes) |
 | [0861-flipping-an-image](https://github.com/RohanKumarJha/LeetCode/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/RohanKumarJha/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/RohanKumarJha/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
