@@ -14,6 +14,7 @@ I solved the leetCode problems and upload here daily.
 | [0035-search-insert-position](https://github.com/RohanKumarJha/LeetCode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/RohanKumarJha/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/RohanKumarJha/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/RohanKumarJha/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/RohanKumarJha/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/RohanKumarJha/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/RohanKumarJha/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -104,6 +105,7 @@ I solved the leetCode problems and upload here daily.
 | [0002-add-two-numbers](https://github.com/RohanKumarJha/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/RohanKumarJha/LeetCode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/RohanKumarJha/LeetCode/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/RohanKumarJha/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/RohanKumarJha/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/RohanKumarJha/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/RohanKumarJha/LeetCode/tree/master/0069-sqrtx) |
@@ -168,6 +170,7 @@ I solved the leetCode problems and upload here daily.
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/RohanKumarJha/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/RohanKumarJha/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/RohanKumarJha/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
