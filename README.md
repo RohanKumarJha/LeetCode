@@ -17,6 +17,7 @@ I solved the leetCode problems and upload here daily.
 | [0048-rotate-image](https://github.com/RohanKumarJha/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/RohanKumarJha/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/RohanKumarJha/LeetCode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/RohanKumarJha/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/RohanKumarJha/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/RohanKumarJha/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -89,6 +90,7 @@ I solved the leetCode problems and upload here daily.
 | ------- |
 | [0001-two-sum](https://github.com/RohanKumarJha/LeetCode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/RohanKumarJha/LeetCode/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/RohanKumarJha/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/RohanKumarJha/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/RohanKumarJha/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RohanKumarJha/LeetCode/tree/master/0217-contains-duplicate) |
@@ -172,6 +174,7 @@ I solved the leetCode problems and upload here daily.
 | ------- |
 | [0048-rotate-image](https://github.com/RohanKumarJha/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/RohanKumarJha/LeetCode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/RohanKumarJha/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/RohanKumarJha/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/RohanKumarJha/LeetCode/tree/master/0566-reshape-the-matrix) |
