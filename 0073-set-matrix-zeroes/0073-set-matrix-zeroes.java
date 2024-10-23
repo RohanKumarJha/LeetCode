@@ -1,26 +1,28 @@
 class Solution {
     public void setZeroes(int[][] matrix) {
-        int row=matrix.length;
-        int col=matrix[0].length;
-        int[] arr1 = new int[row];
+        int row = matrix.length;
+        int col = matrix[0].length;
+        int[] rowMat = new int[row];
+        int[] colMat = new int[col];
         for(int i=0; i<row; i++) {
-            arr1[i] = 0;
+            rowMat[i] = 0;
         }
-        int[] arr2 = new int[col];
         for(int i=0; i<col; i++) {
-            arr2[i] = 0;
+            colMat[i] = 0;
         }
         for(int i=0; i<row; i++) {
             for(int j=0; j<col; j++) {
                 if(matrix[i][j]==0) {
-                    arr1[i] = 1;
-                    arr2[j] = 1;
+                    rowMat[i] = 1;
+                    colMat[j] = 1;
                 }
             }
         }
         for(int i=0; i<row; i++) {
             for(int j=0; j<col; j++) {
-                if(arr1[i]==1 || arr2[j]==1) matrix[i][j]=0;
+                if(rowMat[i]==1 || colMat[j]==1) {
+                    matrix[i][j]=0;
+                }
             }
         }
     }
