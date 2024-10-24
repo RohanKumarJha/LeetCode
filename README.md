@@ -15,6 +15,7 @@ I solved the leetCode problems and upload here daily.
 | [0041-first-missing-positive](https://github.com/RohanKumarJha/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/RohanKumarJha/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/RohanKumarJha/LeetCode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/RohanKumarJha/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/RohanKumarJha/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/RohanKumarJha/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/RohanKumarJha/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -244,6 +245,7 @@ I solved the leetCode problems and upload here daily.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/RohanKumarJha/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/RohanKumarJha/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/RohanKumarJha/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/RohanKumarJha/LeetCode/tree/master/0191-number-of-1-bits) |
@@ -252,6 +254,7 @@ I solved the leetCode problems and upload here daily.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RohanKumarJha/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/RohanKumarJha/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/RohanKumarJha/LeetCode/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/RohanKumarJha/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0119-pascals-triangle-ii) |
