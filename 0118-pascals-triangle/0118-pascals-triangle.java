@@ -1,7 +1,7 @@
 class Solution {
     public List<List<Integer>> generate(int numRows) {
-        List<List<Integer>>result = new ArrayList<>();
-        if(numRows == 0) return result;
+        List<List<Integer>> result = new ArrayList<>();
+        if(numRows == 0 ) return result;
         List<Integer> firstRow = new ArrayList<>();
         firstRow.add(1);
         result.add(firstRow);
@@ -11,8 +11,7 @@ class Solution {
             curRow.add(1);
             for(int j=1; j<i; j++) {
                 curRow.add(preRow.get(j-1)+preRow.get(j));
-            }
-            curRow.add(1);
+            } curRow.add(1);
             result.add(curRow);
         } return result;
     }
