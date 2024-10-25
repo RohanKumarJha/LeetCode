@@ -39,6 +39,7 @@ I solved the leetCode problems and upload here daily.
 | [0240-search-a-2d-matrix-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/RohanKumarJha/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0477-total-hamming-distance](https://github.com/RohanKumarJha/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/RohanKumarJha/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RohanKumarJha/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -201,6 +202,7 @@ I solved the leetCode problems and upload here daily.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RohanKumarJha/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/RohanKumarJha/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/RohanKumarJha/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0861-flipping-an-image](https://github.com/RohanKumarJha/LeetCode/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/RohanKumarJha/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/RohanKumarJha/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -229,6 +231,7 @@ I solved the leetCode problems and upload here daily.
 | [0240-search-a-2d-matrix-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/RohanKumarJha/LeetCode/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/RohanKumarJha/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/RohanKumarJha/LeetCode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RohanKumarJha/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -321,6 +324,7 @@ I solved the leetCode problems and upload here daily.
 | [0191-number-of-1-bits](https://github.com/RohanKumarJha/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/RohanKumarJha/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/RohanKumarJha/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/RohanKumarJha/LeetCode/tree/master/0342-power-of-four) |
 | [0477-total-hamming-distance](https://github.com/RohanKumarJha/LeetCode/tree/master/0477-total-hamming-distance) |
