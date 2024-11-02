@@ -98,6 +98,7 @@ I solved the leetCode problems and upload here daily.
 | [0128-longest-consecutive-sequence](https://github.com/RohanKumarJha/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/RohanKumarJha/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RohanKumarJha/LeetCode/tree/master/0217-contains-duplicate) |
+| [0264-ugly-number-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/RohanKumarJha/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RohanKumarJha/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -119,6 +120,7 @@ I solved the leetCode problems and upload here daily.
 | [0189-rotate-array](https://github.com/RohanKumarJha/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/RohanKumarJha/LeetCode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/RohanKumarJha/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0264-ugly-number-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/RohanKumarJha/LeetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/RohanKumarJha/LeetCode/tree/master/0412-fizz-buzz) |
@@ -263,6 +265,7 @@ I solved the leetCode problems and upload here daily.
 | [0119-pascals-triangle-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RohanKumarJha/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0241-different-ways-to-add-parentheses](https://github.com/RohanKumarJha/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0264-ugly-number-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/RohanKumarJha/LeetCode/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/RohanKumarJha/LeetCode/tree/master/1013-fibonacci-number) |
 ## Stack
@@ -347,6 +350,7 @@ I solved the leetCode problems and upload here daily.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0264-ugly-number-ii) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/RohanKumarJha/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Interactive
 |  |
