@@ -120,6 +120,7 @@ I solved the leetCode problems and upload here daily.
 | [0189-rotate-array](https://github.com/RohanKumarJha/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/RohanKumarJha/LeetCode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/RohanKumarJha/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0263-ugly-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/RohanKumarJha/LeetCode/tree/master/0342-power-of-four) |
