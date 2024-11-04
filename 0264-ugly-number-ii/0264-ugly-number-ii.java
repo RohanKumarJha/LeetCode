@@ -6,13 +6,12 @@ class Solution {
 
         for (int i = 1; i < 1690; i++) {
             num[i] = Math.min(Math.min(2*num[i2], 3*num[i3]), 5*num[i5]);
-            ugly = num[i];
 
-            if (num[i2] * 2 == ugly)
+            if (num[i2] * 2 == num[i])
                 i2++;
-            if (num[i3] * 3 == ugly)
+            if (num[i3] * 3 == num[i])
                 i3++;
-            if (num[i5] * 5 == ugly)
+            if (num[i5] * 5 == num[i])
                 i5++;
         }
 
