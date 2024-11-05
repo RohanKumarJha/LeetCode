@@ -135,6 +135,7 @@ I solved the leetCode problems and upload here daily.
 | [1230-maximum-of-absolute-value-expression](https://github.com/RohanKumarJha/LeetCode/tree/master/1230-maximum-of-absolute-value-expression) |
 | [1284-four-divisors](https://github.com/RohanKumarJha/LeetCode/tree/master/1284-four-divisors) |
 | [1289-day-of-the-week](https://github.com/RohanKumarJha/LeetCode/tree/master/1289-day-of-the-week) |
+| [1307-ugly-number-iii](https://github.com/RohanKumarJha/LeetCode/tree/master/1307-ugly-number-iii) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/RohanKumarJha/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/RohanKumarJha/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/RohanKumarJha/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
@@ -242,6 +243,7 @@ I solved the leetCode problems and upload here daily.
 | [0792-binary-search](https://github.com/RohanKumarJha/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/RohanKumarJha/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/RohanKumarJha/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1307-ugly-number-iii](https://github.com/RohanKumarJha/LeetCode/tree/master/1307-ugly-number-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/RohanKumarJha/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RohanKumarJha/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/RohanKumarJha/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -297,6 +299,7 @@ I solved the leetCode problems and upload here daily.
 ## Number Theory
 |  |
 | ------- |
+| [1307-ugly-number-iii](https://github.com/RohanKumarJha/LeetCode/tree/master/1307-ugly-number-iii) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/RohanKumarJha/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Counting
 |  |
@@ -366,6 +369,7 @@ I solved the leetCode problems and upload here daily.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/RohanKumarJha/LeetCode/tree/master/0062-unique-paths) |
+| [1307-ugly-number-iii](https://github.com/RohanKumarJha/LeetCode/tree/master/1307-ugly-number-iii) |
 ## Memoization
 |  |
 | ------- |
