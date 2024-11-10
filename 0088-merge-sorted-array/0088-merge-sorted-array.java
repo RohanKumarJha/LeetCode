@@ -1,8 +1,22 @@
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
-        for(int i=m; i<m+n; i++) {
-            nums1[i] = nums2[i-m];
-        } 
-        Arrays.sort(nums1);
+        int n1=m-1, n2=n-1;
+        for(int i=m+n-1; i>=0; i--) {
+            if(n1>=0 && n2>=0) {
+                if(nums1[n1]>nums2[n2]) {
+                nums1[i]=nums1[n1];
+                n1--;
+                } else if(nums1[n1]<=nums2[n2]) {
+                nums1[i]=nums2[n2];
+                n2--;
+                }
+            } else if(n1 < 0) {
+                nums1[i] = nums2[n2];
+                n2--;
+            } else if(n2 < 0) {
+                nums1[i] = nums1[n1];
+                n1--;
+            }
+        }
     }
 }
