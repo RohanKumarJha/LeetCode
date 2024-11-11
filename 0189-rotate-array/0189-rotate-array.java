@@ -4,13 +4,11 @@ class Solution {
         int[] arr = new int[n];
         k = k%n;
         for(int i=0; i<n; i++) {
-            int pos = n-k+i;
-            if(pos < n) arr[i] = nums[pos];
-            else arr[i] = nums[pos-n];
+            if(n-k+i < n) arr[i] = nums[n-k+i];
+            else arr[i] = nums[n-k+i-n];
         }
         for(int i=0; i<n; i++) {
             nums[i] = arr[i];
         }
-
     }
 }
