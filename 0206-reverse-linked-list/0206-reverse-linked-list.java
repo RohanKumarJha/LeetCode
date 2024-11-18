@@ -9,18 +9,13 @@
  * }
  */
 class Solution {
-    static ListNode recursive(ListNode head)
-    {
-         if(head==null || head.next==null){
-            return head;
-        }
-         ListNode newhead=recursive(head.next);
-            head.next.next=head;
-            head.next=null;
-            return newhead;
-    }
     public ListNode reverseList(ListNode head) {
-        ListNode ans=recursive(head);
-        return ans;
+        ListNode curr=head, prev=null, temp;
+        while(curr!=null) {
+            temp = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = temp;
+        } return prev;
     }
 }
