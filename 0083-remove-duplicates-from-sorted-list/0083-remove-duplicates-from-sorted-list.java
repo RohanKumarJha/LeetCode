@@ -19,6 +19,7 @@ class Solution {
                 temp = t1;
             } t1 = t1.next;
             temp.next = null;
-        } return ln.next;
+        } 
+        return ln.next;
     }
 }
