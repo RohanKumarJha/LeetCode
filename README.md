@@ -150,6 +150,7 @@ I solved the leetCode problems and upload here daily.
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/RohanKumarJha/LeetCode/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0179-largest-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/RohanKumarJha/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0412-fizz-buzz](https://github.com/RohanKumarJha/LeetCode/tree/master/0412-fizz-buzz) |
@@ -291,6 +292,7 @@ I solved the leetCode problems and upload here daily.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/RohanKumarJha/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RohanKumarJha/LeetCode/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
