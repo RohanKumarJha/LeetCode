@@ -3,9 +3,7 @@ class Solution {
         String[] arr = sentence.split(" ");
         int n = arr.length;
         for(int i=0; i<n; i++) {
-            if(arr[i].startsWith(searchWord)) {
-                return i+1;
-            }
+            if(arr[i].startsWith(searchWord)) return i+1;
         } return -1;
     }
 }
