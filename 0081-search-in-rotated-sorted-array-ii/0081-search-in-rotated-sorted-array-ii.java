@@ -4,6 +4,9 @@ class Solution {
         while(s <= e) {
             int mid=(e-s)/2+s;
             if(nums[mid] == target) return true;
+            else if(nums[s]==nums[mid] & nums[mid]==nums[e]) {
+                s++; e--;
+            }
             else if(nums[s]<=nums[mid]) {
                 if(nums[s]<=target && target<nums[mid]) e=mid-1;
                 else s=mid+1;
