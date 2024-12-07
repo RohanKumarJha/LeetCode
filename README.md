@@ -82,6 +82,7 @@ I solved the leetCode problems and upload here daily.
 | [1791-richest-customer-wealth](https://github.com/RohanKumarJha/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/RohanKumarJha/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/RohanKumarJha/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/RohanKumarJha/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1899-count-items-matching-a-rule](https://github.com/RohanKumarJha/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RohanKumarJha/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/RohanKumarJha/LeetCode/tree/master/2048-build-array-from-permutation) |
@@ -280,6 +281,7 @@ I solved the leetCode problems and upload here daily.
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/RohanKumarJha/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/RohanKumarJha/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/RohanKumarJha/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/RohanKumarJha/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RohanKumarJha/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/RohanKumarJha/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Divide and Conquer
