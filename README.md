@@ -44,6 +44,7 @@ I solved the leetCode problems and upload here daily.
 | [0268-missing-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/RohanKumarJha/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0435-non-overlapping-intervals](https://github.com/RohanKumarJha/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0477-total-hamming-distance](https://github.com/RohanKumarJha/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/RohanKumarJha/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RohanKumarJha/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -305,6 +306,7 @@ I solved the leetCode problems and upload here daily.
 | [0241-different-ways-to-add-parentheses](https://github.com/RohanKumarJha/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/RohanKumarJha/LeetCode/tree/master/0338-counting-bits) |
+| [0435-non-overlapping-intervals](https://github.com/RohanKumarJha/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [1013-fibonacci-number](https://github.com/RohanKumarJha/LeetCode/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
@@ -321,6 +323,7 @@ I solved the leetCode problems and upload here daily.
 | [0011-container-with-most-water](https://github.com/RohanKumarJha/LeetCode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0179-largest-number) |
+| [0435-non-overlapping-intervals](https://github.com/RohanKumarJha/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/RohanKumarJha/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Linked List
 |  |
@@ -400,6 +403,7 @@ I solved the leetCode problems and upload here daily.
 | [0217-contains-duplicate](https://github.com/RohanKumarJha/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/RohanKumarJha/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0941-sort-array-by-parity](https://github.com/RohanKumarJha/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/RohanKumarJha/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RohanKumarJha/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
