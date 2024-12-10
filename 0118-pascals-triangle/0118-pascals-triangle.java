@@ -1,18 +1,20 @@
 class Solution {
     public List<List<Integer>> generate(int n) {
         List<List<Integer>> ans = new ArrayList<>();
-        List<Integer> firstRow = new ArrayList<>();
         if(n == 0) return ans;
+        List<Integer> firstRow = new ArrayList<>();
+        List<Integer> preRow = new ArrayList<>();
         firstRow.add(1);
         ans.add(firstRow);
+        preRow = firstRow;
         for(int i=1; i<n; i++) {
-            List<Integer> preRow = ans.get(i-1);
-            List<Integer> curRow = new ArrayList<>();
-            curRow.add(1);
+            List<Integer> currRow = new ArrayList<>();
+            currRow.add(1);
             for(int j=1; j<i; j++) {
-                curRow.add(preRow.get(j-1)+preRow.get(j));
-            } curRow.add(1);
-            ans.add(curRow);
+                currRow.add(preRow.get(j)+preRow.get(j-1));
+            } currRow.add(1);
+            preRow = currRow;
+            ans.add(currRow);
         } return ans;
     }
 }
