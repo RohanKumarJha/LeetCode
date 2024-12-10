@@ -122,6 +122,7 @@ I solved the leetCode problems and upload here daily.
 | [1635-number-of-good-pairs](https://github.com/RohanKumarJha/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/RohanKumarJha/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/RohanKumarJha/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/RohanKumarJha/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Math
 |  |
 | ------- |
@@ -178,6 +179,7 @@ I solved the leetCode problems and upload here daily.
 | [2232-adding-spaces-to-a-string](https://github.com/RohanKumarJha/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/RohanKumarJha/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/RohanKumarJha/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/RohanKumarJha/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3636-check-balanced-string](https://github.com/RohanKumarJha/LeetCode/tree/master/3636-check-balanced-string) |
 ## Simulation
 |  |
@@ -290,6 +292,7 @@ I solved the leetCode problems and upload here daily.
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RohanKumarJha/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2164-two-best-non-overlapping-events](https://github.com/RohanKumarJha/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/RohanKumarJha/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/RohanKumarJha/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/3427-special-array-ii) |
 ## Divide and Conquer
 |  |
@@ -372,6 +375,7 @@ I solved the leetCode problems and upload here daily.
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/RohanKumarJha/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/RohanKumarJha/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/RohanKumarJha/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/RohanKumarJha/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Rejection Sampling
 |  |
 | ------- |
@@ -452,4 +456,8 @@ I solved the leetCode problems and upload here daily.
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/RohanKumarJha/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Sliding Window
+|  |
+| ------- |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/RohanKumarJha/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 <!---LeetCode Topics End-->
