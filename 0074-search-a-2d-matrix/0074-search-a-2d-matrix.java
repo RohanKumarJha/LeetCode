@@ -8,7 +8,9 @@ class Solution {
             if(matrix[mid/col][mid%col] == target) return true;
             else if(matrix[mid/col][mid%col] < target) {
                 s = mid+1;
-            } else e=mid-1;
-        } return false; 
+            } else {
+                e = mid-1;
+            }
+        } return false;
     }
 }
