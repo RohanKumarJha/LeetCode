@@ -5,22 +5,16 @@ class Solution {
         int[] rowMat = new int[row];
         int[] colMat = new int[col];
         for(int i=0; i<row; i++) {
-            rowMat[i] = 0;
-        }
-        for(int i=0; i<col; i++) {
-            colMat[i] = 0;
-        }
-        for(int i=0; i<row; i++) {
             for(int j=0; j<col; j++) {
                 if(matrix[i][j] == 0) {
-                    colMat[j] = 1;
-                    rowMat[i] = 1;
+                    colMat[j] = -1;
+                    rowMat[i] = -1;
                 }
             }
         }
         for(int i=0; i<row; i++) {
             for(int j=0; j<col; j++) {
-                if(rowMat[i]==1 || colMat[j]==1) {
+                if(rowMat[i]==-1 || colMat[j]==-1) {
                     matrix[i][j] = 0;
                 }
             }
