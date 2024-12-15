@@ -3,8 +3,8 @@ class Solution {
         int row = matrix.length;
         int col = matrix[0].length;
         for(int i=0; i<row; i++) {
-            for(int j=i+1; j<col; j++) {
-                if(i!=j) {
+            for(int j=i; j<col; j++) {
+                if(i != j) {
                     int temp = matrix[i][j];
                     matrix[i][j] = matrix[j][i];
                     matrix[j][i] = temp;
@@ -18,7 +18,8 @@ class Solution {
                 int temp = matrix[i][s];
                 matrix[i][s] = matrix[i][e];
                 matrix[i][e] = temp;
-                s++; e--;
+                s += 1;
+                e -= 1;
             }
         }
     }
