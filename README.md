@@ -87,6 +87,7 @@ I solved the leetCode problems and upload here daily.
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/RohanKumarJha/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/RohanKumarJha/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1899-count-items-matching-a-rule](https://github.com/RohanKumarJha/LeetCode/tree/master/1899-count-items-matching-a-rule) |
+| [1917-maximum-average-pass-ratio](https://github.com/RohanKumarJha/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RohanKumarJha/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/RohanKumarJha/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/RohanKumarJha/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -345,6 +346,7 @@ I solved the leetCode problems and upload here daily.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/RohanKumarJha/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [1917-maximum-average-pass-ratio](https://github.com/RohanKumarJha/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/RohanKumarJha/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Linked List
 |  |
@@ -443,6 +445,7 @@ I solved the leetCode problems and upload here daily.
 | ------- |
 | [0264-ugly-number-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0264-ugly-number-ii) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/RohanKumarJha/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1917-maximum-average-pass-ratio](https://github.com/RohanKumarJha/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/RohanKumarJha/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/RohanKumarJha/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/RohanKumarJha/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
