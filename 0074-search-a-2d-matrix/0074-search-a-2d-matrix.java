@@ -2,7 +2,8 @@ class Solution {
     public boolean searchMatrix(int[][] matrix, int target) {
         int row = matrix.length;
         int col = matrix[0].length;
-        int s=0, e=row*col-1;
+        int n = row*col;
+        int s=0, e=n-1;
         while(s<=e) {
             int mid = (e-s)/2+s;
             if(matrix[mid/col][mid%col] == target) return true;
