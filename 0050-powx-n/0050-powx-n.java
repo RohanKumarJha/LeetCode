@@ -1,11 +1,11 @@
 class Solution {
-    public double power(double x,long n) {
+    public double pow(double x, long n) {
         if(n == 0) return 1;
-        if(n < 0) return 1.0/power(x, -n);
-        if(n % 2 == 0) return power(x*x,n/2);
-        else return x*power(x*x,(n-1)/2);
+        if(n < 0) return 1.0/pow(x,-n);
+        if(n % 2 == 0) return pow(x*x,n/2);
+        else return x*pow(x*x,(n-1)/2);
     }
     public double myPow(double x, int n) {
-        return power(x,(long) n);
+        return pow(x,(long)n);
     }
 }
