@@ -10,23 +10,23 @@
  */
 class Solution {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
-        ListNode result = new ListNode();
-        ListNode ll = result;
+        ListNode temp = new ListNode();
+        ListNode answer = temp;
         while(list1!=null || list2!=null) {
-            if(list1==null) {
-                ll.next = list2;
+            if(list1 == null) {
+                answer.next = list2;
                 list2 = list2.next;
-            } else if(list2==null) {
-                ll.next = list1;
+            } else if(list2 == null) {
+                answer.next = list1;
                 list1 = list1.next;
             } else if(list1.val > list2.val) {
-                ll.next = list2;
+                answer.next = list2;
                 list2 = list2.next;
             } else {
-                ll.next = list1;
+                answer.next = list1;
                 list1 = list1.next;
             }
-            ll = ll.next;
-        } return result.next;
+            answer = answer.next;
+        } return temp.next;
     }
 }
