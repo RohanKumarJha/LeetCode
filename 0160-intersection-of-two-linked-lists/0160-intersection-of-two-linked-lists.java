@@ -10,13 +10,12 @@
  * }
  */
 public class Solution {
-    public int size(ListNode head) {
-        int len = 0;
-        ListNode temp = head;
+    public static int size(ListNode temp) {
+        int size=0;
         while(temp != null) {
-            len += 1;
+            size += 1;
             temp = temp.next;
-        } return len;
+        } return size;
     }
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
         int size1 = size(headA);
@@ -29,7 +28,7 @@ public class Solution {
                 temp2 = temp2.next;
                 size1 -= 1;
                 size2 -= 1;
-            } else if(size1>size2) {
+            } else if(size1 > size2) {
                 temp1 = temp1.next;
                 size1 -= 1;
             } else {
