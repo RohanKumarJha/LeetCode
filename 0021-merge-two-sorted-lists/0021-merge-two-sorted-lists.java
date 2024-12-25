@@ -25,7 +25,8 @@ class Solution {
             } else {
                 curr.next = list1;
                 list1 = list1.next;
-            } curr = curr.next;
+            }
+            curr = curr.next;
         } return temp.next;
     }
 }
