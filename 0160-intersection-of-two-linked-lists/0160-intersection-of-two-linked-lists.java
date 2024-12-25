@@ -10,30 +10,28 @@
  * }
  */
 public class Solution {
-    public static int size(ListNode temp) {
-        int size=0;
+    public int len(ListNode temp) {
+        int len=0;
         while(temp != null) {
-            size += 1;
+            len+=1;
             temp = temp.next;
-        } return size;
+        } return len;
     }
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
-        int size1 = size(headA);
-        int size2 = size(headB);
-        ListNode temp1 = headA;
-        ListNode temp2 = headB;
+        ListNode temp1=headA, temp2=headB;
+        int len1=len(headA), len2=len(headB);
         while(temp1 != temp2) {
-            if(size1 == size2) {
+            if(len1 > len2) {
                 temp1 = temp1.next;
+                len1 -= 1;
+            } else if(len1 < len2) {
                 temp2 = temp2.next;
-                size1 -= 1;
-                size2 -= 1;
-            } else if(size1 > size2) {
-                temp1 = temp1.next;
-                size1 -= 1;
+                len2 -= 1;
             } else {
+                temp1 = temp1.next;
                 temp2 = temp2.next;
-                size2 -= 1;
+                len1 -= 1;
+                len2 -= 1;
             }
         } return temp1;
     }
