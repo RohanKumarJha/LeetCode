@@ -86,6 +86,7 @@ I solved the leetCode problems and upload here daily.
 | [1651-shuffle-string](https://github.com/RohanKumarJha/LeetCode/tree/master/1651-shuffle-string) |
 | [1677-matrix-diagonal-sum](https://github.com/RohanKumarJha/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/RohanKumarJha/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/RohanKumarJha/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/RohanKumarJha/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/RohanKumarJha/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/RohanKumarJha/LeetCode/tree/master/1833-find-the-highest-altitude) |
@@ -186,6 +187,7 @@ I solved the leetCode problems and upload here daily.
 | [1205-defanging-an-ip-address](https://github.com/RohanKumarJha/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/RohanKumarJha/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1651-shuffle-string](https://github.com/RohanKumarJha/LeetCode/tree/master/1651-shuffle-string) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/RohanKumarJha/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/RohanKumarJha/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/RohanKumarJha/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/RohanKumarJha/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
@@ -344,6 +346,7 @@ I solved the leetCode problems and upload here daily.
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/RohanKumarJha/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1013-fibonacci-number](https://github.com/RohanKumarJha/LeetCode/tree/master/1013-fibonacci-number) |
 | [1063-best-sightseeing-pair](https://github.com/RohanKumarJha/LeetCode/tree/master/1063-best-sightseeing-pair) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/RohanKumarJha/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2164-two-best-non-overlapping-events](https://github.com/RohanKumarJha/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 ## Stack
 |  |
