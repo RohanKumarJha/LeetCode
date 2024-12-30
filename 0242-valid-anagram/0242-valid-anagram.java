@@ -11,8 +11,15 @@ class Solution {
     }
     public boolean isAnagram(String s, String t) {
         if(s.length() != t.length()) return false;
-        Map<Character, Integer> map1 = makeFreqMap(s);
-        Map<Character, Integer> map2 = makeFreqMap(t);
-        return map1.equals(map2);
+        Map<Character, Integer> map = makeFreqMap(s);
+        for(int i=0; i<t.length(); i++) {
+            if(!map.containsKey(t.charAt(i))) return false;
+            else {
+                map.put(t.charAt(i), map.get(t.charAt(i))-1);
+            }
+        }
+        for(var i : map.values()) {
+            if(i!=0) return false;
+        } return true;
     }
 }
