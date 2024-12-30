@@ -127,6 +127,7 @@ I solved the leetCode problems and upload here daily.
 | [0169-majority-element](https://github.com/RohanKumarJha/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RohanKumarJha/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/RohanKumarJha/LeetCode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/RohanKumarJha/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -182,6 +183,7 @@ I solved the leetCode problems and upload here daily.
 | [0020-valid-parentheses](https://github.com/RohanKumarJha/LeetCode/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0179-largest-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/RohanKumarJha/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0242-valid-anagram](https://github.com/RohanKumarJha/LeetCode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/RohanKumarJha/LeetCode/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/RohanKumarJha/LeetCode/tree/master/0742-to-lower-case) |
 | [1205-defanging-an-ip-address](https://github.com/RohanKumarJha/LeetCode/tree/master/1205-defanging-an-ip-address) |
@@ -457,6 +459,7 @@ I solved the leetCode problems and upload here daily.
 | [0179-largest-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/RohanKumarJha/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/RohanKumarJha/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/RohanKumarJha/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0780-max-chunks-to-make-sorted](https://github.com/RohanKumarJha/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
