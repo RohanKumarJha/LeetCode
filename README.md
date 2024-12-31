@@ -63,6 +63,7 @@ I solved the leetCode problems and upload here daily.
 | [0907-koko-eating-bananas](https://github.com/RohanKumarJha/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/RohanKumarJha/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/RohanKumarJha/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1025-minimum-cost-for-tickets](https://github.com/RohanKumarJha/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1031-add-to-array-form-of-integer](https://github.com/RohanKumarJha/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1063-best-sightseeing-pair](https://github.com/RohanKumarJha/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1230-maximum-of-absolute-value-expression](https://github.com/RohanKumarJha/LeetCode/tree/master/1230-maximum-of-absolute-value-expression) |
@@ -349,6 +350,7 @@ I solved the leetCode problems and upload here daily.
 | [0494-target-sum](https://github.com/RohanKumarJha/LeetCode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/RohanKumarJha/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1013-fibonacci-number](https://github.com/RohanKumarJha/LeetCode/tree/master/1013-fibonacci-number) |
+| [1025-minimum-cost-for-tickets](https://github.com/RohanKumarJha/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/RohanKumarJha/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/RohanKumarJha/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2164-two-best-non-overlapping-events](https://github.com/RohanKumarJha/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
