@@ -1,19 +1,19 @@
 class Solution {
     public int waysToSplitArray(int[] nums) {
-        int n = nums.length;
-        long[] arr1 = new long[n];
-        long[] arr2 = new long[n];
-        for(int i=0; i<n; i++) {
-            if(i==0) arr1[i] = nums[i];
-            else arr1[i] = arr1[i-1]+nums[i];
+        long leftSum = 0, rightSum = 0;
+        for (int num : nums) {
+            rightSum += num;
         }
-        for(int i=n-1; i>=0; i--) {
-            if(i==n-1) arr2[i]=nums[i];
-            else arr2[i]=arr2[i+1]+nums[i];
+
+        int validSplits = 0;
+        for (int i = 0; i < nums.length - 1; i++) {
+            leftSum += nums[i];
+            rightSum -= nums[i];
+            if (leftSum >= rightSum) {
+                validSplits++;
+            }
         }
-        int count=0;
-        for(int i=0; i<n-1; i++) {
-            if(arr1[i]>=arr2[i+1]) count++;
-        } return count;
+
+        return validSplits;
     }
 }
