@@ -106,6 +106,7 @@ I solved the leetCode problems and upload here daily.
 | [2271-rearrange-array-elements-by-sign](https://github.com/RohanKumarJha/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2358-number-of-ways-to-split-array](https://github.com/RohanKumarJha/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/RohanKumarJha/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
+| [2465-shifting-letters-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/RohanKumarJha/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/RohanKumarJha/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/RohanKumarJha/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -208,6 +209,7 @@ I solved the leetCode problems and upload here daily.
 | [2232-adding-spaces-to-a-string](https://github.com/RohanKumarJha/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/RohanKumarJha/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/RohanKumarJha/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2465-shifting-letters-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/RohanKumarJha/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/RohanKumarJha/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/RohanKumarJha/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -296,6 +298,7 @@ I solved the leetCode problems and upload here daily.
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RohanKumarJha/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RohanKumarJha/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/RohanKumarJha/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/RohanKumarJha/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/3427-special-array-ii) |
 ## Binary Search
