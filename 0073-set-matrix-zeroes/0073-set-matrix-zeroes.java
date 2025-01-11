@@ -2,21 +2,20 @@ class Solution {
     public void setZeroes(int[][] matrix) {
         int row = matrix.length;
         int col = matrix[0].length;
-        int[] rowMat = new int[row];
-        int[] colMat = new int[col];
+        boolean[] rowArr = new boolean[row];
+        boolean[] colArr = new boolean[col];
         for(int i=0; i<row; i++) {
             for(int j=0; j<col; j++) {
                 if(matrix[i][j] == 0) {
-                    colMat[j] = -1;
-                    rowMat[i] = -1;
+                    rowArr[i] = true;
+                    colArr[j] = true;
                 }
             }
         }
+
         for(int i=0; i<row; i++) {
             for(int j=0; j<col; j++) {
-                if(rowMat[i]==-1 || colMat[j]==-1) {
-                    matrix[i][j] = 0;
-                }
+                if(rowArr[i]==true | colArr[j]==true) matrix[i][j]=0;
             }
         }
     }
