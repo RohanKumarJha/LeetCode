@@ -1,7 +1,7 @@
 class Solution {
     public void setZeroes(int[][] matrix) {
-        int row = matrix.length;
-        int col = matrix[0].length;
+        int row=matrix.length;
+        int col=matrix[0].length;
         boolean[] rowArr = new boolean[row];
         boolean[] colArr = new boolean[col];
         for(int i=0; i<row; i++) {
