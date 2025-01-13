@@ -11,15 +11,14 @@ class Solution {
                 }
             }
         }
-        // Now reverse 
+
         for(int i=0; i<row; i++) {
-            int s=0, e=col-1;
-            while(s<e) {
-                int temp = matrix[i][s];
-                matrix[i][s] = matrix[i][e];
-                matrix[i][e] = temp;
-                s += 1;
-                e -= 1;
+        int start=0, end=col-1;
+            while(start < end) {
+                int temp = matrix[i][start];
+                matrix[i][start] = matrix[i][end];
+                matrix[i][end] = temp;
+                start++; end--;
             }
         }
     }
