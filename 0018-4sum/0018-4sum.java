@@ -1,34 +1,27 @@
 class Solution {
     public List<List<Integer>> fourSum(int[] nums, int target) {
+        int len = nums.length;
+        Arrays.sort(nums);
         List<List<Integer>> result = new ArrayList<>();
-        Set<List<Integer>> resultSet = new HashSet<>();  
-        Arrays.sort(nums); 
-        for (int i = 0; i < nums.length - 3; i++) {
-            for (int j = i + 1; j < nums.length - 2; j++) {
-                int left = j + 1;
-                int right = nums.length - 1;
-                while (left < right) {
-                    long sum=(long)nums[i]+nums[j]+nums[left]+nums[right];
-                    if (sum == target) {
-                        List<Integer> arr = new ArrayList<>();
-                        arr.add(nums[i]);
-                        arr.add(nums[j]);
-                        arr.add(nums[left]);
-                        arr.add(nums[right]);
-                        
-                        if (!resultSet.contains(arr)) {
-                            resultSet.add(arr); 
-                        } 
-                        left++;
-                        right--;
-                    } else if (sum <= target) {
-                        left++;
-                    } else if(sum > target){
-                        right--;
-                    }
+        Set<List<Integer>> set = new HashSet<>();
+        for(int i=0; i<len-3; i++) {
+            for(int j=i+1; j<len-2; j++) {
+                int k=j+1, l=len-1;
+                while(k < l) {
+                    List<Integer> list = new ArrayList<>();
+                    long sum = (long)nums[i]+(long)nums[j]+(long)nums[k]+(long)nums[l];
+                    if(sum == target) {
+                        list.add(nums[i]);
+                        list.add(nums[j]);
+                        list.add(nums[k]);
+                        list.add(nums[l]);
+                        set.add(list);
+                        k++; l--;
+                    } else if(sum < target) k++;
+                    else l--;
                 }
             }
-        } result.addAll(resultSet); 
+        } result.addAll(set);
         return result;
     }
 }
