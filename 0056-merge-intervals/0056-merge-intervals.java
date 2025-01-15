@@ -14,9 +14,7 @@ class Solution {
                 prev = interval;
             }
         }
-
         merged.add(prev);
-
         return merged.toArray(new int[merged.size()][]);         
     }
 }
