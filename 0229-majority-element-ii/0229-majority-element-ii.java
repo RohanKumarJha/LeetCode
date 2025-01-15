@@ -1,17 +1,16 @@
 class Solution {
     public List<Integer> majorityElement(int[] nums) {
-        int len = nums.length;
-        List<Integer> list = new ArrayList<>();
-        Map<Integer, Integer> hm = new HashMap<>();
-        for(int i=0; i<len; i++) {
-            if(!hm.containsKey(nums[i])) {
-                hm.put(nums[i],1);
+        List<Integer> result = new ArrayList<>();
+        Map<Integer,Integer> map = new HashMap<>();
+        for(var num : nums) {
+            if(!map.containsKey(num)) {
+                map.put(num,1);
             } else {
-                hm.put(nums[i],hm.get(nums[i])+1);
+                map.put(num,map.get(num)+1);
             }
         }
-        for(var i : hm.keySet()) {
-            if(hm.get(i) > len/3) list.add(i);
-        } return list;
+        for(var i : map.keySet()) {
+            if(map.get(i) > nums.length/3) result.add(i);
+        } return result;
     }
 }
