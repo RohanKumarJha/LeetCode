@@ -1,45 +1,40 @@
 class Solution {
+    void swap(int[] nums,int start,int end) {
+        int temp = nums[start];
+        nums[start] = nums[end];
+        nums[end] = temp;
+    }
+    void reverse(int[] nums,int start,int end) {
+        while(start < end) {
+            swap(nums,start,end);
+            start++; end--;
+        }
+    }
     public void nextPermutation(int[] nums) {
-        int ind1=-1;
-        int ind2=-1;
-        // step 1 find breaking point 
-        for(int i=nums.length-2;i>=0;i--){
-            if(nums[i]<nums[i+1]){
-                ind1=i;
+        int idx1 = -1;
+        int idx2 = -1;
+
+        // Find the breaking point
+        for(int i=nums.length-2; i>=0; i--) {
+            if(nums[i] < nums[i+1]) {
+                idx1 = i;
                 break;
             }
         }
-        // if there is no breaking  point 
-        if(ind1==-1){
-            reverse(nums,0);
-        }
-        
-        else{
-            // step 2 find next greater element and swap with ind2
-            for(int i=nums.length-1;i>=0;i--){
-                if(nums[i]>nums[ind1]){
-                    ind2=i;
+
+        if(idx1 == -1) { // Array is sorted in desc order
+            reverse(nums,0,nums.length-1);
+        } else {
+            // Find the minimum element
+            for(int i=nums.length-1; i>idx1; i--) {
+                if(nums[i]>nums[idx1]) {
+                    idx2 = i;
                     break;
                 }
             }
-
-            swap(nums,ind1,ind2);
-            // step 3 reverse the rest right half
-            reverse(nums,ind1+1);
-        }
-    }
-    void swap(int[] nums,int i,int j){
-        int temp=nums[i];
-        nums[i]=nums[j];
-        nums[j]=temp;
-    }
-    void reverse(int[] nums,int start){
-        int i=start;
-        int j=nums.length-1;
-        while(i<j){
-            swap(nums,i,j);
-            i++;
-            j--;
+            // swap idx1 to idx2
+            if(idx2 != -1) swap(nums,idx1,idx2);
+            reverse(nums,idx1+1,nums.length-1);
         }
     }
 }
