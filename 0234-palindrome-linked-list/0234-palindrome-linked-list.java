@@ -19,33 +19,38 @@ class Solution {
         if(len == 0) return false;
         if(len == 1) return true;
 
-        Stack<Integer> st = new Stack<>();
-        // If len is even
-        int mid = len/2;
         temp = head;
-        if(len % 2 == 0) {
-            for(int i=0; i<len; i++) {
-                if(i < mid) {
-                    st.push(temp.val);
-                } else {
-                    if(st.peek() == temp.val) st.pop();
-                    else return false;
-                }
+        if(len % 2 != 0) {
+            for(int i=0; i<len/2-1; i++) {
                 temp = temp.next;
             }
+            temp.next = temp.next.next;
         }
 
-        // If len is odd
-        if(len % 2 != 0) {
-            for(int i=0; i<len; i++) {
-                if(i < mid) {
-                    st.push(temp.val);
-                } else if(i != mid){
-                    if(st.peek() == temp.val) st.pop();
-                    else return false;
-                }
+        ListNode nextList = null;
+        temp = head;
+        for(int i=0; i<len/2-1; i++) {
+            temp = temp.next;
+        }
+        nextList = temp.next;
+        temp.next = null;
+
+        ListNode prev=null, agla=null, curr=nextList;
+        while(curr != null) {
+            agla = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = agla;
+        }
+
+        temp = head;
+        nextList = prev;
+
+        while(temp != null) {
+            if(temp.val == nextList.val) {
                 temp = temp.next;
-            }
-        } return true;
+                nextList = nextList.next;
+            } else return false;
+        } return true;      
     }
 }
