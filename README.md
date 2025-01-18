@@ -18,6 +18,7 @@ I solved the leetCode problems and upload here daily.
 | [0035-search-insert-position](https://github.com/RohanKumarJha/LeetCode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/RohanKumarJha/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/RohanKumarJha/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/RohanKumarJha/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/RohanKumarJha/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/RohanKumarJha/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/RohanKumarJha/LeetCode/tree/master/0054-spiral-matrix) |
@@ -661,6 +662,7 @@ I solved the leetCode problems and upload here daily.
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/RohanKumarJha/LeetCode/tree/master/0046-permutations) |
 | [0494-target-sum](https://github.com/RohanKumarJha/LeetCode/tree/master/0494-target-sum) |
 ## Trie
 |  |
