@@ -18,9 +18,7 @@ class Solution {
             for(int j=1; j<i; j++) {
                 curr.add(prev.get(j)+prev.get(j-1));
             }
-            if(i!=0) {
-                curr.add(1);
-            }
+            curr.add(1);
             prev = curr;
             list.add(curr);
             curr = new ArrayList<>();
