@@ -4,16 +4,13 @@ class Solution {
         int col = matrix[0].length;
         for(int i=0; i<row; i++) {
             for(int j=i; j<col; j++) {
-                if(i != j) {
-                    int temp = matrix[i][j];
-                    matrix[i][j] = matrix[j][i];
-                    matrix[j][i] = temp;
-                }
+                int temp = matrix[i][j];
+                matrix[i][j] = matrix[j][i];
+                matrix[j][i] = temp;
             }
-        }
-
+        } 
         for(int i=0; i<row; i++) {
-        int start=0, end=col-1;
+            int start=0, end=col-1;
             while(start < end) {
                 int temp = matrix[i][start];
                 matrix[i][start] = matrix[i][end];
