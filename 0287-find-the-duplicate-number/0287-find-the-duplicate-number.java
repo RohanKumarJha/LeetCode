@@ -4,11 +4,11 @@ class Solution {
         do {
             slow = nums[slow];
             fast = nums[nums[fast]];
-        } while(slow!=fast);
-        slow=0;
-        while(slow != fast) {
+        } while(slow !=fast);
+        fast = 0;
+        while(nums[slow] != nums[fast]) {
             slow = nums[slow];
             fast = nums[fast];
-        } return slow;
+        } return nums[fast];
     }
 }
