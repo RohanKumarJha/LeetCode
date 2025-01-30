@@ -598,6 +598,7 @@ I solved the leetCode problems and upload here daily.
 | [0128-longest-consecutive-sequence](https://github.com/RohanKumarJha/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0684-redundant-connection](https://github.com/RohanKumarJha/LeetCode/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/RohanKumarJha/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/RohanKumarJha/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/RohanKumarJha/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## String Matching
 |  |
@@ -668,6 +669,7 @@ I solved the leetCode problems and upload here daily.
 | [1876-map-of-highest-peak](https://github.com/RohanKumarJha/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/RohanKumarJha/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/RohanKumarJha/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/RohanKumarJha/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/RohanKumarJha/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
@@ -696,6 +698,7 @@ I solved the leetCode problems and upload here daily.
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RohanKumarJha/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/RohanKumarJha/LeetCode/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/RohanKumarJha/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/RohanKumarJha/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/RohanKumarJha/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Backtracking
 |  |
