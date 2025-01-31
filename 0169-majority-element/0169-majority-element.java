@@ -1,16 +1,12 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        int len = nums.length;
-        HashMap<Integer, Integer> hm = new HashMap<>();
-        for(int i=0; i<len; i++) {
-            if(!hm.containsKey(nums[i])) {
-                hm.put(nums[i],1);
-            } else {
-                hm.put(nums[i],hm.get(nums[i])+1);
+        int n = nums.length;
+        for(int i=0; i<n; i++) {
+            int count = 0;
+            for(int j=0; j<n; j++) {
+                if(nums[i] == nums[j]) count++;
             }
-        }
-        for(var i : hm.keySet()) {
-            if(hm.get(i)>len/2) return i;
+            if(count > n/2) return nums[i];
         } return 0;
     }
 }
