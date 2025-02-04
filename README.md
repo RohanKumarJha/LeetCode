@@ -107,6 +107,7 @@ I solved the leetCode problems and upload here daily.
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RohanKumarJha/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1899-count-items-matching-a-rule](https://github.com/RohanKumarJha/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1917-maximum-average-pass-ratio](https://github.com/RohanKumarJha/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/RohanKumarJha/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/RohanKumarJha/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RohanKumarJha/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/RohanKumarJha/LeetCode/tree/master/2048-build-array-from-permutation) |
