@@ -166,6 +166,7 @@ I solved the leetCode problems and upload here daily.
 | [1502-construct-k-palindrome-strings](https://github.com/RohanKumarJha/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/RohanKumarJha/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/RohanKumarJha/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RohanKumarJha/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/RohanKumarJha/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RohanKumarJha/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/RohanKumarJha/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -235,6 +236,7 @@ I solved the leetCode problems and upload here daily.
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RohanKumarJha/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1899-count-items-matching-a-rule](https://github.com/RohanKumarJha/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/RohanKumarJha/LeetCode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RohanKumarJha/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/RohanKumarJha/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RohanKumarJha/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/RohanKumarJha/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -503,6 +505,7 @@ I solved the leetCode problems and upload here daily.
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/RohanKumarJha/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/RohanKumarJha/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/RohanKumarJha/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RohanKumarJha/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2300-construct-string-with-repeat-limit](https://github.com/RohanKumarJha/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/RohanKumarJha/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Rejection Sampling
