@@ -75,6 +75,7 @@ I solved the leetCode problems and upload here daily.
 | [1063-best-sightseeing-pair](https://github.com/RohanKumarJha/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1230-maximum-of-absolute-value-expression](https://github.com/RohanKumarJha/LeetCode/tree/master/1230-maximum-of-absolute-value-expression) |
 | [1284-four-divisors](https://github.com/RohanKumarJha/LeetCode/tree/master/1284-four-divisors) |
+| [1364-tuple-with-same-product](https://github.com/RohanKumarJha/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/RohanKumarJha/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/RohanKumarJha/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RohanKumarJha/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -161,6 +162,7 @@ I solved the leetCode problems and upload here daily.
 | [0268-missing-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/RohanKumarJha/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0952-word-subsets](https://github.com/RohanKumarJha/LeetCode/tree/master/0952-word-subsets) |
+| [1364-tuple-with-same-product](https://github.com/RohanKumarJha/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RohanKumarJha/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RohanKumarJha/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/RohanKumarJha/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
@@ -499,6 +501,7 @@ I solved the leetCode problems and upload here daily.
 | ------- |
 | [0169-majority-element](https://github.com/RohanKumarJha/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0229-majority-element-ii) |
+| [1364-tuple-with-same-product](https://github.com/RohanKumarJha/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/RohanKumarJha/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RohanKumarJha/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/RohanKumarJha/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
