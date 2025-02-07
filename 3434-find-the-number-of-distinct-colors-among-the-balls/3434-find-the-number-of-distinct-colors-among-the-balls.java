@@ -4,7 +4,7 @@ class Solution {
         int n = queries.length;
         int[] result = new int[n];
         Map<Integer, Integer> colorMap = new HashMap<>();
-        int[] ballArray = new int[limit + 1];
+        Map<Integer, Integer> ballMap = new HashMap<>();
 
         // Iterate through queries
         for (int i = 0; i < n; i++) {
@@ -13,9 +13,9 @@ class Solution {
             int color = queries[i][1];
 
             // Check if ball is already colored
-            if (ballArray[ball] != 0) {
+            if (ballMap.containsKey(ball)) {
                 // Decrement count of the previous color on the ball
-                int prevColor = ballArray[ball];
+                int prevColor = ballMap.get(ball);
                 colorMap.put(prevColor, colorMap.get(prevColor) - 1);
 
                 // If there are no balls with previous color left, remove color from color map
@@ -24,7 +24,7 @@ class Solution {
                 }
             }
             // Set color of ball to the new color
-            ballArray[ball] = color;
+            ballMap.put(ball, color);
 
             // Increment the count of the new color
             colorMap.put(color, colorMap.getOrDefault(color, 0) + 1);
