@@ -142,6 +142,7 @@ I solved the leetCode problems and upload here daily.
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/RohanKumarJha/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/RohanKumarJha/LeetCode/tree/master/3429-special-array-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/RohanKumarJha/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RohanKumarJha/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
@@ -177,6 +178,7 @@ I solved the leetCode problems and upload here daily.
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/RohanKumarJha/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2902-max-pair-sum-in-an-array](https://github.com/RohanKumarJha/LeetCode/tree/master/2902-max-pair-sum-in-an-array) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/RohanKumarJha/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/RohanKumarJha/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Math
 |  |
 | ------- |
@@ -272,6 +274,7 @@ I solved the leetCode problems and upload here daily.
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/RohanKumarJha/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/RohanKumarJha/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/RohanKumarJha/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/RohanKumarJha/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RohanKumarJha/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Concurrency
 |  |
