@@ -126,6 +126,7 @@ I solved the leetCode problems and upload here daily.
 | [2398-check-if-matrix-is-x-matrix](https://github.com/RohanKumarJha/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2448-count-number-of-bad-pairs](https://github.com/RohanKumarJha/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/2465-shifting-letters-ii) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/RohanKumarJha/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/RohanKumarJha/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/RohanKumarJha/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/RohanKumarJha/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -177,6 +178,7 @@ I solved the leetCode problems and upload here daily.
 | [2300-construct-string-with-repeat-limit](https://github.com/RohanKumarJha/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2434-design-a-number-container-system](https://github.com/RohanKumarJha/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/RohanKumarJha/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/RohanKumarJha/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/RohanKumarJha/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/RohanKumarJha/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/RohanKumarJha/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -583,6 +585,7 @@ I solved the leetCode problems and upload here daily.
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/RohanKumarJha/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/RohanKumarJha/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/RohanKumarJha/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/RohanKumarJha/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/RohanKumarJha/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/RohanKumarJha/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/RohanKumarJha/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -597,6 +600,7 @@ I solved the leetCode problems and upload here daily.
 | [2164-two-best-non-overlapping-events](https://github.com/RohanKumarJha/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/RohanKumarJha/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2434-design-a-number-container-system](https://github.com/RohanKumarJha/LeetCode/tree/master/2434-design-a-number-container-system) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/RohanKumarJha/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/RohanKumarJha/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/RohanKumarJha/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/RohanKumarJha/LeetCode/tree/master/2868-continuous-subarrays) |
