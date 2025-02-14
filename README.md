@@ -85,6 +85,7 @@ I solved the leetCode problems and upload here daily.
 | [1435-xor-queries-of-a-subarray](https://github.com/RohanKumarJha/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RohanKumarJha/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/RohanKumarJha/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1477-product-of-the-last-k-numbers](https://github.com/RohanKumarJha/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RohanKumarJha/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RohanKumarJha/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1505-create-target-array-in-the-given-order](https://github.com/RohanKumarJha/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
@@ -221,6 +222,7 @@ I solved the leetCode problems and upload here daily.
 | [1289-day-of-the-week](https://github.com/RohanKumarJha/LeetCode/tree/master/1289-day-of-the-week) |
 | [1307-ugly-number-iii](https://github.com/RohanKumarJha/LeetCode/tree/master/1307-ugly-number-iii) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/RohanKumarJha/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1477-product-of-the-last-k-numbers](https://github.com/RohanKumarJha/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1635-number-of-good-pairs](https://github.com/RohanKumarJha/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/RohanKumarJha/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/RohanKumarJha/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -366,6 +368,7 @@ I solved the leetCode problems and upload here daily.
 | [0209-minimum-size-subarray-sum](https://github.com/RohanKumarJha/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/RohanKumarJha/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/RohanKumarJha/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1477-product-of-the-last-k-numbers](https://github.com/RohanKumarJha/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/RohanKumarJha/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/RohanKumarJha/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/RohanKumarJha/LeetCode/tree/master/1833-find-the-highest-altitude) |
@@ -783,9 +786,14 @@ I solved the leetCode problems and upload here daily.
 ## Design
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/RohanKumarJha/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/RohanKumarJha/LeetCode/tree/master/2434-design-a-number-container-system) |
 ## Counting Sort
 |  |
 | ------- |
 | [0274-h-index](https://github.com/RohanKumarJha/LeetCode/tree/master/0274-h-index) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/RohanKumarJha/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
