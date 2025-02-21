@@ -178,6 +178,7 @@ I solved the leetCode problems and upload here daily.
 | [0952-word-subsets](https://github.com/RohanKumarJha/LeetCode/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/RohanKumarJha/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/RohanKumarJha/LeetCode/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RohanKumarJha/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RohanKumarJha/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/RohanKumarJha/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
@@ -702,6 +703,7 @@ I solved the leetCode problems and upload here daily.
 | [0144-binary-tree-preorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/RohanKumarJha/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/RohanKumarJha/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/RohanKumarJha/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -717,6 +719,7 @@ I solved the leetCode problems and upload here daily.
 | [0684-redundant-connection](https://github.com/RohanKumarJha/LeetCode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/RohanKumarJha/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/RohanKumarJha/LeetCode/tree/master/0854-making-a-large-island) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/RohanKumarJha/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/RohanKumarJha/LeetCode/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/RohanKumarJha/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -733,6 +736,7 @@ I solved the leetCode problems and upload here daily.
 | [0684-redundant-connection](https://github.com/RohanKumarJha/LeetCode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/RohanKumarJha/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/RohanKumarJha/LeetCode/tree/master/0854-making-a-large-island) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/RohanKumarJha/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RohanKumarJha/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/RohanKumarJha/LeetCode/tree/master/1558-course-schedule-iv) |
@@ -750,6 +754,7 @@ I solved the leetCode problems and upload here daily.
 | [0144-binary-tree-preorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/RohanKumarJha/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/RohanKumarJha/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Indexed Tree
@@ -811,6 +816,7 @@ I solved the leetCode problems and upload here daily.
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/RohanKumarJha/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/RohanKumarJha/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/RohanKumarJha/LeetCode/tree/master/2434-design-a-number-container-system) |
 ## Counting Sort
