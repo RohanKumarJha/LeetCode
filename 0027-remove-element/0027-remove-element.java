@@ -1,22 +1,19 @@
 class Solution {
+    public void swap(int[] nums,int start,int end) {
+        int temp = nums[start];
+        nums[start] = nums[end];
+        nums[end] = temp;
+    }
     public int removeElement(int[] nums, int val) {
-        int size = nums.length;
-        int noOfOccurence = 0;
-        int start=0, end=size-1;
-        while(start <= end) {
-            if(nums[end] == val) {
-                noOfOccurence++;
-                end--;
-            } else if(nums[start] == val) {
-                int temp = nums[start];
-                nums[start] = nums[end];
-                nums[end] = temp;
-                noOfOccurence++;
-                start++;
-                end--;
+        int pos=0, idx=0;
+        while(idx < nums.length) {
+            if(nums[idx] == val) {
+                idx++;
             } else {
-                start++;
+                swap(nums,idx,pos);
+                pos++;
+                idx++;
             }
-        } return size-noOfOccurence++;
+        } return pos;
     }
 }
