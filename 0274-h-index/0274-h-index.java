@@ -1,18 +1,17 @@
 class Solution {
     public int hIndex(int[] citations) {
         int len = citations.length;
-        int[] arr = new int[len+1];
-        for(int i : citations) {
-            if(i > len) {
-                arr[len]+=1;
-            } else {
-                arr[i]+=1;
-            }
+        int maxElm = 0;
+        for(int i=0; i<len; i++) {
+            maxElm = Math.max(maxElm, citations[i]);
         }
-        int count = 0;
-        for(int i=len; i>=0; i--) {
-            count = count+arr[i];
-            if(count >= i) return i;
+        while(maxElm >= 1) {
+            int count = 0;
+            for(int i=0; i<len; i++) {
+                if(citations[i] >= maxElm) count++;
+            }
+            if(count >= maxElm) return maxElm;
+            maxElm--;
         } return 0;
     }
 }
