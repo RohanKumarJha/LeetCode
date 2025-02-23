@@ -72,6 +72,7 @@ I solved the leetCode problems and upload here daily.
 | [0882-peak-index-in-a-mountain-array](https://github.com/RohanKumarJha/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/RohanKumarJha/LeetCode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/RohanKumarJha/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0941-sort-array-by-parity](https://github.com/RohanKumarJha/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0952-word-subsets](https://github.com/RohanKumarJha/LeetCode/tree/master/0952-word-subsets) |
 | [1019-squares-of-a-sorted-array](https://github.com/RohanKumarJha/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -175,6 +176,7 @@ I solved the leetCode problems and upload here daily.
 | [0268-missing-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/RohanKumarJha/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0560-subarray-sum-equals-k](https://github.com/RohanKumarJha/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/RohanKumarJha/LeetCode/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/RohanKumarJha/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/RohanKumarJha/LeetCode/tree/master/1364-tuple-with-same-product) |
@@ -445,6 +447,7 @@ I solved the leetCode problems and upload here daily.
 | [0190-reverse-bits](https://github.com/RohanKumarJha/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/RohanKumarJha/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -707,6 +710,7 @@ I solved the leetCode problems and upload here daily.
 | [0144-binary-tree-preorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/RohanKumarJha/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -760,6 +764,7 @@ I solved the leetCode problems and upload here daily.
 | [0144-binary-tree-preorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/RohanKumarJha/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
