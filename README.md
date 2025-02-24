@@ -250,6 +250,7 @@ I solved the leetCode problems and upload here daily.
 | ------- |
 | [0013-roman-to-integer](https://github.com/RohanKumarJha/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/RohanKumarJha/LeetCode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RohanKumarJha/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/RohanKumarJha/LeetCode/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/RohanKumarJha/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -357,6 +358,7 @@ I solved the leetCode problems and upload here daily.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RohanKumarJha/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RohanKumarJha/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/RohanKumarJha/LeetCode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RohanKumarJha/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/RohanKumarJha/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/RohanKumarJha/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/RohanKumarJha/LeetCode/tree/master/0061-rotate-list) |
@@ -682,6 +684,7 @@ I solved the leetCode problems and upload here daily.
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RohanKumarJha/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1524-string-matching-in-an-array](https://github.com/RohanKumarJha/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/RohanKumarJha/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/RohanKumarJha/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
