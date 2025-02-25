@@ -3,7 +3,6 @@ class Solution {
         int n = height.length;
 
         int[] left = new int[n];
-        int[] right = new int[n];
 
         // For left array
         int leftVal = Integer.MIN_VALUE;
@@ -16,12 +15,12 @@ class Solution {
         int rightVal = Integer.MIN_VALUE;
         for(int i=n-1; i>=0; i--) {
             rightVal = Math.max(rightVal, height[i]);
-            right[i] = rightVal;
+            left[i] = Math.min(rightVal,left[i]);
         }
 
         int sum = 0;
         for(int i=0; i<n; i++) {
-            sum += (Math.min(left[i], right[i]) - height[i]);
+            sum += (left[i]-height[i]);
         } return sum;
     }
 }
