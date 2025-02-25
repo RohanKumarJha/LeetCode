@@ -38,6 +38,7 @@ I solved the leetCode problems and upload here daily.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/RohanKumarJha/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/RohanKumarJha/LeetCode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/RohanKumarJha/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RohanKumarJha/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -514,6 +515,7 @@ I solved the leetCode problems and upload here daily.
 | [0055-jump-game](https://github.com/RohanKumarJha/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/RohanKumarJha/LeetCode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/RohanKumarJha/LeetCode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/RohanKumarJha/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0780-max-chunks-to-make-sorted](https://github.com/RohanKumarJha/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
