@@ -1,59 +1,59 @@
 class Solution {
     public String intToRoman(int num) {
-        String str = "";
+        StringBuilder sb = new StringBuilder();
 
         while(num >= 1000) {
-            str += "M";
+            sb.append("M");
             num -= 1000;
         }
         if(num >= 900) {
-            str += "CM";
+            sb.append("CM");
             num -= 900;
         }
         while(num >= 500) {
-            str += "D";
+            sb.append("D");
             num -= 500;
         }
         if(num >= 400) {
-            str += "CD";
+            sb.append("CD");
             num -= 400;
         }
         while(num >= 100) {
-            str += "C";
+            sb.append("C");
             num -= 100;
         }
         if(num >= 90) {
-            str += "XC";
+            sb.append("XC");
             num -= 90;
         }
         if(num >= 50) {
-            str += "L";
+            sb.append("L");
             num -= 50;
         }
         if(num >= 40) {
-            str += "XL";
+            sb.append("XL");
             num -= 40;
         } 
         while(num >= 10) {
-            str += "X";
+            sb.append("X");
             num -= 10;
         }
         if(num == 9) {
-            str += "IX";
+            sb.append("IX");
             num = 0;
         }
         if(num >= 5) {
-            str += "V";
+            sb.append("V");
             num -= 5;
         }
         if(num == 4) {
-            str += "IV";
+            sb.append("IV");
             num = 0;
         } else {
             while(num > 0) {
-                str += "I";
+                sb.append("I");
                 num--;
             }
-        } return str;
+        } return sb.toString();
     }
 }
