@@ -166,6 +166,7 @@ I solved the leetCode problems and upload here daily.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RohanKumarJha/LeetCode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/RohanKumarJha/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/RohanKumarJha/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/RohanKumarJha/LeetCode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/RohanKumarJha/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -211,6 +212,7 @@ I solved the leetCode problems and upload here daily.
 | ------- |
 | [0002-add-two-numbers](https://github.com/RohanKumarJha/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/RohanKumarJha/LeetCode/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/RohanKumarJha/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/RohanKumarJha/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/RohanKumarJha/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/RohanKumarJha/LeetCode/tree/master/0048-rotate-image) |
@@ -253,6 +255,7 @@ I solved the leetCode problems and upload here daily.
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/RohanKumarJha/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/RohanKumarJha/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/RohanKumarJha/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RohanKumarJha/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
