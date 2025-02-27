@@ -269,6 +269,7 @@ I solved the leetCode problems and upload here daily.
 | [0205-isomorphic-strings](https://github.com/RohanKumarJha/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0241-different-ways-to-add-parentheses](https://github.com/RohanKumarJha/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/RohanKumarJha/LeetCode/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/RohanKumarJha/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/RohanKumarJha/LeetCode/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/RohanKumarJha/LeetCode/tree/master/0742-to-lower-case) |
 | [0952-word-subsets](https://github.com/RohanKumarJha/LeetCode/tree/master/0952-word-subsets) |
@@ -389,6 +390,7 @@ I solved the leetCode problems and upload here daily.
 | [0234-palindrome-linked-list](https://github.com/RohanKumarJha/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/RohanKumarJha/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/RohanKumarJha/LeetCode/tree/master/0392-is-subsequence) |
 | [0861-flipping-an-image](https://github.com/RohanKumarJha/LeetCode/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/RohanKumarJha/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/RohanKumarJha/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -485,6 +487,7 @@ I solved the leetCode problems and upload here daily.
 | [0241-different-ways-to-add-parentheses](https://github.com/RohanKumarJha/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/RohanKumarJha/LeetCode/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/RohanKumarJha/LeetCode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/RohanKumarJha/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/RohanKumarJha/LeetCode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/RohanKumarJha/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
