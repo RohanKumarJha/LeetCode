@@ -134,6 +134,7 @@ I solved the leetCode problems and upload here daily.
 | [2164-two-best-non-overlapping-events](https://github.com/RohanKumarJha/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/RohanKumarJha/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2232-adding-spaces-to-a-string](https://github.com/RohanKumarJha/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/RohanKumarJha/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/RohanKumarJha/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/RohanKumarJha/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/RohanKumarJha/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
@@ -328,6 +329,7 @@ I solved the leetCode problems and upload here daily.
 | [2058-concatenation-of-array](https://github.com/RohanKumarJha/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/RohanKumarJha/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/RohanKumarJha/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/RohanKumarJha/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/RohanKumarJha/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/RohanKumarJha/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/RohanKumarJha/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
@@ -405,6 +407,7 @@ I solved the leetCode problems and upload here daily.
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/RohanKumarJha/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/RohanKumarJha/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/RohanKumarJha/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/RohanKumarJha/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/RohanKumarJha/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/RohanKumarJha/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/RohanKumarJha/LeetCode/tree/master/2551-apply-operations-to-an-array) |
