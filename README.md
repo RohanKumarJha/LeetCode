@@ -254,6 +254,7 @@ I solved the leetCode problems and upload here daily.
 | [1635-number-of-good-pairs](https://github.com/RohanKumarJha/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/RohanKumarJha/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [1861-building-boxes](https://github.com/RohanKumarJha/LeetCode/tree/master/1861-building-boxes) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/RohanKumarJha/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/RohanKumarJha/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/RohanKumarJha/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2619-categorize-box-according-to-criteria](https://github.com/RohanKumarJha/LeetCode/tree/master/2619-categorize-box-according-to-criteria) |
