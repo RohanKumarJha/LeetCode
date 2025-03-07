@@ -259,6 +259,7 @@ I solved the leetCode problems and upload here daily.
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/RohanKumarJha/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/RohanKumarJha/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/RohanKumarJha/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [2610-closest-prime-numbers-in-range](https://github.com/RohanKumarJha/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2619-categorize-box-according-to-criteria](https://github.com/RohanKumarJha/LeetCode/tree/master/2619-categorize-box-according-to-criteria) |
 | [2649-count-total-number-of-colored-cells](https://github.com/RohanKumarJha/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/RohanKumarJha/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -602,6 +603,7 @@ I solved the leetCode problems and upload here daily.
 | ------- |
 | [1307-ugly-number-iii](https://github.com/RohanKumarJha/LeetCode/tree/master/1307-ugly-number-iii) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/RohanKumarJha/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2610-closest-prime-numbers-in-range](https://github.com/RohanKumarJha/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 ## Counting
 |  |
 | ------- |
