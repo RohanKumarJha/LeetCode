@@ -10,11 +10,9 @@ class Solution {
             }
         }
         int answer = 0;
-        for(int i=0; i<arr.length; i++) {
-            if(arr[i]!=arr1[i]) answer++;
-        }
         int result = 0;
         for(int i=0; i<arr.length; i++) {
+            if(arr[i]!=arr1[i]) answer++;
             if(arr[i]==arr1[i]) result++;
         } return Math.min(answer,result);
     }
