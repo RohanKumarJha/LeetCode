@@ -26,7 +26,6 @@ class Solution {
             end--;
         }
         
-        String answer = new String(word);
-        return answer;
+        return new String(word);
     }
 }
