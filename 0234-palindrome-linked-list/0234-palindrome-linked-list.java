@@ -10,47 +10,34 @@
  */
 class Solution {
     public boolean isPalindrome(ListNode head) {
+        // Find length of inkedlist
         ListNode temp = head;
         int len = 0;
         while(temp != null) {
             len++;
             temp = temp.next;
-        }
-        if(len == 0) return false;
-        if(len == 1) return true;
+        }  
 
-        temp = head;
-        if(len % 2 != 0) {
-            for(int i=0; i<len/2-1; i++) {
-                temp = temp.next;
-            }
-            temp.next = temp.next.next;
-        }
-
-        ListNode nextList = null;
+        // Divide the linkedlist
         temp = head;
         for(int i=0; i<len/2-1; i++) {
             temp = temp.next;
         }
-        nextList = temp.next;
+        ListNode curr = temp.next;
         temp.next = null;
 
-        ListNode prev=null, agla=null, curr=nextList;
-        while(curr != null) {
+        // Reverse 2nd linkedlist
+        ListNode prev=null, agla=null;
+        while(curr!=null) {
             agla = curr.next;
             curr.next = prev;
             prev = curr;
             curr = agla;
         }
-
-        temp = head;
-        nextList = prev;
-
-        while(temp != null) {
-            if(temp.val == nextList.val) {
-                temp = temp.next;
-                nextList = nextList.next;
-            } else return false;
-        } return true;      
+        while(prev != null && head!=null) {
+            if(prev.val != head.val) return false;
+            prev = prev.next;
+            head = head.next;
+        } return true;
     }
 }
