@@ -217,6 +217,7 @@ I solved the leetCode problems and upload here daily.
 | [3227-find-missing-and-repeated-values](https://github.com/RohanKumarJha/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/RohanKumarJha/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/RohanKumarJha/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Math
 |  |
 | ------- |
@@ -327,6 +328,7 @@ I solved the leetCode problems and upload here daily.
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/RohanKumarJha/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/RohanKumarJha/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/RohanKumarJha/LeetCode/tree/master/3447-clear-digits) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3636-check-balanced-string](https://github.com/RohanKumarJha/LeetCode/tree/master/3636-check-balanced-string) |
 ## Simulation
 |  |
@@ -754,6 +756,7 @@ I solved the leetCode problems and upload here daily.
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/RohanKumarJha/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/RohanKumarJha/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3483-alternating-groups-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/3483-alternating-groups-ii) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Queue
 |  |
 | ------- |
