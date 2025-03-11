@@ -1,15 +1,26 @@
 class Solution {
     public String reverseWords(String s) {
-        String[] words = s.split("\\s+");
-        StringBuilder res = new StringBuilder();
+        s = s.trim();
+        StringBuilder sb = new StringBuilder();
+        Stack<String> st = new Stack<>();
+        boolean flag = false;
+        for(int i=0; i<s.length(); i++) {
+            if(s.charAt(i) == ' ' && flag==true) {
+                st.push(sb.toString());
+                sb = new StringBuilder();
+                flag = false;
+            } else if(s.charAt(i) == ' ' && flag==false) {
 
-        for (int i = words.length - 1; i >= 0; i--) {
-            res.append(words[i]);
-            if (i != 0) {
-                res.append(" ");
+            } else {
+                sb = sb.append(s.charAt(i));
+                flag = true;
             }
-        }
-
-        return res.toString().trim();
+        } st.push(sb.toString());
+        sb = new StringBuilder();
+        while(!st.isEmpty()) {
+            sb = sb.append(st.peek());
+            st.pop();
+            if(!st.isEmpty()) sb.append(" ");
+        } return sb.toString();
     }
 }
