@@ -42,7 +42,6 @@ class Solution {
                 return false;
             }
         }
-
         visited.put(recipe, 1);
         result.add(recipe);
         return true;
