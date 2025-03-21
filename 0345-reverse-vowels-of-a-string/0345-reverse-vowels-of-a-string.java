@@ -19,7 +19,6 @@ class Solution {
                 swap(arr,start,end);
                 start++; end--;
             }
-        } String str = new String(arr);
-        return str;
+        } return new String(arr);
     }
 }
