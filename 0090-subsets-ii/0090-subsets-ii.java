@@ -4,8 +4,8 @@ import java.util.List;
 
 class Solution {
     public List<List<Integer>> subsetsWithDup(int[] nums) {
-        List<List<Integer>> result = new ArrayList<>();
         Arrays.sort(nums); // Sort to handle duplicates
+        List<List<Integer>> result = new ArrayList<>();
         generateSubsets(result, new ArrayList<>(), nums, 0);
         return result;
     }
