@@ -3,11 +3,13 @@ class Solution {
         int count = 1;
         int index = 1;
         for(int i=1; i<nums.length; i++) {
-            if(nums[i] == nums[i-1] & count<2) {
-                nums[index++] = nums[i];
+            if(nums[i] == nums[i-1]) {
                 count++;
-            } else if(nums[i] != nums[i-1]) {
+            } else {
                 count=1;
+            }
+
+            if(count <= 2) {
                 nums[index++] = nums[i];
             }
         } return index;
