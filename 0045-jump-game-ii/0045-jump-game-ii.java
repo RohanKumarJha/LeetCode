@@ -12,7 +12,7 @@ class Solution {
             }
             flag = maxPosition;
             count++;
-            if(flag >= len-1) break;
+            if(flag >= len-1) return count;;
         } return count;
     }
 }
