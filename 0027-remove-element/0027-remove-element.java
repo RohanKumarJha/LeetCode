@@ -6,17 +6,16 @@ class Solution {
     }
 
     public int removeElement(int[] nums, int val) {
-        int pointer=0, index=0;
-        int count = 0;
-        while(index != nums.length) {
-            if(nums[index] == val) {
-                index++;
+        int start=0, end=nums.length-1;
+        while(start <= end) {
+            if(nums[end] == val) {
+                end--;
+            } else if(nums[start] != val) {
+                start++;
             } else {
-                swap(nums,pointer,index);
-                pointer++; 
-                index++;
-                count += 1;
+                swap(nums,start,end);
+                start++; end--;
             }
-        } return count;
+        } return start;
     }
 }
