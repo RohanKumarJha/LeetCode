@@ -4,7 +4,8 @@ class Solution {
             int temp = nums[start];
             nums[start] = nums[end];
             nums[end] = temp;
-            start++; end--;
+            start++;
+            end--;
         }
     }
 
