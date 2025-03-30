@@ -210,6 +210,7 @@ I solved the leetCode problems and upload here daily.
 | [0268-missing-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/RohanKumarJha/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0560-subarray-sum-equals-k](https://github.com/RohanKumarJha/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0768-partition-labels](https://github.com/RohanKumarJha/LeetCode/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/RohanKumarJha/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/RohanKumarJha/LeetCode/tree/master/0952-word-subsets) |
@@ -314,6 +315,7 @@ I solved the leetCode problems and upload here daily.
 | [0392-is-subsequence](https://github.com/RohanKumarJha/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/RohanKumarJha/LeetCode/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/RohanKumarJha/LeetCode/tree/master/0742-to-lower-case) |
+| [0768-partition-labels](https://github.com/RohanKumarJha/LeetCode/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/RohanKumarJha/LeetCode/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/RohanKumarJha/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -449,6 +451,7 @@ I solved the leetCode problems and upload here daily.
 | [0344-reverse-string](https://github.com/RohanKumarJha/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/RohanKumarJha/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/RohanKumarJha/LeetCode/tree/master/0392-is-subsequence) |
+| [0768-partition-labels](https://github.com/RohanKumarJha/LeetCode/tree/master/0768-partition-labels) |
 | [0861-flipping-an-image](https://github.com/RohanKumarJha/LeetCode/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/RohanKumarJha/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/RohanKumarJha/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -611,6 +614,7 @@ I solved the leetCode problems and upload here daily.
 | [0179-largest-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/RohanKumarJha/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/RohanKumarJha/LeetCode/tree/master/0605-can-place-flowers) |
+| [0768-partition-labels](https://github.com/RohanKumarJha/LeetCode/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/RohanKumarJha/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1502-construct-k-palindrome-strings](https://github.com/RohanKumarJha/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1861-building-boxes](https://github.com/RohanKumarJha/LeetCode/tree/master/1861-building-boxes) |
