@@ -8,11 +8,9 @@ class Solution {
         while(pos1!=word1.length() | pos2!=word2.length()) {
             if(pos1 == word1.length()) {
                 sb.append(word2.substring(pos2));
-                pos2++;
                 break;
             } else if(pos2 == word2.length()) {
                 sb.append(word1.substring(pos1));
-                pos1++;
                 break;
             }
             if(!flag) {
