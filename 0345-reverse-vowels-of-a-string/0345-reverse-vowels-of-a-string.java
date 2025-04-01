@@ -1,24 +1,30 @@
 class Solution {
-    public void swap(StringBuilder sb,int start,int end) {
-        char ch = sb.charAt(start);
-        sb.setCharAt(start,sb.charAt(end));
-        sb.setCharAt(end,ch);
+    public void swap(char[] ch,int start,int end) {
+        char temp = ch[start];
+        ch[start] = ch[end];
+        ch[end] = temp;
     }
 
-    public boolean isVowel(char ch) {
-        return (ch=='a' | ch=='e' | ch=='i' | ch=='o' | ch=='u' | ch=='A' | ch=='E' | ch=='I' | ch=='O' | ch=='U') ? true : false;
+    public boolean allVowels(char ch) {
+        return (ch=='a' | ch=='e' | ch=='i' | ch=='o' | ch=='u' | ch=='A' | ch=='E' | ch=='I' | ch=='O' | ch=='U');
     }
 
     public String reverseVowels(String s) {
-        StringBuilder sb = new StringBuilder(s);
+        char[] ch = s.toCharArray();
         int start=0, end=s.length()-1;
         while(start < end) {
-            if(!isVowel(s.charAt(start))) start++;
-            if(!isVowel(s.charAt(end))) end--;
-            if(isVowel(s.charAt(start)) & isVowel(s.charAt(end))) {
-                swap(sb,start,end);
+            if(allVowels(ch[start]) & allVowels(ch[end])) {
+                swap(ch,start,end);
+                start++; end--;
+            } else if(allVowels(ch[start])) {
+                end--;
+            } else if(allVowels(ch[end])) {
+                start++;
+            } else {
                 start++; end--;
             }
-        } return sb.toString();
+        } 
+        String str = new String(ch);
+        return str;
     }
 }
