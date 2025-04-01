@@ -25,6 +25,6 @@ class Solution {
                     }
                 }
             } 
-        } return (n<=0)?true:false;
+        } return n<=0;
     }
 }
