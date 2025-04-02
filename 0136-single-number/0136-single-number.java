@@ -1,8 +1,14 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        int ans = 0;
-        for(int i=0; i<nums.length; i++) {
-            ans = ans^nums[i];
-        } return ans;
+        int len = nums.length;
+        for(int i=0; i<len; i++) {
+            boolean flag = true;
+            for(int j=0; j<len; j++) {
+                if(nums[i]==nums[j] & i!=j) {
+                    flag = false;
+                    break;
+                }
+            } if(flag) return nums[i];
+        } return 0;
     }
 }
