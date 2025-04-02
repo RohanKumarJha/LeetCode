@@ -1,14 +1,12 @@
 class Solution {
     public int singleNumber(int[] nums) {
         int len = nums.length;
+        Map<Integer,Integer> map = new HashMap<>();
         for(int i=0; i<len; i++) {
-            boolean flag = true;
-            for(int j=0; j<len; j++) {
-                if(nums[i]==nums[j] & i!=j) {
-                    flag = false;
-                    break;
-                }
-            } if(flag) return nums[i];
+            map.put(nums[i], map.getOrDefault(nums[i], 0) + 1);
+        }
+        for(var i : map.keySet()) {
+            if(map.get(i)==1) return i;
         } return 0;
     }
 }
