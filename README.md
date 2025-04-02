@@ -175,6 +175,7 @@ I solved the leetCode problems and upload here daily.
 | [2902-max-pair-sum-in-an-array](https://github.com/RohanKumarJha/LeetCode/tree/master/2902-max-pair-sum-in-an-array) |
 | [3001-apply-operations-to-maximize-score](https://github.com/RohanKumarJha/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/RohanKumarJha/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/RohanKumarJha/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3227-find-missing-and-repeated-values](https://github.com/RohanKumarJha/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/RohanKumarJha/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
