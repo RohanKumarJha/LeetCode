@@ -5,6 +5,7 @@ class Solution {
         if(n % 2 == 0) return result(x*x,n/2);
         else return x*result(x*x,n/2);
     }
+    
     public double myPow(double x, int n) {
         return result(x, (long)n);
     }
