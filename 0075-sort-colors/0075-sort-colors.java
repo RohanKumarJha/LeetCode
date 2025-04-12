@@ -4,15 +4,21 @@ class Solution {
         nums[start] = nums[end];
         nums[end] = temp;
     }
-
+    
     public void sortColors(int[] nums) {
-        for(int i=0; i<nums.length-1; i++) {
-            int minElm = i;
-            for(int j=i+1; j<nums.length; j++) {
-                if(nums[j]<nums[minElm]) {
-                    minElm = j;
-                }
-            } swap(nums,i,minElm);
+        int len = nums.length;
+        int start=0, mid=0, end=len-1;
+        while(mid <= end) {
+            if(nums[mid] == 0) {
+                swap(nums,start,mid);
+                start++;
+                mid++;
+            } else if(nums[mid] == 1) {
+                mid++;
+            } else if(nums[mid] == 2) {
+                swap(nums,mid,end);
+                end--;
+            }
         }
     }
 }
