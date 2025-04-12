@@ -4,18 +4,16 @@ class Solution {
         nums[start] = nums[end];
         nums[end] = temp;
     }
-    
+
     public void sortColors(int[] nums) {
-        int len = nums.length;
-        int start=0, mid=0, end=len-1;
+        int start=0, mid=0, end=nums.length-1;
         while(mid <= end) {
             if(nums[mid] == 0) {
                 swap(nums,start,mid);
-                start++;
-                mid++;
+                start++; mid++;
             } else if(nums[mid] == 1) {
                 mid++;
-            } else if(nums[mid] == 2) {
+            } else {
                 swap(nums,mid,end);
                 end--;
             }
