@@ -6,13 +6,17 @@ class Solution {
     }
 
     public void sortColors(int[] nums) {
-        for(int i=0; i<nums.length-1; i++) {
-            int minVal = i;
-            for(int j=i+1; j<nums.length; j++) {
-                if(nums[minVal] > nums[j]) {
-                    minVal = j;
-                }
-            } swap(nums,i,minVal);
+        int start=0, mid=0, end=nums.length-1;
+        while(mid <= end) {
+            if(nums[mid] == 0) {
+                swap(nums,start,mid);
+                start++; mid++;
+            } else if(nums[mid] == 1) {
+                mid++;
+            } else {
+                swap(nums,mid,end);
+                end--;
+            }
         }
     }
 }
