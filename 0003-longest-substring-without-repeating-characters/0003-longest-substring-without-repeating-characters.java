@@ -9,7 +9,8 @@ class Solution {
                 } else {
                     break;
                 }
-            } len = Math.max(len,list.size());
+            } 
+            if(len < list.size()) len=list.size();
             list = new ArrayList<>();
         } return len;
     }
