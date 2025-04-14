@@ -115,6 +115,7 @@ I solved the leetCode problems and upload here daily.
 | [1635-number-of-good-pairs](https://github.com/RohanKumarJha/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/RohanKumarJha/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/RohanKumarJha/LeetCode/tree/master/1651-shuffle-string) |
+| [1656-count-good-triplets](https://github.com/RohanKumarJha/LeetCode/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/RohanKumarJha/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/RohanKumarJha/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/RohanKumarJha/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -1057,6 +1058,7 @@ I solved the leetCode problems and upload here daily.
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/RohanKumarJha/LeetCode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RohanKumarJha/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/RohanKumarJha/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/RohanKumarJha/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
