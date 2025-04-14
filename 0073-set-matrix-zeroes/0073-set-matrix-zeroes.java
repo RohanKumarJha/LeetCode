@@ -1,20 +1,17 @@
 class Solution {
     public void setZeroes(int[][] matrix) {
-        int row = matrix.length;
-        int col = matrix[0].length;
-        boolean[] rowArr = new boolean[row];
-        boolean[] colArr = new boolean[col];
-        for(int i=0; i<row; i++) {
-            for(int j=0; j<col; j++) {
+        boolean[] rowArr = new boolean[matrix.length];
+        boolean[] colArr = new boolean[matrix[0].length];
+        for(int i=0; i<matrix.length; i++) {
+            for(int j=0; j<matrix[0].length; j++) {
                 if(matrix[i][j] == 0) {
                     rowArr[i] = true;
                     colArr[j] = true;
                 }
             }
         }
-
-        for(int i=0; i<row; i++) {
-            for(int j=0; j<col; j++) {
+        for(int i=0; i<matrix.length; i++) {
+            for(int j=0; j<matrix[0].length; j++) {
                 if(rowArr[i]==true || colArr[j]==true) {
                     matrix[i][j] = 0;
                 }
