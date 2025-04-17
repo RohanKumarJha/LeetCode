@@ -3,7 +3,12 @@ class Solution {
         int count = 0;
         for(int i=0; i<nums.length-1; i++) {
             for(int j=i; j<nums.length; j++) {
-                if(Math.abs(nums[i]-nums[j])==k) count++;
+                int diff = nums[i]-nums[j];
+                if(diff < 0) {
+                    if(-diff == k) count++;
+                } else {
+                    if(diff == k) count++;
+                }
             }
         } return count;
     }
