@@ -23,8 +23,6 @@ class Solution {
             } else {
                 start++; end--;
             }
-        } 
-        String str = new String(ch);
-        return str;
+        }  return new String(ch);
     }
 }
