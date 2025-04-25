@@ -6,11 +6,7 @@ class Solution {
             maxCandy = Math.max(i,maxCandy);
         }
         for(int i=0; i<candies.length; i++) {
-            if(candies[i]+extraCandies >= maxCandy) {
-                list.add(true);
-            } else {
-                list.add(false);
-            }
+            list.add(candies[i]+extraCandies >= maxCandy ? true:false);
         } return list;
     }
 }
