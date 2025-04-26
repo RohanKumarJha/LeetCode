@@ -59,6 +59,7 @@ I solved the leetCode problems and upload here daily.
 | [0274-h-index](https://github.com/RohanKumarJha/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/RohanKumarJha/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/RohanKumarJha/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/RohanKumarJha/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/RohanKumarJha/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0407-trapping-rain-water-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0407-trapping-rain-water-ii) |
@@ -663,6 +664,7 @@ I solved the leetCode problems and upload here daily.
 | [0134-gas-station](https://github.com/RohanKumarJha/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/RohanKumarJha/LeetCode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0179-largest-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/RohanKumarJha/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/RohanKumarJha/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/RohanKumarJha/LeetCode/tree/master/0605-can-place-flowers) |
 | [0768-partition-labels](https://github.com/RohanKumarJha/LeetCode/tree/master/0768-partition-labels) |
