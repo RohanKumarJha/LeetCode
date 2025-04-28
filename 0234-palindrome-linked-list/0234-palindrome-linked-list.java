@@ -34,6 +34,8 @@ class Solution {
             prev = curr;
             curr = agla;
         }
+        
+        // Check palindrome or not
         while(prev != null && head!=null) {
             if(prev.val != head.val) return false;
             prev = prev.next;
