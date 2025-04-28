@@ -159,6 +159,7 @@ I solved the leetCode problems and upload here daily.
 | [2292-counting-words-with-a-given-prefix](https://github.com/RohanKumarJha/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/RohanKumarJha/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2358-number-of-ways-to-split-array](https://github.com/RohanKumarJha/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/RohanKumarJha/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/RohanKumarJha/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2448-count-number-of-bad-pairs](https://github.com/RohanKumarJha/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/2465-shifting-letters-ii) |
@@ -530,6 +531,7 @@ I solved the leetCode problems and upload here daily.
 | [2145-grid-game](https://github.com/RohanKumarJha/LeetCode/tree/master/2145-grid-game) |
 | [2249-count-the-hidden-sequences](https://github.com/RohanKumarJha/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/RohanKumarJha/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/RohanKumarJha/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/RohanKumarJha/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/RohanKumarJha/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
@@ -574,6 +576,7 @@ I solved the leetCode problems and upload here daily.
 | [2047-find-a-peak-element-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2164-two-best-non-overlapping-events](https://github.com/RohanKumarJha/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2280-count-good-triplets-in-an-array](https://github.com/RohanKumarJha/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/RohanKumarJha/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RohanKumarJha/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/RohanKumarJha/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/RohanKumarJha/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -892,6 +895,7 @@ I solved the leetCode problems and upload here daily.
 | [0003-longest-substring-without-repeating-characters](https://github.com/RohanKumarJha/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/RohanKumarJha/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/RohanKumarJha/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/RohanKumarJha/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/RohanKumarJha/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/RohanKumarJha/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/RohanKumarJha/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
