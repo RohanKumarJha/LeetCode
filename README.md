@@ -72,6 +72,7 @@ I solved the leetCode problems and upload here daily.
 | [0560-subarray-sum-equals-k](https://github.com/RohanKumarJha/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/RohanKumarJha/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/RohanKumarJha/LeetCode/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/RohanKumarJha/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/RohanKumarJha/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/RohanKumarJha/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0780-max-chunks-to-make-sorted](https://github.com/RohanKumarJha/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -899,6 +900,7 @@ I solved the leetCode problems and upload here daily.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RohanKumarJha/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/RohanKumarJha/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/RohanKumarJha/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/RohanKumarJha/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/RohanKumarJha/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/RohanKumarJha/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
