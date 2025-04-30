@@ -113,6 +113,7 @@ I solved the leetCode problems and upload here daily.
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/RohanKumarJha/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/RohanKumarJha/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/RohanKumarJha/LeetCode/tree/master/1580-shuffle-the-array) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RohanKumarJha/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/RohanKumarJha/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/RohanKumarJha/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/RohanKumarJha/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -635,6 +636,7 @@ I solved the leetCode problems and upload here daily.
 | [1025-minimum-cost-for-tickets](https://github.com/RohanKumarJha/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/RohanKumarJha/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1170-shortest-common-supersequence](https://github.com/RohanKumarJha/LeetCode/tree/master/1170-shortest-common-supersequence) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RohanKumarJha/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RohanKumarJha/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/RohanKumarJha/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/RohanKumarJha/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -909,6 +911,7 @@ I solved the leetCode problems and upload here daily.
 | [1046-max-consecutive-ones-iii](https://github.com/RohanKumarJha/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/RohanKumarJha/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RohanKumarJha/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RohanKumarJha/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/RohanKumarJha/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/RohanKumarJha/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/RohanKumarJha/LeetCode/tree/master/2478-longest-nice-subarray) |
