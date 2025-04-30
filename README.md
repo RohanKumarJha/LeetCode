@@ -99,6 +99,7 @@ I solved the leetCode problems and upload here daily.
 | [1284-four-divisors](https://github.com/RohanKumarJha/LeetCode/tree/master/1284-four-divisors) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/RohanKumarJha/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/RohanKumarJha/LeetCode/tree/master/1364-tuple-with-same-product) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/RohanKumarJha/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1396-count-servers-that-communicate](https://github.com/RohanKumarJha/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/RohanKumarJha/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RohanKumarJha/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -247,6 +248,7 @@ I solved the leetCode problems and upload here daily.
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RohanKumarJha/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1364-tuple-with-same-product](https://github.com/RohanKumarJha/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/RohanKumarJha/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/RohanKumarJha/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RohanKumarJha/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RohanKumarJha/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
