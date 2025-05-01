@@ -97,6 +97,7 @@ I solved the leetCode problems and upload here daily.
 | [1063-best-sightseeing-pair](https://github.com/RohanKumarJha/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1230-maximum-of-absolute-value-expression](https://github.com/RohanKumarJha/LeetCode/tree/master/1230-maximum-of-absolute-value-expression) |
 | [1284-four-divisors](https://github.com/RohanKumarJha/LeetCode/tree/master/1284-four-divisors) |
+| [1319-unique-number-of-occurrences](https://github.com/RohanKumarJha/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/RohanKumarJha/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/RohanKumarJha/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/RohanKumarJha/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -247,6 +248,7 @@ I solved the leetCode problems and upload here daily.
 | [0952-word-subsets](https://github.com/RohanKumarJha/LeetCode/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/RohanKumarJha/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RohanKumarJha/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1319-unique-number-of-occurrences](https://github.com/RohanKumarJha/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/RohanKumarJha/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/RohanKumarJha/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
