@@ -522,6 +522,7 @@ I solved the leetCode problems and upload here daily.
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/RohanKumarJha/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/RohanKumarJha/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/RohanKumarJha/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/RohanKumarJha/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/RohanKumarJha/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/RohanKumarJha/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/RohanKumarJha/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -671,6 +672,7 @@ I solved the leetCode problems and upload here daily.
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/RohanKumarJha/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/RohanKumarJha/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/RohanKumarJha/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/RohanKumarJha/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/RohanKumarJha/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/RohanKumarJha/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/RohanKumarJha/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -733,6 +735,7 @@ I solved the leetCode problems and upload here daily.
 | [0860-design-circular-queue](https://github.com/RohanKumarJha/LeetCode/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/RohanKumarJha/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/RohanKumarJha/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/RohanKumarJha/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
