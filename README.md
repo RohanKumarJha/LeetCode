@@ -94,6 +94,7 @@ I solved the leetCode problems and upload here daily.
 | [1025-minimum-cost-for-tickets](https://github.com/RohanKumarJha/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1031-add-to-array-form-of-integer](https://github.com/RohanKumarJha/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1046-max-consecutive-ones-iii](https://github.com/RohanKumarJha/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/RohanKumarJha/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/RohanKumarJha/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1230-maximum-of-absolute-value-expression](https://github.com/RohanKumarJha/LeetCode/tree/master/1230-maximum-of-absolute-value-expression) |
 | [1284-four-divisors](https://github.com/RohanKumarJha/LeetCode/tree/master/1284-four-divisors) |
@@ -701,6 +702,7 @@ I solved the leetCode problems and upload here daily.
 | [0768-partition-labels](https://github.com/RohanKumarJha/LeetCode/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/RohanKumarJha/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/RohanKumarJha/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/RohanKumarJha/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1502-construct-k-palindrome-strings](https://github.com/RohanKumarJha/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1861-building-boxes](https://github.com/RohanKumarJha/LeetCode/tree/master/1861-building-boxes) |
 | [1917-maximum-average-pass-ratio](https://github.com/RohanKumarJha/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
