@@ -11,7 +11,6 @@ class MinStack {
     
     public void push(int val) {
         st.push(val);
-        // Push to minStack if it's empty or the current value is less than or equal to the top of minStack
         if (minStack.isEmpty() || val <= minStack.peek()) {
             minStack.push(val);
         }
@@ -23,7 +22,6 @@ class MinStack {
             return;
         }
         int removed = st.pop();
-        // If the popped value is the current minimum, remove it from minStack too
         if (removed == minStack.peek()) {
             minStack.pop();
         }
