@@ -374,6 +374,7 @@ I solved the leetCode problems and upload here daily.
 | [0344-reverse-string](https://github.com/RohanKumarJha/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/RohanKumarJha/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/RohanKumarJha/LeetCode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/RohanKumarJha/LeetCode/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/RohanKumarJha/LeetCode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/RohanKumarJha/LeetCode/tree/master/0443-string-compression) |
 | [0742-to-lower-case](https://github.com/RohanKumarJha/LeetCode/tree/master/0742-to-lower-case) |
@@ -684,6 +685,7 @@ I solved the leetCode problems and upload here daily.
 | [0145-binary-tree-postorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/RohanKumarJha/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/RohanKumarJha/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/RohanKumarJha/LeetCode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/RohanKumarJha/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/RohanKumarJha/LeetCode/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/RohanKumarJha/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -769,6 +771,7 @@ I solved the leetCode problems and upload here daily.
 | [0234-palindrome-linked-list](https://github.com/RohanKumarJha/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/RohanKumarJha/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0342-power-of-four](https://github.com/RohanKumarJha/LeetCode/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/RohanKumarJha/LeetCode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/RohanKumarJha/LeetCode/tree/master/1013-fibonacci-number) |
 ## Number Theory
 |  |
