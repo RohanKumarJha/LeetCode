@@ -102,6 +102,7 @@ I solved the leetCode problems and upload here daily.
 | [1227-number-of-equivalent-domino-pairs](https://github.com/RohanKumarJha/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1230-maximum-of-absolute-value-expression](https://github.com/RohanKumarJha/LeetCode/tree/master/1230-maximum-of-absolute-value-expression) |
 | [1284-four-divisors](https://github.com/RohanKumarJha/LeetCode/tree/master/1284-four-divisors) |
+| [1293-three-consecutive-odds](https://github.com/RohanKumarJha/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/RohanKumarJha/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/RohanKumarJha/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/RohanKumarJha/LeetCode/tree/master/1364-tuple-with-same-product) |
