@@ -296,6 +296,7 @@ I solved the leetCode problems and upload here daily.
 | [3548-find-the-count-of-good-integers](https://github.com/RohanKumarJha/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/RohanKumarJha/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/RohanKumarJha/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Math
 |  |
@@ -360,6 +361,7 @@ I solved the leetCode problems and upload here daily.
 | [3548-find-the-count-of-good-integers](https://github.com/RohanKumarJha/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/RohanKumarJha/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/RohanKumarJha/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/RohanKumarJha/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## String
 |  |
@@ -434,6 +436,7 @@ I solved the leetCode problems and upload here daily.
 | [3447-clear-digits](https://github.com/RohanKumarJha/LeetCode/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/RohanKumarJha/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3636-check-balanced-string](https://github.com/RohanKumarJha/LeetCode/tree/master/3636-check-balanced-string) |
 | [3637-count-number-of-balanced-permutations](https://github.com/RohanKumarJha/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Simulation
@@ -683,6 +686,7 @@ I solved the leetCode problems and upload here daily.
 | [2562-count-ways-to-build-good-strings](https://github.com/RohanKumarJha/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/RohanKumarJha/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/RohanKumarJha/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/RohanKumarJha/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Stack
 |  |
@@ -816,6 +820,7 @@ I solved the leetCode problems and upload here daily.
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RohanKumarJha/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/RohanKumarJha/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/RohanKumarJha/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Rejection Sampling
 |  |
 | ------- |
