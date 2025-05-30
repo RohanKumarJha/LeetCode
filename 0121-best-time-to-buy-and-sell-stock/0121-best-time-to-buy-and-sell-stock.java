@@ -4,8 +4,7 @@ class Solution {
         int buy = Integer.MAX_VALUE;
         for(int i=0; i<prices.length; i++) {
             buy = Math.min(buy, prices[i]);
-            int sell = prices[i]-buy;
-            maxDiff = Math.max(maxDiff, sell);
+            maxDiff = Math.max(maxDiff, prices[i]-buy);
         } return maxDiff;
     }
 }
