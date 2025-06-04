@@ -1,22 +1,30 @@
 class Solution {
-    public int checkArray(int[] arr,int mid) {
-        int val = 0;
-        for(int i=0; i<arr.length; i++) {
-            val += Math.ceil((double)arr[i]/(double)mid);
-        } return val;
+    public int timeTaken(int[] piles, int mid) {
+        int time = 0;
+        for (int i = 0; i < piles.length; i++) {
+            time += Math.ceil((double)piles[i] / mid);
+        }
+        return time;
     }
+
     public int minEatingSpeed(int[] piles, int h) {
-        int s=1, e=Integer.MAX_VALUE;
-        while(s<=e) {
-            int mid=s+(e-s)/2;
-            int val = checkArray(piles,mid);
-            if(h == val) {
-                e=mid-1;
-            } else if(h<val) {
-                s=mid+1;
+        int maxElm = Integer.MIN_VALUE;
+        for (int i = 0; i < piles.length; i++) {
+            maxElm = Math.max(maxElm, piles[i]);
+        }
+
+        int start = 1, end = maxElm;
+        int answer = maxElm;
+        while (start <= end) {
+            int mid = start + (end - start) / 2;
+            int totalTime = timeTaken(piles, mid);
+            if (totalTime <= h) {
+                answer = mid;
+                end = mid - 1;
             } else {
-                e=mid-1;
+                start = mid + 1;
             }
-        } return s;
+        }
+        return answer;
     }
 }
