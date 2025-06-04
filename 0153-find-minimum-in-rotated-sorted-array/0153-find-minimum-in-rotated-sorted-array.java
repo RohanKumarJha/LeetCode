@@ -5,11 +5,13 @@ class Solution {
             int mid = start+(end-start)/2;
             if(nums[start] <= nums[end]) {
                 return nums[start];
-            } else if(nums[start] <= nums[mid]) {
-                start = mid+1;
             } else {
-                end = mid;
-            }
+                if(nums[start] <= nums[mid]) {
+                    start = mid+1;
+                } else {
+                    end = mid;
+                }
+            } 
         } return -1;
     }
 }
