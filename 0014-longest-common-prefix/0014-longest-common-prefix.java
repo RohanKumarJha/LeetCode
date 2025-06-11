@@ -6,10 +6,10 @@ class Solution {
         for(int i=0; i<len; i++) {
             if(strs[0].charAt(i) != strs[strs.length-1].charAt(i)) {
                 return sb.toString();
-            }
-            else {
+            } else {
                 sb.append(strs[0].charAt(i));
             }
         } return sb.toString();
     }
 }
+
