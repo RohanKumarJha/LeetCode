@@ -361,6 +361,7 @@ I solved the leetCode problems and upload here daily.
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RohanKumarJha/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/RohanKumarJha/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/RohanKumarJha/LeetCode/tree/master/1500-count-largest-group) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/RohanKumarJha/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RohanKumarJha/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/RohanKumarJha/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/RohanKumarJha/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
@@ -799,6 +800,7 @@ I solved the leetCode problems and upload here daily.
 | [0797-rabbits-in-forest](https://github.com/RohanKumarJha/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/RohanKumarJha/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1502-construct-k-palindrome-strings](https://github.com/RohanKumarJha/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/RohanKumarJha/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1861-building-boxes](https://github.com/RohanKumarJha/LeetCode/tree/master/1861-building-boxes) |
 | [1917-maximum-average-pass-ratio](https://github.com/RohanKumarJha/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/RohanKumarJha/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
