@@ -1,35 +1,27 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-        Arrays.sort(nums); // Sort the array for two-pointer strategy
-        List<List<Integer>> result = new ArrayList<>();
-        
-        for (int i = 0; i < nums.length - 2; i++) {
-            // Skip duplicate values for the first pointer
-            if (i > 0 && nums[i] == nums[i - 1]) continue;
-            
-            int left = i + 1;
-            int right = nums.length - 1;
-            
-            while (left < right) {
-                int sum = nums[i] + nums[left] + nums[right];
-                
-                if (sum == 0) {
-                    result.add(Arrays.asList(nums[i], nums[left], nums[right]));
-                    left++;
-                    right--;
-                    
-                    // Skip duplicates for left and right
-                    while (left < right && nums[left] == nums[left - 1]) left++;
-                    while (left < right && nums[right] == nums[right + 1]) right--;
-                    
-                } else if (sum < 0) {
-                    left++;
+        Arrays.sort(nums);
+        int size = nums.length;
+        Set<List<Integer>> list = new HashSet<>();
+        for(int i=0; i<size-2; i++) {
+            List<Integer> newList = new ArrayList<>();
+            int start=i+1, end=size-1;
+            while(start < end) {
+                if(nums[i]+nums[start]+nums[end] == 0) {
+                    newList.add(nums[i]);
+                    newList.add(nums[start]);
+                    newList.add(nums[end]);
+                    list.add(newList);
+                    newList = new ArrayList<>();
+                    start++;
+                } else if(nums[i]+nums[start]+nums[end] < 0) {
+                    start++;
                 } else {
-                    right--;
+                    end--;
                 }
             }
         }
-        
-        return result;
+        List<List<Integer>> answer = new ArrayList<>(list);
+        return answer;
     }
 }
