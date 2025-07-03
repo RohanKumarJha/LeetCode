@@ -1,27 +1,35 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-        int len = nums.length;
-        Set<List<Integer>> set = new HashSet<>();
-        Arrays.sort(nums);
-        for(int i=0; i<len-2; i++) {
-            int start=i+1, end=len-1;
-            while(start < end) {
-                List<Integer> list = new ArrayList<>();
-                if(nums[i]+nums[start]+nums[end]==0) {
-                    list.add(nums[i]);
-                    list.add(nums[start]);
-                    list.add(nums[end]);
-                    if(!set.contains(list)) {
-                        set.add(list);
-                    } start++; end--;
-                } else if(nums[i]+nums[start]+nums[end]<0) {
-                    start++;
+        Arrays.sort(nums); // Sort the array for two-pointer strategy
+        List<List<Integer>> result = new ArrayList<>();
+        
+        for (int i = 0; i < nums.length - 2; i++) {
+            // Skip duplicate values for the first pointer
+            if (i > 0 && nums[i] == nums[i - 1]) continue;
+            
+            int left = i + 1;
+            int right = nums.length - 1;
+            
+            while (left < right) {
+                int sum = nums[i] + nums[left] + nums[right];
+                
+                if (sum == 0) {
+                    result.add(Arrays.asList(nums[i], nums[left], nums[right]));
+                    left++;
+                    right--;
+                    
+                    // Skip duplicates for left and right
+                    while (left < right && nums[left] == nums[left - 1]) left++;
+                    while (left < right && nums[right] == nums[right + 1]) right--;
+                    
+                } else if (sum < 0) {
+                    left++;
                 } else {
-                    end--;
+                    right--;
                 }
             }
         }
-        List<List<Integer>> answer = new ArrayList<>(set);
-        return answer;
+        
+        return result;
     }
 }
