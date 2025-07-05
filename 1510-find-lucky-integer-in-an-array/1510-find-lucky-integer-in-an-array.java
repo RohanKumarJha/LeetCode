@@ -1,17 +1,18 @@
 class Solution {
-    public int findLucky(int[] arr) {
-        int result = -1;
-        for(int i =0; i<arr.length; i++){
-            int count = 0;
-            for(int j =0; j<arr.length; j++){
-              if(arr[j] == arr[i]){
-                count++;
-              }  
+    public int findLucky(int[] nums) {
+        Arrays.sort(nums);
+          int count =1;
+        for(int i = nums.length-1; i>0; i--){
+          if(nums[i] == nums[i-1]){
+            count++;
+          }else {
+            if(nums[i] == count){
+                return count;
+            } else {
+                count = 1;
             }
-            if(count == arr[i]){
-                result = Math.max(result, count);
-            }
-        }
-        return result;
+          }
+        } 
+        return (nums[0] == count)? count:-1;
     }
 }
