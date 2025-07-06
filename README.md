@@ -155,6 +155,7 @@ I solved the leetCode problems and upload here daily.
 | [1927-maximum-ascending-subarray-sum](https://github.com/RohanKumarJha/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/RohanKumarJha/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RohanKumarJha/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/RohanKumarJha/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RohanKumarJha/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2047-find-a-peak-element-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/RohanKumarJha/LeetCode/tree/master/2048-build-array-from-permutation) |
@@ -301,6 +302,7 @@ I solved the leetCode problems and upload here daily.
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RohanKumarJha/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/RohanKumarJha/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/RohanKumarJha/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/RohanKumarJha/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RohanKumarJha/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/RohanKumarJha/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/RohanKumarJha/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -1325,6 +1327,7 @@ I solved the leetCode problems and upload here daily.
 | [0860-design-circular-queue](https://github.com/RohanKumarJha/LeetCode/tree/master/0860-design-circular-queue) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/RohanKumarJha/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/RohanKumarJha/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2434-design-a-number-container-system](https://github.com/RohanKumarJha/LeetCode/tree/master/2434-design-a-number-container-system) |
 ## Counting Sort
 |  |
