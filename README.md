@@ -195,6 +195,7 @@ I solved the leetCode problems and upload here daily.
 | [2465-shifting-letters-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/RohanKumarJha/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/RohanKumarJha/LeetCode/tree/master/2478-longest-nice-subarray) |
+| [2479-meeting-rooms-iii](https://github.com/RohanKumarJha/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/RohanKumarJha/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/RohanKumarJha/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/RohanKumarJha/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -320,6 +321,7 @@ I solved the leetCode problems and upload here daily.
 | [2434-design-a-number-container-system](https://github.com/RohanKumarJha/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/RohanKumarJha/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/RohanKumarJha/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2479-meeting-rooms-iii](https://github.com/RohanKumarJha/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/RohanKumarJha/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/RohanKumarJha/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/RohanKumarJha/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -535,6 +537,7 @@ I solved the leetCode problems and upload here daily.
 | [2265-partition-array-according-to-given-pivot](https://github.com/RohanKumarJha/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/RohanKumarJha/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2470-removing-stars-from-a-string](https://github.com/RohanKumarJha/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [2479-meeting-rooms-iii](https://github.com/RohanKumarJha/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/RohanKumarJha/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/RohanKumarJha/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/RohanKumarJha/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -1029,6 +1032,7 @@ I solved the leetCode problems and upload here daily.
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/RohanKumarJha/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/RohanKumarJha/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/RohanKumarJha/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2479-meeting-rooms-iii](https://github.com/RohanKumarJha/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/RohanKumarJha/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/RohanKumarJha/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2681-put-marbles-in-bags](https://github.com/RohanKumarJha/LeetCode/tree/master/2681-put-marbles-in-bags) |
@@ -1058,6 +1062,7 @@ I solved the leetCode problems and upload here daily.
 | [2300-construct-string-with-repeat-limit](https://github.com/RohanKumarJha/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2434-design-a-number-container-system](https://github.com/RohanKumarJha/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/RohanKumarJha/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2479-meeting-rooms-iii](https://github.com/RohanKumarJha/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/RohanKumarJha/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/RohanKumarJha/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/RohanKumarJha/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
