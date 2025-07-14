@@ -5,27 +5,22 @@ class Solution {
             int mid = start+(end-start)/2;
             if(nums[mid] == target) {
                 return mid;
-            } else if(nums[start] < nums[end]) {
-                if(nums[mid] < target) {
+            }
+
+            // Find the sorted side
+            if(nums[start] <= nums[mid]) {
+                if(nums[start]<=target && target<=nums[mid]) {
+                    end = mid;
+                } else {
                     start = mid+1;
-                } else if(nums[mid] > target) {
-                    end = mid-1;
                 }
             } else {
-                if(nums[start] <= nums[mid]) {
-                    if(nums[start]<=target && target<=nums[mid]) {
-                        end = mid;
-                    } else {
-                        start = mid+1;
-                    }
+                if(nums[mid]<=target && target<=nums[end]) {
+                    start = mid;
                 } else {
-                    if(nums[mid]<=target && target<=nums[end]) {
-                        start = mid;
-                    } else {
-                        end = mid-1;
-                    }
+                    end = mid-1;
                 }
-            }    
+            } 
         } return -1;
     }
 }
