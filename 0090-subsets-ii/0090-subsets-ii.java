@@ -1,22 +1,27 @@
 class Solution {
-    public void backtrack(int[] nums,List<List<Integer>> list, List<Integer> newList, int index) {
-        if(list.contains(newList)) {
-            return ;
-        }
+    public void recursiveCall(int[] nums,List<List<Integer>> list, int index, List<Integer> result) {
+        if(list.contains(result)) return;
+
+        // Base case
         if(index == nums.length) {
-            list.add(new ArrayList<>(newList));
+            list.add(new ArrayList<>(result));
             return ;
         }
-        newList.add(nums[index]);
-        backtrack(nums, list, newList, index+1);
-        newList.remove(newList.size()-1);
-        backtrack(nums, list, newList, index+1);
+
+        // digit contains
+        result.add(nums[index]);
+        recursiveCall(nums, list, index+1, result);
+
+        // digit not contains
+        result.remove(result.size()-1);
+        recursiveCall(nums, list, index+1, result);
+
     }
 
     public List<List<Integer>> subsetsWithDup(int[] nums) {
         Arrays.sort(nums);
         List<List<Integer>> list = new ArrayList<>();
-        backtrack(nums, list, new ArrayList<>(), 0);
+        recursiveCall(nums, list, 0, new ArrayList<>());
         return list;
     }
 }
