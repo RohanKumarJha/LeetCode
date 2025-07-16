@@ -1,13 +1,11 @@
 class Solution {
     public void backTracking(int[] candidates, int target, List<List<Integer>> list, List<Integer> newList, int index, int sum) {
-        if(sum > target) return ;
+        if(sum > target || index == candidates.length) return ;
         if(sum == target) {
             list.add(new ArrayList<>(newList));
             return ;
         }
-        if(index == candidates.length) {
-            return ;
-        }
+        
         newList.add(candidates[index]);
         backTracking(candidates, target, list, newList, index, sum+candidates[index]);
         newList.remove(newList.size()-1);
