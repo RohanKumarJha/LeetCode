@@ -1,6 +1,5 @@
 class Solution {
-    public void recursiveCall(int[] nums,List<List<Integer>> list, int index, List<Integer> result) {
-        if(list.contains(result)) return;
+    public void recursiveCall(int[] nums,Set<List<Integer>> list, int index, List<Integer> result) {
 
         // Base case
         if(index == nums.length) {
@@ -20,8 +19,8 @@ class Solution {
 
     public List<List<Integer>> subsetsWithDup(int[] nums) {
         Arrays.sort(nums);
-        List<List<Integer>> list = new ArrayList<>();
-        recursiveCall(nums, list, 0, new ArrayList<>());
-        return list;
+        Set<List<Integer>> result = new HashSet<>();
+        recursiveCall(nums, result, 0, new ArrayList<>());
+        return new ArrayList<>(result);
     }
 }
