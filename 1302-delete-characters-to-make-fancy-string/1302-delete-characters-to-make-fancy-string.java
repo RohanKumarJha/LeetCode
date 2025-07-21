@@ -12,7 +12,7 @@ class Solution {
                     sb.append(ch[i]);
                     count++;
                 }
-            } else if(ch[i] != ch[i-1]) {
+            } else {
                 sb.append(ch[i]);
                 count = 1;
             }
