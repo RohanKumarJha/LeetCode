@@ -8,7 +8,7 @@ class Solution {
                 int k=j+1, l=size-1;
                 while(k < l) {
                     long sum = (long)nums[i]+(long)nums[j]+(long)nums[k]+(long)nums[l];
-                    if(sum == (long)target) {
+                    if(sum == target) {
                         List<Integer> list = new ArrayList<>();
                         list.add(nums[i]);
                         list.add(nums[j]);
@@ -16,7 +16,7 @@ class Solution {
                         list.add(nums[l]);
                         set.add(list);
                         k++; l--;
-                    } else if(sum < (long)target) {
+                    } else if(sum < target) {
                         k++;
                     } else {
                         l--;
