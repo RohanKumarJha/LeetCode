@@ -5,7 +5,7 @@ class Solution {
             Boolean flag = false;
             for(int j=0; j<baskets.length; j++) {
                 if(fruits[i] <= baskets[j]) {
-                    baskets[j] = Integer.MIN_VALUE;
+                    baskets[j] = 0;
                     flag = true;
                     break;
                 }
