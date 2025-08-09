@@ -1,26 +1,20 @@
 class Solution {
-    public void recursiveCall(int[] nums,Set<List<Integer>> list, int index, List<Integer> result) {
-
-        // Base case
+    public Set<List<Integer>> subSet(int[] nums,int index,List<Integer> li,Set<List<Integer>> set) {
         if(index == nums.length) {
-            list.add(new ArrayList<>(result));
-            return ;
+            set.add(new ArrayList<>(li));
+            return set;
         }
-
-        // digit contains
-        result.add(nums[index]);
-        recursiveCall(nums, list, index+1, result);
-
-        // digit not contains
-        result.remove(result.size()-1);
-        recursiveCall(nums, list, index+1, result);
-
+        li.add(nums[index]);
+        subSet(nums,index+1,li,set);
+        li.remove(li.size()-1);
+        subSet(nums,index+1,li,set);
+        return set;
     }
 
     public List<List<Integer>> subsetsWithDup(int[] nums) {
         Arrays.sort(nums);
-        Set<List<Integer>> result = new HashSet<>();
-        recursiveCall(nums, result, 0, new ArrayList<>());
+        List<Integer> li = new ArrayList<>();
+        Set<List<Integer>> result = subSet(nums,0,li,new HashSet<>());
         return new ArrayList<>(result);
     }
 }
