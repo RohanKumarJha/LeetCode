@@ -1,21 +1,22 @@
 class Solution {
-    public void backTracking(int[] candidates, int target, List<List<Integer>> list, List<Integer> newList, int index, int sum) {
-        if(sum > target || index == candidates.length) return ;
-        if(sum == target) {
-            list.add(new ArrayList<>(newList));
-            return ;
+    public List<List<Integer>> combination(int[] candidates, int target, int index, List<Integer> li, List<List<Integer>> list, int sum) {
+        if(sum>target || index==candidates.length) {
+            return list;
         }
-        
-        newList.add(candidates[index]);
-        backTracking(candidates, target, list, newList, index, sum+candidates[index]);
-        newList.remove(newList.size()-1);
-        backTracking(candidates, target, list, newList, index+1, sum);
+        if(sum == target) {
+            list.add(new ArrayList<>(li));
+            return list;
+        }
+        li.add(candidates[index]);
+        combination(candidates, target, index, li, list, sum+candidates[index]);
+        li.remove(li.size()-1);
+        combination(candidates, target, index+1, li, list, sum);
+        return list;
     }
 
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
-        Arrays.sort(candidates);
-        List<List<Integer>> list = new ArrayList<>();
-        backTracking(candidates, target, list, new ArrayList<>(), 0, 0);
-        return list;
+        List<Integer> li = new ArrayList<>();
+        List<List<Integer>> result = combination(candidates, target, 0, li, new ArrayList<>(), 0);
+        return result;
     }
 }
