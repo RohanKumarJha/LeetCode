@@ -7,6 +7,6 @@ class Solution {
 
     public boolean isPowerOfTwo(int n) {
         if(n == 0) return false;
-        return (n==2 || isPower(n));
+        return isPower(n);
     }
 }
