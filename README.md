@@ -310,6 +310,7 @@ I solved the leetCode problems and upload here daily.
 | [0594-longest-harmonious-subsequence](https://github.com/RohanKumarJha/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/RohanKumarJha/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/RohanKumarJha/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0900-reordered-power-of-2](https://github.com/RohanKumarJha/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/RohanKumarJha/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/RohanKumarJha/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -400,6 +401,7 @@ I solved the leetCode problems and upload here daily.
 | [0797-rabbits-in-forest](https://github.com/RohanKumarJha/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/RohanKumarJha/LeetCode/tree/master/0826-soup-servings) |
 | [0866-rectangle-overlap](https://github.com/RohanKumarJha/LeetCode/tree/master/0866-rectangle-overlap) |
+| [0900-reordered-power-of-2](https://github.com/RohanKumarJha/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0903-implement-rand10-using-rand7](https://github.com/RohanKumarJha/LeetCode/tree/master/0903-implement-rand10-using-rand7) |
 | [1013-fibonacci-number](https://github.com/RohanKumarJha/LeetCode/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/RohanKumarJha/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
@@ -988,6 +990,7 @@ I solved the leetCode problems and upload here daily.
 | [0169-majority-element](https://github.com/RohanKumarJha/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0229-majority-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/RohanKumarJha/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/RohanKumarJha/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1160-letter-tile-possibilities](https://github.com/RohanKumarJha/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/RohanKumarJha/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/RohanKumarJha/LeetCode/tree/master/1364-tuple-with-same-product) |
@@ -1084,6 +1087,7 @@ I solved the leetCode problems and upload here daily.
 | [0435-non-overlapping-intervals](https://github.com/RohanKumarJha/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0594-longest-harmonious-subsequence](https://github.com/RohanKumarJha/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0780-max-chunks-to-make-sorted](https://github.com/RohanKumarJha/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0900-reordered-power-of-2](https://github.com/RohanKumarJha/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0941-sort-array-by-parity](https://github.com/RohanKumarJha/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/RohanKumarJha/LeetCode/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/RohanKumarJha/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -1468,6 +1472,7 @@ I solved the leetCode problems and upload here daily.
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/RohanKumarJha/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/RohanKumarJha/LeetCode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RohanKumarJha/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/RohanKumarJha/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
