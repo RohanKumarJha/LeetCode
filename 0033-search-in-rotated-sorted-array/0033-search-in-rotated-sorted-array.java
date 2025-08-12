@@ -5,8 +5,7 @@ class Solution {
             int mid = start+(end-start)/2;
             if(nums[mid] == target) {
                 return mid;
-            }
-
+            } 
             // Find the sorted side
             if(nums[start] <= nums[mid]) {
                 if(nums[start]<=target && target<=nums[mid]) {
@@ -16,11 +15,12 @@ class Solution {
                 }
             } else {
                 if(nums[mid]<=target && target<=nums[end]) {
-                    start = mid;
+                    start = mid+1;
                 } else {
-                    end = mid-1;
+                    end = mid;
                 }
-            } 
-        } return -1;
+            }
+        } 
+        return -1;
     }
 }
