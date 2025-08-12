@@ -7,10 +7,10 @@ class Solution {
             if(set.contains(s.charAt(end))) {
                 set.remove(s.charAt(start++));
             } else {
-                set.add(s.charAt(end));
-                end++;
+                set.add(s.charAt(end++));
+                maxLen = Math.max(maxLen, set.size());
             } 
-            maxLen = Math.max(maxLen, set.size());
-        } return maxLen;
-    }
+            
+        } return Math.max(maxLen, set.size());
+    } 
 }
