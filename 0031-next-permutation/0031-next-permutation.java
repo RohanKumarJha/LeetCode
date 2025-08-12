@@ -1,42 +1,37 @@
 class Solution {
-    public void reverse(int[] nums,int start,int end) {
-        while(start < end) {
-            swap(nums,start,end);
-            start++; end--;
-        }
-    }
-
-    public void swap(int[] nums,int start,int end) {
-        int temp = nums[start];
-        nums[start] = nums[end];
-        nums[end] = temp;
-    }
-
-    public int iterate(int[] nums,int start,int end) {
-        int box2 = end;
-        for(int i=start+1; i<=end; i++) {
-            if(nums[i] <= nums[start]) {
-                return box2;
-            } box2 = i;
-        } return box2;
-    }
-
     public void nextPermutation(int[] nums) {
-        int len = nums.length;
-        boolean flag = true;
-        int box = -1;
-        for(int i=len-1; i>0; i--) {
-            if(nums[i] > nums[i-1]) {
-                box = i-1;
-                int newBox = iterate(nums,i-1,len-1);
-                swap(nums,box,newBox);
-                reverse(nums,i,len-1);
-                flag = false;
-                break;
+        int n = nums.length;
+
+        // Step 1: Find first decreasing element from right
+        int i = n - 2;
+        while (i >= 0 && nums[i] >= nums[i + 1]) {
+            i--;
+        }
+
+        if (i >= 0) {
+            // Step 2: Find element just greater than nums[i] from right side
+            int j = n - 1;
+            while (nums[j] <= nums[i]) {
+                j--;
             }
+            swap(nums, i, j);
         }
-        if(flag) {
-            reverse(nums,0,len-1);
+
+        // Step 3: Reverse the right half
+        reverse(nums, i + 1, n - 1);
+    }
+
+    private void reverse(int[] nums, int start, int end) {
+        while (start < end) {
+            swap(nums, start, end);
+            start++;
+            end--;
         }
+    }
+
+    private void swap(int[] nums, int i, int j) {
+        int temp = nums[i];
+        nums[i] = nums[j];
+        nums[j] = temp;
     }
 }
