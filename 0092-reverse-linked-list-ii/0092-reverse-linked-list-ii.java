@@ -16,15 +16,15 @@ class Solution {
         for(int i=1; i<left; i++) {
             temp = temp.next;
         }
+
+        ListNode curr = temp;
+
         for(int i=0; i<arr.length; i++) {
             arr[i] = temp.val;
             temp = temp.next;
         }
 
-        temp = head;
-        for(int i=1; i<left; i++) {
-            temp = temp.next;
-        }
+        temp = curr;
 
         for(int i=arr.length-1; i>=0; i--) {
             temp.val = arr[i];
