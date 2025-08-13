@@ -1,26 +1,27 @@
 class Solution {
     public int trap(int[] height) {
-        int n = height.length;
+        int[] left = new int[height.length];
+        int[] right = new int[height.length];
 
-        int[] left = new int[n];
-
-        // For left array
-        int leftVal = Integer.MIN_VALUE;
-        for(int i=0; i<n; i++) {
-            leftVal = Math.max(leftVal, height[i]);
-            left[i] = leftVal;
+        for(int i=0; i<height.length; i++) {
+            if(i==0) {
+                left[i] = height[i];
+            } else {
+                left[i] = Math.max(height[i], left[i-1]);
+            }
         }
 
-        // For right array
-        int rightVal = Integer.MIN_VALUE;
-        for(int i=n-1; i>=0; i--) {
-            rightVal = Math.max(rightVal, height[i]);
-            left[i] = Math.min(rightVal,left[i]);
+        for(int i=height.length-1; i>=0; i--) {
+            if(i == height.length-1) {
+                right[i] = height[i];
+            } else {
+                right[i] = Math.max(height[i], right[i+1]);
+            }
         }
 
-        int sum = 0;
-        for(int i=0; i<n; i++) {
-            sum += (left[i]-height[i]);
-        } return sum;
+        int result = 0;
+        for(int i=0; i<height.length; i++) {
+            result += Math.min(left[i], right[i])-height[i];
+        } return result;
     }
 }
