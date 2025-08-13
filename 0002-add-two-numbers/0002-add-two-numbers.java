@@ -10,41 +10,34 @@
  */
 class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-        ListNode result = new ListNode();
-        ListNode temp = result;
-        int carry = 0;
-        int sum = 0;
-        while(l1 != null && l2 != null) {
-            sum = carry+l1.val+l2.val;
-            ListNode answer = new ListNode(sum % 10);
-            temp.next = answer;
-            carry = sum/10;
-            l1 = l1.next;
-            l2 = l2.next;
-            temp = temp.next;
-        }
-        while(l1 != null) {
-            sum = carry+l1.val;
-            ListNode answer = new ListNode(sum % 10);
-            temp.next = answer;
-            carry = sum/10;
-            l1 = l1.next;
-            temp = temp.next;
-        }
-        while(l2 != null) {
-            sum = carry+l2.val;
-            ListNode answer = new ListNode(sum % 10);
-            temp.next = answer;
-            carry = sum/10;
-            l2 = l2.next;
-            temp = temp.next;
-        } 
-        if(carry != 0) {
-            sum = carry;
-            ListNode answer = new ListNode(sum % 10);
-            temp.next = answer;
-            carry = sum/10;
-            temp = temp.next;
-        } return result.next;
+        int remainder = 0;
+        ListNode temp = null;
+        ListNode llHead = temp;
+        while(l1!=null || l2!=null || remainder!=0) {
+            int sum = 0;
+            if(l1!=null && l2!=null) {
+                sum += (l1.val+l2.val+remainder);
+                l1 = l1.next;
+                l2 = l2.next;
+            } else if(l1!=null) {
+                sum += (l1.val+remainder);
+                l1 = l1.next;
+            } else if(l2!=null) {
+                sum += (l2.val+remainder);
+                l2 = l2.next;
+            } else {
+                sum += remainder;
+            }
+
+            ListNode curr = new ListNode(sum%10);
+            if(temp == null) {
+                temp = curr;
+                llHead = curr;
+            } else {
+                temp.next = curr;
+                temp = temp.next;
+            }
+            remainder = sum/10;
+        } return llHead;
     }
 }
