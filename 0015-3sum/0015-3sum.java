@@ -2,11 +2,11 @@ class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
         int len = nums.length;
         Arrays.sort(nums);
-        int start=0;
         Set<List<Integer>> set = new HashSet<>();
-        while(start < len-2) {
+        for(int start=0; start<len; start++) {
             int mid = start+1, end=nums.length-1;
             if(nums[start] > 0) break;
+            if(start > 0 && nums[start-1] == nums[start]) continue;
             while(mid < end) {
                 if(nums[start]+nums[mid]+nums[end] == 0) {
                     List<Integer> list = new ArrayList<>();
@@ -20,7 +20,7 @@ class Solution {
                 } else {
                     end--;
                 }
-            } start++;
+            }
         } return new ArrayList<>(set);
     }
 }
