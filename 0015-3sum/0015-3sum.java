@@ -6,6 +6,7 @@ class Solution {
         Set<List<Integer>> set = new HashSet<>();
         while(start < len-2) {
             int mid = start+1, end=nums.length-1;
+            if(nums[start] > 0) break;
             while(mid < end) {
                 if(nums[start]+nums[mid]+nums[end] == 0) {
                     List<Integer> list = new ArrayList<>();
