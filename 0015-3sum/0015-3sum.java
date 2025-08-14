@@ -3,7 +3,7 @@ class Solution {
         int len = nums.length;
         Arrays.sort(nums);
         Set<List<Integer>> set = new HashSet<>();
-        for(int start=0; start<len; start++) {
+        for(int start=0; start<len-2; start++) {
             int mid = start+1, end=nums.length-1;
             if(nums[start] > 0) break;
             if(start > 0 && nums[start-1] == nums[start]) continue;
