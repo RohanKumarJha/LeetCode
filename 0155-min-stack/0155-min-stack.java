@@ -1,44 +1,47 @@
-class MinStack {
+import java.util.Stack;
 
-    private Stack<Integer> stack;
-    private Stack<Integer> minStack;
+class MinStack {
+    private Stack<Integer> st;       // Main stack to store elements
+    private Stack<Integer> minStack; // Auxiliary stack to track minimum values
 
     public MinStack() {
-        stack = new Stack<>();
+        st = new Stack<>();
         minStack = new Stack<>();
     }
     
     public void push(int val) {
-        stack.push(val);
-        if(minStack.isEmpty() || minStack.peek()>val) {
+        st.push(val);
+        if (minStack.isEmpty() || val <= minStack.peek()) {
             minStack.push(val);
         }
     }
     
     public void pop() {
-        if(stack.isEmpty()) {
+        if (st.isEmpty()) {
+            System.out.println("Stack Underflow");
             return;
         }
-        int element = stack.pop();
-        if(element == minStack.peek()) {
+        int removed = st.pop();
+        if (removed == minStack.peek()) {
             minStack.pop();
         }
     }
     
     public int top() {
-        if (stack.isEmpty()) {
+        if (st.isEmpty()) {
             throw new RuntimeException("Stack is empty");
         }
-        return stack.peek();
+        return st.peek();
     }
     
     public int getMin() {
-        if (stack.isEmpty()) {
+        if (minStack.isEmpty()) {
             throw new RuntimeException("Stack is empty");
         }
-        return stack.peek();
+        return minStack.peek();
     }
 }
+
 
 /**
  * Your MinStack object will be instantiated and called as such:
