@@ -406,6 +406,7 @@ I solved the leetCode problems and upload here daily.
 | [0797-rabbits-in-forest](https://github.com/RohanKumarJha/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/RohanKumarJha/LeetCode/tree/master/0826-soup-servings) |
 | [0866-rectangle-overlap](https://github.com/RohanKumarJha/LeetCode/tree/master/0866-rectangle-overlap) |
+| [0867-new-21-game](https://github.com/RohanKumarJha/LeetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/RohanKumarJha/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0903-implement-rand10-using-rand7](https://github.com/RohanKumarJha/LeetCode/tree/master/0903-implement-rand10-using-rand7) |
 | [1013-fibonacci-number](https://github.com/RohanKumarJha/LeetCode/tree/master/1013-fibonacci-number) |
@@ -824,6 +825,7 @@ I solved the leetCode problems and upload here daily.
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/RohanKumarJha/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0806-domino-and-tromino-tiling](https://github.com/RohanKumarJha/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/RohanKumarJha/LeetCode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/RohanKumarJha/LeetCode/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/RohanKumarJha/LeetCode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/RohanKumarJha/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/RohanKumarJha/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -1044,6 +1046,7 @@ I solved the leetCode problems and upload here daily.
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/RohanKumarJha/LeetCode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/RohanKumarJha/LeetCode/tree/master/0867-new-21-game) |
 | [0903-implement-rand10-using-rand7](https://github.com/RohanKumarJha/LeetCode/tree/master/0903-implement-rand10-using-rand7) |
 ## Bit Manipulation
 |  |
@@ -1229,6 +1232,7 @@ I solved the leetCode problems and upload here daily.
 | [0567-permutation-in-string](https://github.com/RohanKumarJha/LeetCode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/RohanKumarJha/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/RohanKumarJha/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0867-new-21-game](https://github.com/RohanKumarJha/LeetCode/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/RohanKumarJha/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/RohanKumarJha/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/RohanKumarJha/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
