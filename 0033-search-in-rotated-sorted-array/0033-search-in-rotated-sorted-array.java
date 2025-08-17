@@ -4,9 +4,8 @@ class Solution {
         while(start <= end) {
             int mid = start+(end-start)/2;
             if(nums[mid] == target) return mid;
-            // Find the sorted side
             if(nums[start] <= nums[mid]) {
-                if(nums[start]<= target && target<=nums[mid]) {
+                if(nums[start]<=target && target<=nums[mid]) {
                     end = mid;
                 } else {
                     start = mid+1;
@@ -17,7 +16,7 @@ class Solution {
                 } else {
                     end = mid-1;
                 }
-            } 
+            }
         } return -1;
     }
 }
