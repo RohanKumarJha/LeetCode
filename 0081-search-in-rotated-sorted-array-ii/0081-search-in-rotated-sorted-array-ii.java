@@ -1,14 +1,14 @@
 class Solution {
     public boolean search(int[] nums, int target) {
         int start=0, end=nums.length-1;
-        if(start==end && nums[start]!=target) return false;
         while(start <= end) {
             int mid = start+(end-start)/2;
-            if(nums[mid] == target) return true;
-            else if(nums[start]==nums[end] && nums[start]!=target) {
-                start++; end--;
-            }
-            else if(nums[start]<=nums[mid]) {
+             if(nums[mid] == target) {
+                return true;
+            } else if(nums[start] == nums[end]  && nums[start]!=target) {
+                start++;
+                end--;
+            } else if(nums[start] <= nums[mid]) {
                 if(nums[start]<=target && target<=nums[mid]) {
                     end = mid;
                 } else {
