@@ -84,6 +84,7 @@ I solved the leetCode problems and upload here daily.
 | [0594-longest-harmonious-subsequence](https://github.com/RohanKumarJha/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/RohanKumarJha/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/RohanKumarJha/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0679-24-game](https://github.com/RohanKumarJha/LeetCode/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/RohanKumarJha/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0724-find-pivot-index](https://github.com/RohanKumarJha/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/RohanKumarJha/LeetCode/tree/master/0735-asteroid-collision) |
@@ -402,6 +403,7 @@ I solved the leetCode problems and upload here daily.
 | [0412-fizz-buzz](https://github.com/RohanKumarJha/LeetCode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/RohanKumarJha/LeetCode/tree/master/0441-arranging-coins) |
 | [0477-total-hamming-distance](https://github.com/RohanKumarJha/LeetCode/tree/master/0477-total-hamming-distance) |
+| [0679-24-game](https://github.com/RohanKumarJha/LeetCode/tree/master/0679-24-game) |
 | [0728-self-dividing-numbers](https://github.com/RohanKumarJha/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0797-rabbits-in-forest](https://github.com/RohanKumarJha/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/RohanKumarJha/LeetCode/tree/master/0826-soup-servings) |
@@ -1409,6 +1411,7 @@ I solved the leetCode problems and upload here daily.
 | [0078-subsets](https://github.com/RohanKumarJha/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/RohanKumarJha/LeetCode/tree/master/0494-target-sum) |
+| [0679-24-game](https://github.com/RohanKumarJha/LeetCode/tree/master/0679-24-game) |
 | [1160-letter-tile-possibilities](https://github.com/RohanKumarJha/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/RohanKumarJha/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/RohanKumarJha/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
