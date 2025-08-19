@@ -1,20 +1,19 @@
 class Solution {
     public boolean canConstruct(String ransomNote, String magazine) {
-        if(ransomNote.length() > magazine.length()) return false;
-        char[] ransomNoteChar = ransomNote.toCharArray();
-        char[] magazineChar = magazine.toCharArray();
-        Arrays.sort(ransomNoteChar);
-        Arrays.sort(magazineChar);
-        int pointer1 = 0;
-        int pointer2 = 0;
-        while(pointer1<ransomNoteChar.length && pointer2<magazineChar.length) {
-            if(ransomNoteChar[pointer1] == magazineChar[pointer2]) {
-                pointer1++;
-                pointer2++;
-            } else {
-                pointer2++;
-            }
+        Map<Character, Integer> map = new HashMap<>();
+        for(int i=0; i<magazine.length(); i++) {
+            map.put(magazine.charAt(i), map.getOrDefault(magazine.charAt(i),0) + 1);
         }
-        return (pointer1 == ransomNoteChar.length) ? true : false;
+
+        for(int i=0; i<ransomNote.length(); i++) {
+            if(map.containsKey(ransomNote.charAt(i))) {
+                map.put(ransomNote.charAt(i), map.get(ransomNote.charAt(i))-1);
+                if(map.get(ransomNote.charAt(i)) < 0) {
+                    return false;
+                }
+            } else {
+                return false;
+            }
+        } return true;
     }
 }
