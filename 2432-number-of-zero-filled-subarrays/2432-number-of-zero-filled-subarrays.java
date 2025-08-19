@@ -1,10 +1,14 @@
 class Solution {
     public long zeroFilledSubarray(int[] nums) {
-        long cnt = 0, streak = 0;
-        for (int num : nums) {
-            streak = (num == 0) ? streak + 1 : 0;
-            cnt += streak;
-        }
-        return cnt;
+        long result = 0;
+        long indexOfzeroes = 0;
+        for(int i=0; i<nums.length; i++) {
+            if(nums[i] == 0) {
+                indexOfzeroes++;
+                result += indexOfzeroes;
+            } else {
+                indexOfzeroes = 0;
+            }
+        } return result;
     }
 }
