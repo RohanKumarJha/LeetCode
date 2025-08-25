@@ -78,6 +78,7 @@ I solved the leetCode problems and upload here daily.
 | [0477-total-hamming-distance](https://github.com/RohanKumarJha/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/RohanKumarJha/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/RohanKumarJha/LeetCode/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/RohanKumarJha/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RohanKumarJha/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RohanKumarJha/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/RohanKumarJha/LeetCode/tree/master/0566-reshape-the-matrix) |
@@ -579,6 +580,7 @@ I solved the leetCode problems and upload here daily.
 | ------- |
 | [0054-spiral-matrix](https://github.com/RohanKumarJha/LeetCode/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/RohanKumarJha/LeetCode/tree/master/0412-fizz-buzz) |
+| [0498-diagonal-traverse](https://github.com/RohanKumarJha/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/RohanKumarJha/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/RohanKumarJha/LeetCode/tree/master/0735-asteroid-collision) |
 | [0861-flipping-an-image](https://github.com/RohanKumarJha/LeetCode/tree/master/0861-flipping-an-image) |
@@ -620,6 +622,7 @@ I solved the leetCode problems and upload here daily.
 | [0074-search-a-2d-matrix](https://github.com/RohanKumarJha/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0498-diagonal-traverse](https://github.com/RohanKumarJha/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/RohanKumarJha/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0854-making-a-large-island](https://github.com/RohanKumarJha/LeetCode/tree/master/0854-making-a-large-island) |
 | [0861-flipping-an-image](https://github.com/RohanKumarJha/LeetCode/tree/master/0861-flipping-an-image) |
