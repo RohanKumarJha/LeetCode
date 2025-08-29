@@ -447,6 +447,7 @@ I solved the leetCode problems and upload here daily.
 | [2415-count-the-number-of-ideal-arrays](https://github.com/RohanKumarJha/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/RohanKumarJha/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/RohanKumarJha/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [2481-strictly-palindromic-number](https://github.com/RohanKumarJha/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/RohanKumarJha/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2610-closest-prime-numbers-in-range](https://github.com/RohanKumarJha/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2619-categorize-box-according-to-criteria](https://github.com/RohanKumarJha/LeetCode/tree/master/2619-categorize-box-according-to-criteria) |
@@ -709,6 +710,7 @@ I solved the leetCode problems and upload here daily.
 | [2271-rearrange-array-elements-by-sign](https://github.com/RohanKumarJha/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/RohanKumarJha/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/RohanKumarJha/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2481-strictly-palindromic-number](https://github.com/RohanKumarJha/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RohanKumarJha/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/RohanKumarJha/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/RohanKumarJha/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -1468,6 +1470,7 @@ I solved the leetCode problems and upload here daily.
 ## Brainteaser
 |  |
 | ------- |
+| [2481-strictly-palindromic-number](https://github.com/RohanKumarJha/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/RohanKumarJha/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/RohanKumarJha/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Shortest Path
