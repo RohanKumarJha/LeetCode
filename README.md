@@ -259,6 +259,7 @@ I solved the leetCode problems and upload here daily.
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/RohanKumarJha/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/RohanKumarJha/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/RohanKumarJha/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/RohanKumarJha/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/RohanKumarJha/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/RohanKumarJha/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/RohanKumarJha/LeetCode/tree/master/3321-type-of-triangle) |
@@ -462,6 +463,7 @@ I solved the leetCode problems and upload here daily.
 | [3201-distribute-candies-among-children-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/RohanKumarJha/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/RohanKumarJha/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/RohanKumarJha/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/RohanKumarJha/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/RohanKumarJha/LeetCode/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/RohanKumarJha/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
@@ -1170,6 +1172,7 @@ I solved the leetCode problems and upload here daily.
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/RohanKumarJha/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/RohanKumarJha/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/RohanKumarJha/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/RohanKumarJha/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/RohanKumarJha/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/RohanKumarJha/LeetCode/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/RohanKumarJha/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -1216,6 +1219,7 @@ I solved the leetCode problems and upload here daily.
 |  |
 | ------- |
 | [0866-rectangle-overlap](https://github.com/RohanKumarJha/LeetCode/tree/master/0866-rectangle-overlap) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/RohanKumarJha/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -1542,6 +1546,7 @@ I solved the leetCode problems and upload here daily.
 | [2215-finding-3-digit-even-numbers](https://github.com/RohanKumarJha/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/RohanKumarJha/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/RohanKumarJha/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/RohanKumarJha/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/RohanKumarJha/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
