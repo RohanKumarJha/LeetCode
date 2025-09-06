@@ -1337,6 +1337,7 @@ I solved the leetCode problems and upload here daily.
 | [0145-binary-tree-postorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/RohanKumarJha/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/RohanKumarJha/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1035-cousins-in-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -1362,6 +1363,7 @@ I solved the leetCode problems and upload here daily.
 | [0145-binary-tree-postorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/RohanKumarJha/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/RohanKumarJha/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/RohanKumarJha/LeetCode/tree/master/0684-redundant-connection) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/RohanKumarJha/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0820-find-eventual-safe-states](https://github.com/RohanKumarJha/LeetCode/tree/master/0820-find-eventual-safe-states) |
@@ -1428,6 +1430,7 @@ I solved the leetCode problems and upload here daily.
 | [0145-binary-tree-postorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/RohanKumarJha/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/RohanKumarJha/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1035-cousins-in-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
