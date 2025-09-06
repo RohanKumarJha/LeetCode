@@ -1118,6 +1118,7 @@ I solved the leetCode problems and upload here daily.
 | [2529-range-product-queries-of-powers](https://github.com/RohanKumarJha/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/RohanKumarJha/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/RohanKumarJha/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/RohanKumarJha/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/RohanKumarJha/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/RohanKumarJha/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/RohanKumarJha/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -1504,6 +1505,7 @@ I solved the leetCode problems and upload here daily.
 | [2481-strictly-palindromic-number](https://github.com/RohanKumarJha/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/RohanKumarJha/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/RohanKumarJha/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/RohanKumarJha/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1566,6 +1568,7 @@ I solved the leetCode problems and upload here daily.
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RohanKumarJha/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/RohanKumarJha/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/RohanKumarJha/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/RohanKumarJha/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2998-count-symmetric-integers](https://github.com/RohanKumarJha/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
