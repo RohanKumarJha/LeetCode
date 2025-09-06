@@ -1,21 +1,21 @@
 class Solution {
-    private int ans = 0; // global to track maximum diameter
+    private int result = 0;
 
-    private int diameter(TreeNode root) {
+    private int diam(TreeNode root) {
         if (root == null) return 0;
 
-        int leftHeight = diameter(root.left);
-        int rightHeight = diameter(root.right);
+        int leftHeight = diam(root.left);
+        int rightHeight = diam(root.right);
 
-        // update diameter at this node
-        ans = Math.max(ans, leftHeight + rightHeight);
+        // diameter through current node
+        result = Math.max(result, leftHeight + rightHeight);
 
-        // return height of current node
+        // return height of subtree
         return 1 + Math.max(leftHeight, rightHeight);
     }
 
     public int diameterOfBinaryTree(TreeNode root) {
-        diameter(root);
-        return ans;
+        diam(root);
+        return result;
     }
 }
