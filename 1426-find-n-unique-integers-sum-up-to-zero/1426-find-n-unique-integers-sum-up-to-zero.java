@@ -1,0 +1,11 @@
+class Solution {
+    public int[] sumZero(int n) {
+        int[] arr = new int[n];
+        int sum = 0;
+        for(int i=1; i<n; i++) {
+            arr[i] = i;
+            sum += i;
+        } arr[0] = -sum;
+        return arr;
+    }
+}
