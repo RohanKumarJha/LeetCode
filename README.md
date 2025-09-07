@@ -129,6 +129,7 @@ I solved the leetCode problems and upload here daily.
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/RohanKumarJha/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RohanKumarJha/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/RohanKumarJha/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/RohanKumarJha/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1435-xor-queries-of-a-subarray](https://github.com/RohanKumarJha/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RohanKumarJha/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/RohanKumarJha/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -434,6 +435,7 @@ I solved the leetCode problems and upload here daily.
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/RohanKumarJha/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RohanKumarJha/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RohanKumarJha/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/RohanKumarJha/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/RohanKumarJha/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/RohanKumarJha/LeetCode/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/RohanKumarJha/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
