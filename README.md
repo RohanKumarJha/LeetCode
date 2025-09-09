@@ -610,6 +610,7 @@ I solved the leetCode problems and upload here daily.
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/RohanKumarJha/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/RohanKumarJha/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/RohanKumarJha/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/RohanKumarJha/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2470-removing-stars-from-a-string](https://github.com/RohanKumarJha/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2479-meeting-rooms-iii](https://github.com/RohanKumarJha/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/RohanKumarJha/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -883,6 +884,7 @@ I solved the leetCode problems and upload here daily.
 | [2262-solving-questions-with-brainpower](https://github.com/RohanKumarJha/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/RohanKumarJha/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/RohanKumarJha/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/RohanKumarJha/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/RohanKumarJha/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2562-count-ways-to-build-good-strings](https://github.com/RohanKumarJha/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/RohanKumarJha/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -1310,6 +1312,7 @@ I solved the leetCode problems and upload here daily.
 | ------- |
 | [0860-design-circular-queue](https://github.com/RohanKumarJha/LeetCode/tree/master/0860-design-circular-queue) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RohanKumarJha/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/RohanKumarJha/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/RohanKumarJha/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/RohanKumarJha/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/RohanKumarJha/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
