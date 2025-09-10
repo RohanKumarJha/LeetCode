@@ -1343,6 +1343,7 @@ I solved the leetCode problems and upload here daily.
 | [0145-binary-tree-postorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/RohanKumarJha/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/RohanKumarJha/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/RohanKumarJha/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -1370,6 +1371,7 @@ I solved the leetCode problems and upload here daily.
 | [0145-binary-tree-postorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/RohanKumarJha/LeetCode/tree/master/0386-lexicographical-numbers) |
+| [0404-sum-of-left-leaves](https://github.com/RohanKumarJha/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/RohanKumarJha/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/RohanKumarJha/LeetCode/tree/master/0684-redundant-connection) |
@@ -1402,6 +1404,7 @@ I solved the leetCode problems and upload here daily.
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/RohanKumarJha/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/RohanKumarJha/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/RohanKumarJha/LeetCode/tree/master/0684-redundant-connection) |
@@ -1439,6 +1442,7 @@ I solved the leetCode problems and upload here daily.
 | [0145-binary-tree-postorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/RohanKumarJha/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/RohanKumarJha/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/RohanKumarJha/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
