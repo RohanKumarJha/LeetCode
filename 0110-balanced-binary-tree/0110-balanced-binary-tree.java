@@ -1,21 +1,16 @@
 class Solution {
-    public boolean isBalanced(TreeNode root) {
-        return checkHeight(root) != -1;
+    public int maxHeight(TreeNode root) {
+        if(root == null) return 0;
+        return 1+Math.max(maxHeight(root.left),maxHeight(root.right));
     }
 
-    private int checkHeight(TreeNode node) {
-        if (node == null) {
-            return 0;
+    public boolean isBalanced(TreeNode root) {
+        if(root == null) {
+            return true;
         }
-
-        int leftHeight = checkHeight(node.left);
-        if (leftHeight == -1) return -1;
-
-        int rightHeight = checkHeight(node.right);
-        if (rightHeight == -1) return -1;
-
-        if (Math.abs(leftHeight - rightHeight) > 1) return -1;
-
-        return Math.max(leftHeight, rightHeight) + 1;
+        int left = maxHeight(root.left);
+        int right = maxHeight(root.right);
+        if(Math.abs(left-right) > 1) return false;
+        return isBalanced(root.left) && isBalanced(root.right);
     }
 }
