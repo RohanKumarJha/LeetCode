@@ -6,22 +6,16 @@ class Solution {
         queue.add(root);
         int level = 0;
         while(!queue.isEmpty()) {
-            Stack<TreeNode> stack = new Stack<>();
             int size = queue.size();
             List<Integer> list = new ArrayList<>();
             for(int i=0; i<size; i++) {
                 TreeNode temp = queue.poll();
                 if(temp.left != null) queue.add(temp.left);
                 if(temp.right != null) queue.add(temp.right);
-                if(level % 2 == 0) {
-                    list.add(temp.val);
-                } else {
-                    stack.push(temp);
-                }
+                list.add(temp.val);
             }
-            while(!stack.isEmpty()) {
-                list.add(stack.peek().val);
-                stack.pop();
+            if(level % 2 != 0) {
+                Collections.reverse(list);
             } result.add(list);
             level++;
         } return result;
