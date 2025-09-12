@@ -1,35 +1,39 @@
 class Solution {
-    public boolean isDifferentParents(TreeNode root, int x, int y) {
-        if (root == null) return true;
-
-        if (root.left != null && root.right != null) {
-            if ((root.left.val == x && root.right.val == y) || 
-                (root.left.val == y && root.right.val == x)) {
-                return false; // same parent
-            }
-        }
-
-        // Recurse on both sides, return true if they don't share same parent anywhere
-        return isDifferentParents(root.left, x, y) && isDifferentParents(root.right, x, y);
+    public boolean checkParent(TreeNode root, int x, int y) {
+        Queue<TreeNode> queue = new LinkedList<>();
+        queue.add(root);
+        while(!queue.isEmpty()) {
+            int size = queue.size();
+            for(int i=0; i<size; i++) {  
+                TreeNode temp = queue.poll();
+                if(temp.left != null && temp.right!= null) {
+                    if((temp.left.val==x && temp.right.val==y) || ((temp.left.val==y && temp.right.val==x))) return false;
+                }
+                if(temp.left != null) queue.add(temp.left);
+                if(temp.right != null) queue.add(temp.right);
+            } 
+        } return true;
     }
 
-    public int level(TreeNode root, int x, int level) {
-        if (root == null) return -1;
-        if (root.val == x) return level;
-
-        int left = level(root.left, x, level + 1);
-        if (left != -1) return left;
-
-        return level(root.right, x, level + 1);
-    }
-
-    public boolean isSameLevel(TreeNode root, int x, int y) {
-        int levelOfX = level(root, x, 0);
-        int levelOfY = level(root, y, 0);
-        return levelOfX == levelOfY;
+    public int level(TreeNode root, int x) {
+        int level = 0;
+        Queue<TreeNode> queue = new LinkedList<>();
+        queue.add(root);
+        while(!queue.isEmpty()) {
+            int size = queue.size();
+            for(int i=0; i<size; i++) {  
+                TreeNode temp = queue.poll();
+                if(temp.val == x) return level;
+                if(temp.left != null) queue.add(temp.left);
+                if(temp.right != null) queue.add(temp.right);
+            } level++;
+        } return level;
     }
 
     public boolean isCousins(TreeNode root, int x, int y) {
-        return isSameLevel(root, x, y) && isDifferentParents(root, x, y);
+        int levelOfX = level(root, x);
+        int levelOfY = level(root, y);
+        if(levelOfX != levelOfY) return false;
+        return checkParent(root, x, y);
     }
 }
