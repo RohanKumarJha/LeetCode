@@ -1364,6 +1364,7 @@ I solved the leetCode problems and upload here daily.
 | [0513-find-bottom-left-tree-value](https://github.com/RohanKumarJha/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/RohanKumarJha/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1035-cousins-in-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -1475,6 +1476,7 @@ I solved the leetCode problems and upload here daily.
 | [0513-find-bottom-left-tree-value](https://github.com/RohanKumarJha/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/RohanKumarJha/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1035-cousins-in-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -1638,4 +1640,8 @@ I solved the leetCode problems and upload here daily.
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/RohanKumarJha/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
