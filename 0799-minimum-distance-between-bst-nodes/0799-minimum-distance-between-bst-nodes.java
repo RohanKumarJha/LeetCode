@@ -1,17 +1,19 @@
 class Solution {
-    public List<Integer> minDiff(TreeNode root, List<Integer> list) {
-        if(root == null) return list;
-        minDiff(root.left, list);
-        list.add(root.val);
-        minDiff(root.right, list);
-        return list;
-    }
+    Integer prev = null;
+    int minDiff = Integer.MAX_VALUE;
 
     public int minDiffInBST(TreeNode root) {
-        List<Integer> list = minDiff(root,new ArrayList<>());
-        int result = Integer.MAX_VALUE;
-        for(int i=1; i<list.size(); i++) {
-            result = Math.min(result,Math.abs(list.get(i)-list.get(i-1)));
-        } return result;
+        inorder(root);
+        return minDiff;
+    }
+
+    private void inorder(TreeNode root) {
+        if (root == null) return;
+        inorder(root.left);
+        if (prev != null) {
+            minDiff = Math.min(minDiff, root.val - prev);
+        }
+        prev = root.val;
+        inorder(root.right);
     }
 }
