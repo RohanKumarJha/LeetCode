@@ -1366,6 +1366,7 @@ I solved the leetCode problems and upload here daily.
 | [0515-find-largest-value-in-each-tree-row](https://github.com/RohanKumarJha/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/RohanKumarJha/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1035-cousins-in-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -1401,6 +1402,7 @@ I solved the leetCode problems and upload here daily.
 | [0543-diameter-of-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/RohanKumarJha/LeetCode/tree/master/0684-redundant-connection) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/RohanKumarJha/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/RohanKumarJha/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0820-find-eventual-safe-states](https://github.com/RohanKumarJha/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/RohanKumarJha/LeetCode/tree/master/0854-making-a-large-island) |
 | [1035-cousins-in-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/1035-cousins-in-binary-tree) |
@@ -1437,6 +1439,7 @@ I solved the leetCode problems and upload here daily.
 | [0513-find-bottom-left-tree-value](https://github.com/RohanKumarJha/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/RohanKumarJha/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/RohanKumarJha/LeetCode/tree/master/0684-redundant-connection) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/RohanKumarJha/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0820-find-eventual-safe-states](https://github.com/RohanKumarJha/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/RohanKumarJha/LeetCode/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/RohanKumarJha/LeetCode/tree/master/0945-snakes-and-ladders) |
@@ -1480,6 +1483,7 @@ I solved the leetCode problems and upload here daily.
 | [0515-find-largest-value-in-each-tree-row](https://github.com/RohanKumarJha/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/RohanKumarJha/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1035-cousins-in-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -1648,4 +1652,5 @@ I solved the leetCode problems and upload here daily.
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/RohanKumarJha/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
