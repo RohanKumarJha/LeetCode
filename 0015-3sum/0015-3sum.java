@@ -1,22 +1,21 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-        int len = nums.length;
         Arrays.sort(nums);
         Set<List<Integer>> set = new HashSet<>();
-        for(int start=0; start<len-2; start++) {
-            int mid = start+1, end=nums.length-1;
-            if(nums[start] > 0) break;
-            if(start > 0 && nums[start-1] == nums[start]) continue;
+        for(int i=0; i<nums.length-2; i++) {
+            int mid=i+1;
+            int end=nums.length-1;
             while(mid < end) {
-                if(nums[start]+nums[mid]+nums[end] == 0) {
-                    List<Integer> list = new ArrayList<>();
-                    list.add(nums[start]);
+                List<Integer> list = new ArrayList<>();
+                int sum = nums[i]+nums[mid]+nums[end];
+                if(sum < 0) {
+                    mid++;
+                } else if(sum == 0) {
+                    list.add(nums[i]);
                     list.add(nums[mid]);
                     list.add(nums[end]);
                     set.add(list);
                     mid++; end--;
-                } else if(nums[start]+nums[mid]+nums[end] < 0) {
-                    mid++;
                 } else {
                     end--;
                 }
