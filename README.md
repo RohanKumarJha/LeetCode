@@ -38,6 +38,7 @@ I solved the leetCode problems and upload here daily.
 | [0074-search-a-2d-matrix](https://github.com/RohanKumarJha/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/RohanKumarJha/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/RohanKumarJha/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/RohanKumarJha/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RohanKumarJha/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -503,6 +504,7 @@ I solved the leetCode problems and upload here daily.
 | [0049-group-anagrams](https://github.com/RohanKumarJha/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/RohanKumarJha/LeetCode/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/RohanKumarJha/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/RohanKumarJha/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/RohanKumarJha/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/RohanKumarJha/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0179-largest-number) |
@@ -647,6 +649,7 @@ I solved the leetCode problems and upload here daily.
 | [0054-spiral-matrix](https://github.com/RohanKumarJha/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/RohanKumarJha/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/RohanKumarJha/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/RohanKumarJha/LeetCode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/RohanKumarJha/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -1388,6 +1391,7 @@ I solved the leetCode problems and upload here daily.
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/RohanKumarJha/LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0100-same-tree) |
@@ -1538,6 +1542,7 @@ I solved the leetCode problems and upload here daily.
 | [0040-combination-sum-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/RohanKumarJha/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/RohanKumarJha/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/RohanKumarJha/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/RohanKumarJha/LeetCode/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/RohanKumarJha/LeetCode/tree/master/0679-24-game) |
