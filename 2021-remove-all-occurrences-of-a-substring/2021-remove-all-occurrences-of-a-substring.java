@@ -7,7 +7,7 @@ class Solution {
             int index = sb.indexOf(part);
             if(index == -1) break;
             sb.delete(index, index+partLength);
-        }
+        } 
 
         return sb.toString();
     }
