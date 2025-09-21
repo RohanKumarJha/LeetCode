@@ -1,21 +1,20 @@
 class Solution {
     public String reverseWords(String s) {
-        StringBuilder sb = new StringBuilder();
+        boolean flag = false;
+        String answer = "";
+        int start=0, end=0;
         s = s.trim();
-        int len = s.length();
-        int count = len;
-        boolean flag = true;
-        for(int i=len-1; i>=0; i--) {
-            if(s.charAt(i)==' ' && flag==true) {
-                sb.append(s.substring(i+1,count)).append(' ');
-                count = i;
-                flag = false;
-            } else if(s.charAt(i)==' ' && flag==false) {
-                count = i;
-            } else {
+        for(int i=s.length()-1; i>=0; i--) {
+            if(s.charAt(i)!=' ' && flag==false) {
+                end = i;
                 flag = true;
+            } else if(s.charAt(i)==' ' && flag==true) {
+                start = i;
+                answer += s.substring(start+1,end+1);
+                answer += " ";
+                flag = false;
             }
-        } sb.append(s.substring(0,count));
-        return sb.toString();
+        } answer += s.substring(0, end+1);
+        return answer;
     }
 }
