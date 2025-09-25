@@ -47,6 +47,7 @@ I solved the leetCode problems and upload here daily.
 | [0090-subsets-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/RohanKumarJha/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/RohanKumarJha/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RohanKumarJha/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/RohanKumarJha/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -873,6 +874,7 @@ I solved the leetCode problems and upload here daily.
 | [0062-unique-paths](https://github.com/RohanKumarJha/LeetCode/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/RohanKumarJha/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/RohanKumarJha/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RohanKumarJha/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/RohanKumarJha/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
