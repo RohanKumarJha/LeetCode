@@ -1,32 +1,19 @@
 class Solution {
     public boolean isValid(String s) {
-        if (s.length() % 2 != 0) return false;
-
-        StringBuilder sb = new StringBuilder();
-
-        for (int i = 0; i < s.length(); i++) {
-            char ch = s.charAt(i);
-
-            // Push opening brackets
-            if (ch == '(' || ch == '[' || ch == '{') {
-                sb.append(ch);
-            } 
-            // For closing brackets, check if matching with last in sb
-            else {
-                if (sb.length() == 0) return false; // No opening to match
-
-                char last = sb.charAt(sb.length() - 1);
-
-                if ((ch == ')' && last == '(') ||
-                    (ch == ']' && last == '[') ||
-                    (ch == '}' && last == '{')) {
-                    sb.deleteCharAt(sb.length() - 1); // Remove matched
-                } else {
-                    return false; // Mismatch
-                }
+        Stack<Character> st = new Stack<>();
+        for(int i=0; i<s.length(); i++) {
+            if(s.charAt(i)=='(' || s.charAt(i)=='{' || s.charAt(i)=='[') {
+                st.push(s.charAt(i));
+            } else if((s.charAt(i)==')' || s.charAt(i)=='}' || s.charAt(i)==']') && st.size()==0) {
+                return false;
+            } else if((s.charAt(i)==')' && st.peek()=='(')
+                || (s.charAt(i)=='}' && st.peek()=='{')
+                ||  (s.charAt(i)==']' && st.peek()=='[')) {
+                st.pop();
+            } else {
+                return false;
             }
         }
-
-        return sb.length() == 0; // If empty, all matched
+        return (st.size() == 0) ? true : false;
     }
 }
