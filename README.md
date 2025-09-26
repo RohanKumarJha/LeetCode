@@ -941,6 +941,7 @@ I solved the leetCode problems and upload here daily.
 | [0150-evaluate-reverse-polish-notation](https://github.com/RohanKumarJha/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/RohanKumarJha/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/RohanKumarJha/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/RohanKumarJha/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/RohanKumarJha/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/RohanKumarJha/LeetCode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/RohanKumarJha/LeetCode/tree/master/0735-asteroid-collision) |
@@ -1350,6 +1351,7 @@ I solved the leetCode problems and upload here daily.
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/RohanKumarJha/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/RohanKumarJha/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0860-design-circular-queue](https://github.com/RohanKumarJha/LeetCode/tree/master/0860-design-circular-queue) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RohanKumarJha/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/RohanKumarJha/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -1624,6 +1626,7 @@ I solved the leetCode problems and upload here daily.
 | ------- |
 | [0155-min-stack](https://github.com/RohanKumarJha/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/RohanKumarJha/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/RohanKumarJha/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0380-insert-delete-getrandom-o1](https://github.com/RohanKumarJha/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0860-design-circular-queue](https://github.com/RohanKumarJha/LeetCode/tree/master/0860-design-circular-queue) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
