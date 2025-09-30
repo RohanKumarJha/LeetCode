@@ -8,9 +8,8 @@ class Solution {
             TreeNode temp = st.pop();
             if(temp.left!=null) st.push(temp.left);
             if(temp.right!=null) st.push(temp.right);
-            list.add(temp.val);
+            list.add(0,temp.val);
         }
-        Collections.reverse(list);
         return list;
     }
 }
