@@ -3,14 +3,13 @@ class Solution {
     public List<Integer> preorder(TreeNode root,List<Integer> list) {
         if(root == null) return list;
         list.add(root.val);
-        preorder(root.left, list);
-        preorder(root.right, list);
+        preorder(root.left,list);
+        preorder(root.right,list);
         return list;
     }
 
     public List<Integer> preorderTraversal(TreeNode root) {
-        List<Integer> list = new ArrayList<>();
-        List<Integer> result = preorder(root, list);
+        List<Integer> result = preorder(root,new ArrayList<>());
         return result;
     }
 }
