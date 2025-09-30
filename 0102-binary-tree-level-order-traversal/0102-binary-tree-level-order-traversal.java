@@ -8,7 +8,7 @@ class Solution {
             int size = q.size();
             List<Integer> list = new ArrayList<>();
             for(int i=0; i<size; i++) {
-                TreeNode temp = q.poll();
+                TreeNode temp = q.remove();
                 if(temp.left != null) q.add(temp.left);
                 if(temp.right != null) q.add(temp.right);
                 list.add(temp.val);
