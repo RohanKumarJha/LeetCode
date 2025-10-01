@@ -468,6 +468,7 @@ I solved the leetCode problems and upload here daily.
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/RohanKumarJha/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RohanKumarJha/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/RohanKumarJha/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1642-water-bottles](https://github.com/RohanKumarJha/LeetCode/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/RohanKumarJha/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [1861-building-boxes](https://github.com/RohanKumarJha/LeetCode/tree/master/1861-building-boxes) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/RohanKumarJha/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -633,6 +634,7 @@ I solved the leetCode problems and upload here daily.
 | [0861-flipping-an-image](https://github.com/RohanKumarJha/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/RohanKumarJha/LeetCode/tree/master/0898-transpose-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/RohanKumarJha/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
+| [1642-water-bottles](https://github.com/RohanKumarJha/LeetCode/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/RohanKumarJha/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RohanKumarJha/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/RohanKumarJha/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
