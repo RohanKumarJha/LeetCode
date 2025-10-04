@@ -1,28 +1,24 @@
 class Solution {
+
     public void conquor(int[] nums,int start,int mid,int end) {
-        int n1 = mid - start + 1;
-        int n2 = end - mid;
+        int size1 = mid-start+1;
+        int size2 = end-mid;
+        int[] left = new int[size1];
+        int[] right = new int[size2];
+        for(int i=0; i<size1; i++) left[i]=nums[i+start];
+        for(int i=0; i<size2; i++) right[i]=nums[mid+1+i];
 
-        int[] left = new int[n1];
-        int[] right = new int[n2];
-
-        for (int i = 0; i < n1; i++) left[i] = nums[start + i];
-        for (int i = 0; i < n2; i++) right[i] = nums[mid + 1 + i];
-
-        int i = 0, j = 0, k = start;
-
-        // Merge back into nums
-        while (i < n1 && j < n2) {
-            if (left[i] <= right[j]) {
+        int i=0, j=0, k=start;
+        while(i!=size1 && j!=size2) {
+            if(left[i] < right[j]) {
                 nums[k++] = left[i++];
             } else {
                 nums[k++] = right[j++];
             }
         }
 
-        // Copy remaining elements
-        while (i < n1) nums[k++] = left[i++];
-        while (j < n2) nums[k++] = right[j++];
+        while(i != size1) nums[k++] = left[i++];
+        while(j != size2) nums[k++] = right[j++];
     }
 
     public void divide(int[] nums,int start,int end) {
@@ -34,8 +30,7 @@ class Solution {
     }
 
     public int[] sortArray(int[] nums) {
-        int start=0, end=nums.length-1;
-        divide(nums,start,end);
+        divide(nums,0,nums.length-1);
         return nums;
     }
 }
