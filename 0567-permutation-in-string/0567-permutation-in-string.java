@@ -1,26 +1,23 @@
 class Solution {
-    public boolean checkInclusion(String s1, String s2) {
-        Map<Character, Integer> map = new HashMap<>();
-        for(int i=0; i<s1.length(); i++) {
-            map.put(s1.charAt(i), map.getOrDefault(s1.charAt(i), 0) + 1);
-        }
 
-        int start=0, end=0;
-        int totalSize = s1.length();
-        Map<Character, Integer> map2 = new HashMap<>();
+    private boolean matches(int[] a, int[] b) {
+        for (int i = 0; i < 26; i++) if (a[i] != b[i]) return false;
+        return true;
+    }
+    
+    public boolean checkInclusion(String s1, String s2) {
+        if(s1.length() > s2.length()) return false;
+        int[] arr1 = new int[26];
+        int[] arr2 = new int[26];
+        for(int i=0; i<s1.length(); i++) arr1[s1.charAt(i)-'a']++;
+        for(int i=0; i<s1.length(); i++) arr2[s2.charAt(i)-'a']++;
+        if(matches(arr1,arr2)) return true;
+        int start=0, end=s1.length();
         while(end < s2.length()) {
-            if(totalSize == 0) {
-                map2.put(s2.charAt(start), map2.get(s2.charAt(start))-1);
-                if(map2.get(s2.charAt(start)) == 0) {
-                    map2.remove(s2.charAt(start));
-                } totalSize++;
-                start++;
-            } else {
-                map2.put(s2.charAt(end), map2.getOrDefault(s2.charAt(end),0) + 1);
-                totalSize--;
-                end++;
-            }
-            if(map.equals(map2)) return true;
-        } return false;
+            arr2[s2.charAt(start++)-'a']--;
+            arr2[s2.charAt(end++)-'a']++;
+            if(matches(arr1,arr2)) return true;
+        }
+        return false;
     }
 }
