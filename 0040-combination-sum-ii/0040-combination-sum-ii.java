@@ -1,25 +1,23 @@
 class Solution {
-    public List<List<Integer>> combinationSum2(int[] candidates, int target) {
-        Arrays.sort(candidates); // \U0001f501 Sort to handle duplicates
-        List<List<Integer>> result = new ArrayList<>();
-        backtrack(candidates, target, 0, new ArrayList<>(), result);
-        return result;
-    }
-
-    private void backtrack(int[] candidates, int target, int index, List<Integer> path, List<List<Integer>> result) {
-        if (target == 0) {
-            result.add(new ArrayList<>(path));
-            return;
+    public void combination(int[] candidates, int target,int index,int sum,Set<List<Integer>> result, List<Integer> list) {
+        if(sum == target) {
+            result.add(new ArrayList<>(list));
+            return ;
         }
-
+        if(sum>target || index==candidates.length) return;
         for (int i = index; i < candidates.length; i++) {
             if (i > index && candidates[i] == candidates[i - 1]) continue;
-
-            if (candidates[i] > target) break; // \U0001f343 Prune branches
-
-            path.add(candidates[i]);
-            backtrack(candidates, target - candidates[i], i + 1, path, result);
-            path.remove(path.size() - 1);
+            list.add(candidates[i]);
+            combination(candidates, target, i + 1, sum + candidates[i], result, list);
+            list.remove(list.size() - 1);
         }
+    }
+
+    public List<List<Integer>> combinationSum2(int[] candidates, int target) {
+        Arrays.sort(candidates);
+        Set<List<Integer>> result = new HashSet<>();
+        combination(candidates,target,0,0,result,new ArrayList<>());
+        List<List<Integer>> answer = new ArrayList<>(result);
+        return answer;
     }
 }
