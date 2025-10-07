@@ -1,20 +1,21 @@
 class Solution {
-    public Set<List<Integer>> subSet(int[] nums,int index,List<Integer> li,Set<List<Integer>> set) {
+    public void findAllSubsets(int[] nums,int index,List<Integer> list,List<List<Integer>> result) {
         if(index == nums.length) {
-            set.add(new ArrayList<>(li));
-            return set;
+            result.add(new ArrayList<>(list));
+            return ;
         }
-        li.add(nums[index]);
-        subSet(nums,index+1,li,set);
-        li.remove(li.size()-1);
-        subSet(nums,index+1,li,set);
-        return set;
+        list.add(nums[index]);
+        findAllSubsets(nums,index+1,list,result);
+        list.remove(list.size()-1);
+        int idx = index+1;
+        while(idx<nums.length && nums[idx]==nums[idx-1]) idx++;
+        findAllSubsets(nums,idx,list,result);
     }
 
     public List<List<Integer>> subsetsWithDup(int[] nums) {
         Arrays.sort(nums);
-        List<Integer> li = new ArrayList<>();
-        Set<List<Integer>> result = subSet(nums,0,li,new HashSet<>());
-        return new ArrayList<>(result);
+        List<List<Integer>> result = new ArrayList<>();
+        findAllSubsets(nums,0,new ArrayList<>(),result);
+        return result;
     }
 }
