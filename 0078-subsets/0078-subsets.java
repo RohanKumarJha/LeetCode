@@ -1,23 +1,18 @@
 class Solution {
-    public void recursiveCall(int[] nums, List<List<Integer>> list, int index, List<Integer> result) {
-        // Base case
+    public List<List<Integer>> findAllSubsets(int[] nums,int index,List<Integer> list,List<List<Integer>> result) {
         if(index == nums.length) {
-            list.add(new ArrayList<>(result));
-            return ;
-        }
-
-        // Add element
-        result.add(nums[index]);
-        recursiveCall(nums, list, index+1, result);
-
-        // Ignore element
-        result.remove(result.size()-1);
-        recursiveCall(nums, list, index+1, result);
+            result.add(new ArrayList<>(list));
+            return result;
+        } 
+        list.add(nums[index]);
+        findAllSubsets(nums,index+1,list,result);
+        list.remove(list.size()-1);
+        findAllSubsets(nums,index+1,list,result);
+        return result;
     }
 
     public List<List<Integer>> subsets(int[] nums) {
-        List<List<Integer>> list = new ArrayList<>();
-        recursiveCall(nums, list, 0, new ArrayList<>());
-        return list;
+        List<List<Integer>> result = new ArrayList<>();
+        return findAllSubsets(nums,0,new ArrayList<>(),result);
     }
 }
