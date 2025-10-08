@@ -225,6 +225,7 @@ I solved the leetCode problems and upload here daily.
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/RohanKumarJha/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/RohanKumarJha/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/RohanKumarJha/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/RohanKumarJha/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/RohanKumarJha/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/RohanKumarJha/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -770,6 +771,7 @@ I solved the leetCode problems and upload here daily.
 | [2265-partition-array-according-to-given-pivot](https://github.com/RohanKumarJha/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/RohanKumarJha/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/RohanKumarJha/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/RohanKumarJha/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/RohanKumarJha/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2481-strictly-palindromic-number](https://github.com/RohanKumarJha/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RohanKumarJha/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -861,6 +863,7 @@ I solved the leetCode problems and upload here daily.
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RohanKumarJha/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/RohanKumarJha/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2280-count-good-triplets-in-an-array](https://github.com/RohanKumarJha/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/RohanKumarJha/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/RohanKumarJha/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/RohanKumarJha/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RohanKumarJha/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -1240,6 +1243,7 @@ I solved the leetCode problems and upload here daily.
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/RohanKumarJha/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/RohanKumarJha/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/RohanKumarJha/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/RohanKumarJha/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/RohanKumarJha/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/RohanKumarJha/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RohanKumarJha/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
