@@ -19,7 +19,8 @@ class MyStack {
         int result = q1.remove();
         while(q2.size() != 0) {
             q1.add(q2.remove());
-        } return result;
+        } 
+        return result;
     }
     
     public int top() {
@@ -30,19 +31,11 @@ class MyStack {
         q2.add(result);
         while(q2.size() != 0) {
             q1.add(q2.remove());
-        } return result;
+        } 
+        return result;
     }
     
     public boolean empty() {
-        return (q1.size() == 0) ? true : false;
+        return q1.isEmpty();
     }
 }
-
-/**
- * Your MyStack object will be instantiated and called as such:
- * MyStack obj = new MyStack();
- * obj.push(x);
- * int param_2 = obj.pop();
- * int param_3 = obj.top();
- * boolean param_4 = obj.empty();
- */
