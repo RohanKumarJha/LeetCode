@@ -1,5 +1,5 @@
 class Solution {
-    public void subset(int[] nums,int index,List<Integer> list,Set<List<Integer>> result) {
+    public void subset(int[] nums,int index,List<Integer> list,List<List<Integer>> result) {
         if(index == nums.length) {
             result.add(new ArrayList<>(list));
             return;
@@ -7,13 +7,14 @@ class Solution {
         list.add(nums[index]);
         subset(nums,index+1,list,result);
         list.remove(list.size()-1);
-        subset(nums,index+1,list,result);
+        int idx = index+1;
+        while(idx < nums.length && nums[idx]==nums[idx-1]) idx++; 
+        subset(nums,idx,list,result);
     }
     public List<List<Integer>> subsetsWithDup(int[] nums) {
         Arrays.sort(nums);
-        Set<List<Integer>> result = new HashSet<>();
+        List<List<Integer>> result = new ArrayList<>();
         subset(nums,0,new ArrayList<>(),result);
-        List<List<Integer>> answer = new ArrayList<>(result);
-        return answer;
+        return result;
     }
 }
