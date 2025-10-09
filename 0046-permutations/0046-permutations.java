@@ -1,8 +1,8 @@
 class Solution {
     public void permut(int[] nums,List<Integer> list,List<List<Integer>> result) {
-        if(list.size()==nums.length) {
+        if(list.size() == nums.length) {
             result.add(new ArrayList<>(list));
-            return;
+            return ;
         }
         for(int i=0; i<nums.length; i++) {
             if(list.contains(nums[i])) continue;
@@ -11,7 +11,6 @@ class Solution {
             list.remove(list.size()-1);
         }
     }
-
     public List<List<Integer>> permute(int[] nums) {
         List<List<Integer>> result = new ArrayList<>();
         permut(nums,new ArrayList<>(),result);
