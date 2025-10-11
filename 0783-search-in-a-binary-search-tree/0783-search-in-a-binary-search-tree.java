@@ -1,12 +1,14 @@
 class Solution {
     public TreeNode searchBST(TreeNode root, int val) {
         TreeNode temp = root;
-        while(temp!=null && temp.val != val) {
-            if(val < temp.val) {
-                temp = temp.left;
-            } else {
+        while(temp != null) {
+            if(temp.val == val) return temp;
+            if(temp.val < val) {
                 temp = temp.right;
+            } else {
+                temp = temp.left;
             }
-        } return temp;
+        }
+        return temp;
     }
 }
