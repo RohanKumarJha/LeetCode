@@ -4,7 +4,8 @@ class Solution {
         int size = nums.length;
         Set<List<Integer>> set = new HashSet<>();
         for(int i=0; i<size-3; i++) {
-            if(nums[i] > target && nums[i]>0) break;
+            if(i!=0 && nums[i]==nums[i-1]) continue;
+            if(nums[i]>0 && nums[i]>target) break;
             for(int j=i+1; j<size-2; j++) {
                 int k=j+1, l=size-1;
                 while(k < l) {
