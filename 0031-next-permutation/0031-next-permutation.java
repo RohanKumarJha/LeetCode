@@ -1,4 +1,5 @@
 class Solution {
+
     public void reverse(int[] nums,int start,int end) {
         while(start < end) {
             swap(nums,start,end);
@@ -6,36 +7,31 @@ class Solution {
         }
     }
 
-    public void swap(int[] nums, int start, int end) {
+    public void swap(int[] nums,int start,int end) {
         int temp = nums[start];
         nums[start] = nums[end];
         nums[end] = temp;
     }
 
     public void nextPermutation(int[] nums) {
-        boolean flag = false;
-        int end = nums.length-1;
-
-        // Find smallest element
-        while(end > 0) {
-            if(nums[end] > nums[end-1]) {
-                end = end-1;
-                flag = true;
+        int size = nums.length;
+        int index = -1;
+        for(int i=size-1; i>0; i--) {
+            if(nums[i] > nums[i-1]) {
+                index = i-1;
                 break;
-            } end--;
-        }
-        if(!flag) {
-            reverse(nums,0,nums.length-1);
-        } else {
-
-            // Find just greater number than end
-            int pointer = nums.length-1;
-            while(pointer > end) {
-                if(nums[pointer] > nums[end]) break;
-                pointer--;
             }
-            swap(nums,end,pointer);
-            reverse(nums,end+1,nums.length-1);
+        }
+
+        if(index == -1) {
+            reverse(nums,0,size-1);
+        } else {
+            int pos = size-1;
+            while(nums[pos] <= nums[index]) {
+                pos--;
+            }
+            swap(nums,index,pos);
+            reverse(nums,index+1,size-1);
         }
     }
 }
