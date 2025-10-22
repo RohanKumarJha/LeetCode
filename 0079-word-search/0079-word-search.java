@@ -1,31 +1,26 @@
 class Solution {
-    public boolean find(char[][] board, String word, int start, int end, int idx) {
-        if (idx == word.length()) return true;
-        if (start < 0 || end < 0 || start >= board.length || end >= board[0].length) return false;
-        if (board[start][end] != word.charAt(idx)) return false;
-
-        char temp = board[start][end];
-        board[start][end] = '$'; // mark as visited
-
-        boolean found = find(board, word, start + 1, end, idx + 1) ||
-                        find(board, word, start - 1, end, idx + 1) ||
-                        find(board, word, start, end + 1, idx + 1) ||
-                        find(board, word, start, end - 1, idx + 1);
-
-        board[start][end] = temp; // restore original value
-        return found;
+    public boolean check(char[][] board, String word, int index, int pos1, int pos2) {
+        if(index == word.length()) return true;
+        if(pos1<0 || pos2<0 || pos1>=board.length || pos2>=board[0].length
+        || board[pos1][pos2] != word.charAt(index)) return false;
+        char temp = board[pos1][pos2];
+        board[pos1][pos2] = '$';
+        boolean result = check(board, word, index+1, pos1+1, pos2) 
+        || check(board, word, index+1, pos1-1, pos2)
+        || check(board, word, index+1, pos1, pos2+1)
+        || check(board, word, index+1, pos1, pos2-1);
+        board[pos1][pos2] = temp;
+        return result;
     }
 
     public boolean exist(char[][] board, String word) {
-        int row = board.length, col = board[0].length;
-
-        for (int i = 0; i < row; i++) {
-            for (int j = 0; j < col; j++) {
-                if (board[i][j] == word.charAt(0)) {
-                    if (find(board, word, i, j, 0)) return true;
+        for(int i=0; i<board.length; i++) {
+            for(int j=0; j<board[0].length; j++) {
+                if(board[i][j] == word.charAt(0)) {
+                    boolean result = check(board,word,0,i,j);
+                    if(result) return result;
                 }
             }
-        }
-        return false;
+        } return false;
     }
 }
