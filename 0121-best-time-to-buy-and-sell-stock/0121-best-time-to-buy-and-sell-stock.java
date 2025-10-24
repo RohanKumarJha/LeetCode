@@ -3,7 +3,7 @@ class Solution {
         int buy=Integer.MAX_VALUE, profit = 0;
         for(int i : prices) {
             if(i < buy) buy = i;
-            profit = Math.max(i-buy,profit);
+            if(profit < i-buy) profit=i-buy;
         } return profit;
     }
 }
