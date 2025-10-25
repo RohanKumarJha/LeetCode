@@ -504,6 +504,7 @@ I solved the leetCode problems and upload here daily.
 | [1635-number-of-good-pairs](https://github.com/RohanKumarJha/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/RohanKumarJha/LeetCode/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/RohanKumarJha/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/RohanKumarJha/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1861-building-boxes](https://github.com/RohanKumarJha/LeetCode/tree/master/1861-building-boxes) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/RohanKumarJha/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RohanKumarJha/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
