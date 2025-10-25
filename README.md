@@ -80,6 +80,7 @@ I solved the leetCode problems and upload here daily.
 | [0287-find-the-duplicate-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/RohanKumarJha/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/RohanKumarJha/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/RohanKumarJha/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/RohanKumarJha/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0407-trapping-rain-water-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0407-trapping-rain-water-ii) |
@@ -359,6 +360,7 @@ I solved the leetCode problems and upload here daily.
 | [0268-missing-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/RohanKumarJha/LeetCode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/RohanKumarJha/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/RohanKumarJha/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/RohanKumarJha/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/RohanKumarJha/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -788,6 +790,7 @@ I solved the leetCode problems and upload here daily.
 | [0344-reverse-string](https://github.com/RohanKumarJha/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/RohanKumarJha/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/RohanKumarJha/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/RohanKumarJha/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/RohanKumarJha/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/RohanKumarJha/LeetCode/tree/master/0567-permutation-in-string) |
@@ -879,6 +882,7 @@ I solved the leetCode problems and upload here daily.
 | [0278-first-bad-version](https://github.com/RohanKumarJha/LeetCode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RohanKumarJha/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/RohanKumarJha/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/RohanKumarJha/LeetCode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RohanKumarJha/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -1281,6 +1285,7 @@ I solved the leetCode problems and upload here daily.
 | [0268-missing-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/RohanKumarJha/LeetCode/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/RohanKumarJha/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/RohanKumarJha/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/RohanKumarJha/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0594-longest-harmonious-subsequence](https://github.com/RohanKumarJha/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
