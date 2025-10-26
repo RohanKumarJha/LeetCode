@@ -334,6 +334,7 @@ I solved the leetCode problems and upload here daily.
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/RohanKumarJha/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3827-implement-router](https://github.com/RohanKumarJha/LeetCode/tree/master/3827-implement-router) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/RohanKumarJha/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [4003-longest-fibonacci-subarray](https://github.com/RohanKumarJha/LeetCode/tree/master/4003-longest-fibonacci-subarray) |
 ## Hash Table
 |  |
 | ------- |
