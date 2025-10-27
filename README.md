@@ -462,6 +462,7 @@ I solved the leetCode problems and upload here daily.
 | [0062-unique-paths](https://github.com/RohanKumarJha/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/RohanKumarJha/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/RohanKumarJha/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/RohanKumarJha/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RohanKumarJha/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/RohanKumarJha/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/RohanKumarJha/LeetCode/tree/master/0189-rotate-array) |
@@ -964,6 +965,7 @@ I solved the leetCode problems and upload here daily.
 | [0053-maximum-subarray](https://github.com/RohanKumarJha/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/RohanKumarJha/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/RohanKumarJha/LeetCode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/RohanKumarJha/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/RohanKumarJha/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/RohanKumarJha/LeetCode/tree/master/0120-triangle) |
@@ -1410,6 +1412,7 @@ I solved the leetCode problems and upload here daily.
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/RohanKumarJha/LeetCode/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/RohanKumarJha/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/RohanKumarJha/LeetCode/tree/master/1013-fibonacci-number) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/RohanKumarJha/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
