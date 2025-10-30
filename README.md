@@ -337,6 +337,7 @@ I solved the leetCode problems and upload here daily.
 | [3827-implement-router](https://github.com/RohanKumarJha/LeetCode/tree/master/3827-implement-router) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/RohanKumarJha/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [4003-longest-fibonacci-subarray](https://github.com/RohanKumarJha/LeetCode/tree/master/4003-longest-fibonacci-subarray) |
+| [4041-climbing-stairs-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/4041-climbing-stairs-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -1033,6 +1034,7 @@ I solved the leetCode problems and upload here daily.
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/RohanKumarJha/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/RohanKumarJha/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/RohanKumarJha/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [4041-climbing-stairs-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/4041-climbing-stairs-ii) |
 ## Stack
 |  |
 | ------- |
