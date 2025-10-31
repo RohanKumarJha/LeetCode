@@ -1,19 +1,30 @@
+import java.util.*;
+
 class Solution {
-    public void permut(int[] nums,List<Integer> list,List<List<Integer>> result) {
-        if(list.size() == nums.length) {
-            result.add(new ArrayList<>(list));
-            return ;
+    public void swap(int[] nums, int start, int end) {
+        int temp = nums[start];
+        nums[start] = nums[end];
+        nums[end] = temp;
+    }
+
+    public void permutation(int[] nums, int index, List<List<Integer>> result) {
+        if (index == nums.length) {
+            List<Integer> temp = new ArrayList<>();
+            for (int num : nums) temp.add(num);
+            result.add(new ArrayList<>(temp));
+            return;
         }
-        for(int i=0; i<nums.length; i++) {
-            if(list.contains(nums[i])) continue;
-            list.add(nums[i]);
-            permut(nums,list,result);
-            list.remove(list.size()-1);
+
+        for (int i = index; i < nums.length; i++) {
+            swap(nums, i, index);
+            permutation(nums, index + 1, result);
+            swap(nums, i, index); // backtrack
         }
     }
+
     public List<List<Integer>> permute(int[] nums) {
         List<List<Integer>> result = new ArrayList<>();
-        permut(nums,new ArrayList<>(),result);
+        permutation(nums, 0, result);
         return result;
     }
 }
