@@ -1,26 +1,37 @@
+import java.util.*;
+
 class Solution {
-    private void backtrack(int[] nums, List<Integer> tempList, boolean[] used, List<List<Integer>> result) {
-        if (tempList.size() == nums.length) {
-            result.add(new ArrayList<>(tempList));
+    public void swap(int[] nums, int i, int j) {
+        int temp = nums[i];
+        nums[i] = nums[j];
+        nums[j] = temp;
+    }
+
+    public void permut(int[] nums, int index, List<List<Integer>> result) {
+        if (index == nums.length) {
+            List<Integer> temp = new ArrayList<>();
+            for (int num : nums) temp.add(num);
+            result.add(temp);
             return;
         }
 
-        for (int i = 0; i < nums.length; i++) {
-            if (used[i]) continue;
-            if (i > 0 && nums[i] == nums[i - 1] && !used[i - 1]) continue;
-            used[i] = true;
-            tempList.add(nums[i]);
-            backtrack(nums, tempList, used, result);
-            tempList.remove(tempList.size() - 1);
-            used[i] = false;
+        Set<Integer> used = new HashSet<>(); // to track duplicates at this recursion depth
+
+        for (int i = index; i < nums.length; i++) {
+            // Skip duplicates
+            if (used.contains(nums[i])) continue;
+            used.add(nums[i]);
+
+            swap(nums, i, index);
+            permut(nums, index + 1, result);
+            swap(nums, i, index); // backtrack
         }
     }
 
     public List<List<Integer>> permuteUnique(int[] nums) {
+        Arrays.sort(nums); // sort to group duplicates
         List<List<Integer>> result = new ArrayList<>();
-        Arrays.sort(nums); // Sort to handle duplicates
-        boolean[] used = new boolean[nums.length];
-        backtrack(nums, new ArrayList<>(), used, result);
+        permut(nums, 0, result);
         return result;
     }
 }
