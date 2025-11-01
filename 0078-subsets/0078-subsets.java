@@ -9,7 +9,7 @@ class Solution {
         list.remove(list.size()-1);
         subset(nums,index+1,list,result);
     }
-
+    
     public List<List<Integer>> subsets(int[] nums) {
         List<List<Integer>> result = new ArrayList<>();
         subset(nums,0,new ArrayList<>(),result);
