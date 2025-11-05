@@ -1,17 +1,17 @@
 class Solution {
-    public void flood(int[][] image, int sr, int sc, int color,int result) {
-        if(sr<0 || sc<0 || sr>=image.length || sc>=image[0].length || image[sr][sc]!=result
-        || image[sr][sc]==color) return;
-        if(image[sr][sc] == result) image[sr][sc]=color;
-        flood(image,sr+1,sc,color,result);
-        flood(image,sr-1,sc,color,result);
-        flood(image,sr,sc+1,color,result);
-        flood(image,sr,sc-1,color,result);
+    private void check(int[][] image, int sr, int sc, int color,int pixelColor) {
+        if(sr==-1 || sc==-1 || sr==image.length || sc==image[0].length || image[sr][sc]!=pixelColor) return ;
+        image[sr][sc] = color;
+        check(image,sr-1,sc,color,pixelColor);
+        check(image,sr+1,sc,color,pixelColor);
+        check(image,sr,sc-1,color,pixelColor);
+        check(image,sr,sc+1,color,pixelColor);
     }
-
+    
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
-        int result = image[sr][sc];
-        flood(image,sr,sc,color,result);
+        int pixelColor = image[sr][sc];
+        if(pixelColor == color) return image;
+        check(image,sr,sc,color,pixelColor);
         return image;
     }
 }
