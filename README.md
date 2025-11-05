@@ -102,6 +102,7 @@ I solved the leetCode problems and upload here daily.
 | [0643-maximum-average-subarray-i](https://github.com/RohanKumarJha/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0679-24-game](https://github.com/RohanKumarJha/LeetCode/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/RohanKumarJha/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0695-max-area-of-island](https://github.com/RohanKumarJha/LeetCode/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/RohanKumarJha/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/RohanKumarJha/LeetCode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/RohanKumarJha/LeetCode/tree/master/0735-asteroid-collision) |
@@ -758,6 +759,7 @@ I solved the leetCode problems and upload here daily.
 | [0417-pacific-atlantic-water-flow](https://github.com/RohanKumarJha/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/RohanKumarJha/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/RohanKumarJha/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0695-max-area-of-island](https://github.com/RohanKumarJha/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/RohanKumarJha/LeetCode/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/RohanKumarJha/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/RohanKumarJha/LeetCode/tree/master/0854-making-a-large-island) |
@@ -1463,6 +1465,7 @@ I solved the leetCode problems and upload here daily.
 | [0128-longest-consecutive-sequence](https://github.com/RohanKumarJha/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/RohanKumarJha/LeetCode/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/RohanKumarJha/LeetCode/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/RohanKumarJha/LeetCode/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/RohanKumarJha/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/RohanKumarJha/LeetCode/tree/master/0854-making-a-large-island) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/RohanKumarJha/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -1612,6 +1615,7 @@ I solved the leetCode problems and upload here daily.
 | [0530-minimum-absolute-difference-in-bst](https://github.com/RohanKumarJha/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/RohanKumarJha/LeetCode/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/RohanKumarJha/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/RohanKumarJha/LeetCode/tree/master/0733-flood-fill) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/RohanKumarJha/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0794-swim-in-rising-water](https://github.com/RohanKumarJha/LeetCode/tree/master/0794-swim-in-rising-water) |
@@ -1657,6 +1661,7 @@ I solved the leetCode problems and upload here daily.
 | [0515-find-largest-value-in-each-tree-row](https://github.com/RohanKumarJha/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/RohanKumarJha/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0684-redundant-connection](https://github.com/RohanKumarJha/LeetCode/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/RohanKumarJha/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/RohanKumarJha/LeetCode/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/RohanKumarJha/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/RohanKumarJha/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
