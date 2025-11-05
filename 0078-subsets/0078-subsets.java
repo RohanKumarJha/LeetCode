@@ -12,7 +12,7 @@ class Solution {
 
     public List<List<Integer>> subsets(int[] nums) {
         List<List<Integer>> result = new ArrayList<>();
-        subset(nums,0,new ArrayList<>(),result);
+        subset(nums,0,new ArrayList<>(), result);
         return result;
     }
 }
