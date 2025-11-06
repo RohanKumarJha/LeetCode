@@ -1,5 +1,5 @@
 class Solution {
-    public void subset(int[] nums,int index,List<Integer> list,List<List<Integer>> result) {
+    private void subset(int[] nums,int index,List<Integer> list,List<List<Integer>> result) {
         if(index == nums.length) {
             result.add(new ArrayList<>(list));
             return ;
@@ -7,8 +7,8 @@ class Solution {
         list.add(nums[index]);
         subset(nums,index+1,list,result);
         list.remove(list.size()-1);
-        index += 1;
-        while(index!=nums.length && nums[index]==nums[index-1]) index++;
+        index = index+1;
+        while(index<nums.length && nums[index]==nums[index-1]) index++;
         subset(nums,index,list,result);
     }
 
