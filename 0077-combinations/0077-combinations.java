@@ -1,10 +1,10 @@
 class Solution {
-    public void comb(int n,int k,int index,List<Integer> list,List<List<Integer>> result) {
+    private void comb(int n,int k,int index,List<Integer> list,List<List<Integer>> result) {
         if(list.size() == k) {
             result.add(new ArrayList<>(list));
             return ;
         }
-        if(index > n) return ;
+        if(index > n) return;
         list.add(index);
         comb(n,k,index+1,list,result);
         list.remove(list.size()-1);
