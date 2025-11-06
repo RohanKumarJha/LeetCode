@@ -1,8 +1,8 @@
 class Solution {
     public List<Integer> postorderTraversal(TreeNode root) {
         List<Integer> result = new ArrayList<>();
-        if(root == null) return result;
         Stack<TreeNode> st = new Stack<>();
+        if(root == null) return result;
         st.push(root);
         while(!st.isEmpty()) {
             TreeNode node = st.pop();
