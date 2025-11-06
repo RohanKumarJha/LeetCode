@@ -3,13 +3,13 @@ class Solution {
 
     private int diameter(TreeNode node) {
         if(node == null) return 0;
-        
-        int leftSide = diameter(node.left);
-        int rightSide = diameter(node.right);
 
-        result = Math.max(result, leftSide + rightSide);
+        int leftNode = diameter(node.left);
+        int rightNode = diameter(node.right);
 
-        return 1 + Math.max(leftSide, rightSide);
+        result = Math.max(result,leftNode+rightNode);
+
+        return 1 + Math.max(leftNode, rightNode);
     }
 
     public int diameterOfBinaryTree(TreeNode root) {
