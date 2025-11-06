@@ -1,20 +1,22 @@
-
 class Solution {
-    private boolean result = true;
+    private boolean isBalanced = true;
 
-    private int balance(TreeNode node) {
+    private int isBalance(TreeNode node) {
         if(node == null) return 0;
 
-        int leftHeight = balance(node.left);
-        int rightHeight = balance(node.right);
+        int left = isBalance(node.left);
+        int right = isBalance(node.right);
 
-        if(Math.abs(leftHeight-rightHeight) > 1) result=false;
+        if(Math.abs(left-right)>1) {
+            isBalanced = false;
+        }
 
-        return 1 + Math.max(leftHeight, rightHeight);
+        return 1+Math.max(left,right);
     }
 
     public boolean isBalanced(TreeNode root) {
-        balance(root);
-        return result;
+        if(root == null) return true;
+        isBalance(root);
+        return isBalanced;
     }
 }
