@@ -1,13 +1,18 @@
 class Solution {
-    public void reverse(char[] s,int start,int end) {
-        if(start >= end) return;
+    private void swap(char[] s,int start,int end) {
         char temp = s[start];
         s[start] = s[end];
         s[end] = temp;
-        reverse(s,start+1,end-1);
+    }
+
+    private void reverseArray(char[] s,int start,int end) {
+        if(start >= end) return ;
+        swap(s,start,end);
+        reverseArray(s,start+1,end-1);
     }
 
     public void reverseString(char[] s) {
-        reverse(s,0,s.length-1);
+        int start=0, end=s.length-1;
+        reverseArray(s,start,end);
     }
 }
