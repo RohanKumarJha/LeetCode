@@ -1,8 +1,8 @@
 class Solution {
-    public void swap(int[] nums,int start,int end) {
-        int target = nums[start];
+    private void swap(int[] nums,int start,int end) {
+        int temp = nums[start];
         nums[start] = nums[end];
-        nums[end] = target;
+        nums[end] = temp;
     }
 
     public void sortColors(int[] nums) {
@@ -10,7 +10,8 @@ class Solution {
         while(mid <= end) {
             if(nums[mid] == 0) {
                 swap(nums,start,mid);
-                start++; mid++;
+                start++;
+                mid++;
             } else if(nums[mid] == 1) {
                 mid++;
             } else {
