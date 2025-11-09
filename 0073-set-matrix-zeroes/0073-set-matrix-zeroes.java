@@ -1,24 +1,46 @@
 class Solution {
     public void setZeroes(int[][] matrix) {
-        int row = matrix.length;
-        int col = matrix[0].length;
-        boolean[] rowMatrix = new boolean[row];
-        boolean[] colMatrix = new boolean[col];
+        boolean rowMatrix = false;
+        boolean colMatrix = false;
 
-        for(int i=0; i<row; i++) {
-            for(int j=0; j<col; j++) {
+        for(int i=0; i<matrix.length; i++) {
+            if(matrix[i][0] == 0) {
+                rowMatrix = true;
+                break;
+            }
+        }
+        for(int i=0; i<matrix[0].length; i++) {
+            if(matrix[0][i] == 0) {
+                colMatrix = true;
+                break;
+            }
+        }
+
+        for(int i=1; i<matrix.length; i++) {
+            for(int j=1; j<matrix[0].length; j++) {
                 if(matrix[i][j] == 0) {
-                    rowMatrix[i] = true;
-                    colMatrix[j] = true;
+                    matrix[i][0] = 0;
+                    matrix[0][j] = 0;
                 }
             }
         }
 
-        for(int i=0; i<row; i++) {
-            for(int j=0; j<col; j++) {
-                if(rowMatrix[i]==true || colMatrix[j]==true) {
+        for(int i=1; i<matrix.length; i++) {
+            for(int j=1; j<matrix[0].length; j++) {
+                if(matrix[i][0]==0 || matrix[0][j]==0) {
                     matrix[i][j] = 0;
                 }
+            }
+        }
+
+        if(rowMatrix == true) {
+            for(int i=0; i<matrix.length; i++) {
+                matrix[i][0] = 0;
+            }
+        }
+        if(colMatrix == true) {
+            for(int i=0; i<matrix[0].length; i++) {
+                matrix[0][i] = 0;
             }
         }
     }
