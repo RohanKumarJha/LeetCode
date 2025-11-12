@@ -5,14 +5,14 @@ class Solution {
         int result = 0;
         while(end < s.length()) {
             if(set.contains(s.charAt(end))) {
-                result = Math.max(set.size(),result);
+                result = Math.max(result,set.size());
                 set.remove(s.charAt(start));
                 start++;
             } else {
                 set.add(s.charAt(end));
                 end++;
             }
-        } result = Math.max(set.size(),result);
+        } result = Math.max(result,set.size());
         return result;
     }
 }
