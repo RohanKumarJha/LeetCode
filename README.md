@@ -92,6 +92,7 @@ I solved the leetCode problems and upload here daily.
 | [0474-ones-and-zeroes](https://github.com/RohanKumarJha/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0477-total-hamming-distance](https://github.com/RohanKumarJha/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/RohanKumarJha/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/RohanKumarJha/LeetCode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/RohanKumarJha/LeetCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/RohanKumarJha/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/RohanKumarJha/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -937,6 +938,7 @@ I solved the leetCode problems and upload here daily.
 | [0350-intersection-of-two-arrays-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/RohanKumarJha/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/RohanKumarJha/LeetCode/tree/master/0441-arranging-coins) |
+| [0493-reverse-pairs](https://github.com/RohanKumarJha/LeetCode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RohanKumarJha/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/RohanKumarJha/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -996,6 +998,7 @@ I solved the leetCode problems and upload here daily.
 | [0191-number-of-1-bits](https://github.com/RohanKumarJha/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RohanKumarJha/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0493-reverse-pairs](https://github.com/RohanKumarJha/LeetCode/tree/master/0493-reverse-pairs) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/RohanKumarJha/LeetCode/tree/master/0948-sort-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/RohanKumarJha/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
@@ -1572,6 +1575,7 @@ I solved the leetCode problems and upload here daily.
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/RohanKumarJha/LeetCode/tree/master/0493-reverse-pairs) |
 | [2023-design-movie-rental-system](https://github.com/RohanKumarJha/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2280-count-good-triplets-in-an-array](https://github.com/RohanKumarJha/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/RohanKumarJha/LeetCode/tree/master/2434-design-a-number-container-system) |
@@ -1760,11 +1764,13 @@ I solved the leetCode problems and upload here daily.
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/RohanKumarJha/LeetCode/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/RohanKumarJha/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/RohanKumarJha/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/RohanKumarJha/LeetCode/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/RohanKumarJha/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/RohanKumarJha/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3790-fruits-into-baskets-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -1887,6 +1893,7 @@ I solved the leetCode problems and upload here daily.
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/RohanKumarJha/LeetCode/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/RohanKumarJha/LeetCode/tree/master/0948-sort-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/RohanKumarJha/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Bucket Sort
