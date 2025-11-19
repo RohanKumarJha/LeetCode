@@ -1,5 +1,5 @@
 class Solution {
-    public ListNode reverseList(ListNode head) {
+    public ListNode reverse(ListNode head) {
         ListNode prev=null, agla=null;
         ListNode curr = head;
         while(curr != null) {
@@ -8,5 +8,9 @@ class Solution {
             prev = curr;
             curr = agla;
         } return prev;
+    }
+
+    public ListNode reverseList(ListNode head) {
+        return reverse(head);
     }
 }
