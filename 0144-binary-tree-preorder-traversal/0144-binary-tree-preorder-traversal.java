@@ -1,19 +1,38 @@
 class Solution {
-    private void preorder(TreeNode root,List<Integer> list) {
-        Stack<TreeNode> st = new Stack<>();
-        st.push(root);
-        while(!st.isEmpty()) {
-            TreeNode elm = st.pop();
-            if(elm.right != null) st.push(elm.right);
-            if(elm.left != null) st.push(elm.left);
-            list.add(elm.val);
-        }
-    }
-
     public List<Integer> preorderTraversal(TreeNode root) {
         List<Integer> list = new ArrayList<>();
-        if(root == null) return list;
-        preorder(root,list);
+        if (root == null) return list;
+
+        TreeNode curr = root;
+
+        while (curr != null) {
+
+            if (curr.left == null) {
+                list.add(curr.val);
+                curr = curr.right;
+
+            } else {
+                TreeNode agla = curr.left;
+                TreeNode temp = agla;
+
+                // find rightmost node
+                while (temp.right != null && temp.right != curr) {
+                    temp = temp.right;
+                }
+
+                if (temp.right == null) {
+                    // create thread (first time)
+                    list.add(curr.val);   // preorder visit
+                    temp.right = curr;
+                    curr = curr.left;
+                } else {
+                    // thread exists → remove it
+                    temp.right = null;
+                    curr = curr.right;
+                }
+            }
+        }
+
         return list;
     }
 }
