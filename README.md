@@ -297,6 +297,7 @@ I solved the leetCode problems and upload here daily.
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/RohanKumarJha/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2902-max-pair-sum-in-an-array](https://github.com/RohanKumarJha/LeetCode/tree/master/2902-max-pair-sum-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/RohanKumarJha/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/RohanKumarJha/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3001-apply-operations-to-maximize-score](https://github.com/RohanKumarJha/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/RohanKumarJha/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -460,6 +461,7 @@ I solved the leetCode problems and upload here daily.
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/RohanKumarJha/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2902-max-pair-sum-in-an-array](https://github.com/RohanKumarJha/LeetCode/tree/master/2902-max-pair-sum-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/RohanKumarJha/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/RohanKumarJha/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/RohanKumarJha/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/RohanKumarJha/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/RohanKumarJha/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -569,6 +571,7 @@ I solved the leetCode problems and upload here daily.
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/RohanKumarJha/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/RohanKumarJha/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/RohanKumarJha/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [2965-find-missing-and-repeated-values](https://github.com/RohanKumarJha/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [2998-count-symmetric-integers](https://github.com/RohanKumarJha/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/RohanKumarJha/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/RohanKumarJha/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -816,6 +819,7 @@ I solved the leetCode problems and upload here daily.
 | [2625-increment-submatrices-by-one](https://github.com/RohanKumarJha/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2685-first-completely-painted-row-or-column](https://github.com/RohanKumarJha/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/RohanKumarJha/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2965-find-missing-and-repeated-values](https://github.com/RohanKumarJha/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/RohanKumarJha/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/RohanKumarJha/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
