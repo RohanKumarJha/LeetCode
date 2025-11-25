@@ -8,6 +8,6 @@ public class Solution extends VersionControl {
             } else {
                 start = mid+1;
             }
-        } return start;
+        } return end+1;
     }
 }
