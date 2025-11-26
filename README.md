@@ -410,6 +410,7 @@ I solved the leetCode problems and upload here daily.
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/RohanKumarJha/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/RohanKumarJha/LeetCode/tree/master/0952-word-subsets) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/RohanKumarJha/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1160-letter-tile-possibilities](https://github.com/RohanKumarJha/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RohanKumarJha/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/RohanKumarJha/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -525,6 +526,7 @@ I solved the leetCode problems and upload here daily.
 | [0900-reordered-power-of-2](https://github.com/RohanKumarJha/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0903-implement-rand10-using-rand7](https://github.com/RohanKumarJha/LeetCode/tree/master/0903-implement-rand10-using-rand7) |
 | [1013-fibonacci-number](https://github.com/RohanKumarJha/LeetCode/tree/master/1013-fibonacci-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/RohanKumarJha/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/RohanKumarJha/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/RohanKumarJha/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1048-clumsy-factorial](https://github.com/RohanKumarJha/LeetCode/tree/master/1048-clumsy-factorial) |
