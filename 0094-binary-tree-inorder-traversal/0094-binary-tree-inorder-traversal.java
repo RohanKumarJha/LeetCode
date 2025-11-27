@@ -1,22 +1,27 @@
 class Solution {
-    public List<Integer> inorderTraversal(TreeNode root) {
-        List<Integer> list = new ArrayList<>();
-        if(root == null) return list;
+    class Pair {
+        TreeNode node;
+        boolean flag;
+        Pair(TreeNode node,boolean flag) {
+            this.node = node;
+            this.flag = flag;
+        }
+    }
 
-        TreeNode curr = root;
-        while(curr != null) {
-            if(curr.left == null) {
-                list.add(curr.val);
-                curr = curr.right;
+    public List<Integer> inorderTraversal(TreeNode root) {
+        List<Integer> result = new ArrayList<>();
+        if(root == null) return result;
+        Stack<Pair> st = new Stack<>();
+        st.push(new Pair(root,false));
+        while(!st.isEmpty()) {
+            Pair temp = st.pop();
+            if(temp.flag == true) {
+                result.add(temp.node.val);
             } else {
-                TreeNode agla = curr.left;
-                TreeNode temp = agla;
-                while(temp.right != null) {
-                    temp = temp.right;
-                } temp.right = curr;
-                curr.left = null;
-                curr = agla;
+                if(temp.node.right != null) st.push(new Pair(temp.node.right,false));
+                st.push(new Pair(temp.node,true));
+                if(temp.node.left != null) st.push(new Pair(temp.node.left,false));
             }
-        } return list;
+        } return result;
     }
 }
