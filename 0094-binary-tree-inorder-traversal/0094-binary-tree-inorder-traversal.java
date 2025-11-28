@@ -1,26 +1,20 @@
 class Solution {
-    class Pair {
-        TreeNode node;
-        boolean flag;
-        Pair(TreeNode node,boolean flag) {
-            this.node = node;
-            this.flag = flag;
-        }
-    }
-
     public List<Integer> inorderTraversal(TreeNode root) {
         List<Integer> result = new ArrayList<>();
         if(root == null) return result;
-        Stack<Pair> st = new Stack<>();
-        st.push(new Pair(root,false));
-        while(!st.isEmpty()) {
-            Pair temp = st.pop();
-            if(temp.flag == true) {
-                result.add(temp.node.val);
+        TreeNode start = root;
+        while(start != null) {
+            TreeNode agla = start.left;
+            if(agla == null) {
+                result.add(start.val);
+                start = start.right;
             } else {
-                if(temp.node.right != null) st.push(new Pair(temp.node.right,false));
-                st.push(new Pair(temp.node,true));
-                if(temp.node.left != null) st.push(new Pair(temp.node.left,false));
+                TreeNode curr = agla;
+                while(curr.right != null) {
+                    curr = curr.right;
+                } curr.right = start;
+                start.left = null;
+                start = agla;
             }
         } return result;
     }
