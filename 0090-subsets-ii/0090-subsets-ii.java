@@ -7,7 +7,7 @@ class Solution {
         list.add(nums[index]);
         subset(nums,index+1,list,result);
         list.remove(list.size()-1);
-        index = index+1;
+        index++;
         while(index<nums.length && nums[index]==nums[index-1]) index++;
         subset(nums,index,list,result);
     }
