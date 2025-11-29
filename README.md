@@ -1656,6 +1656,7 @@ I solved the leetCode problems and upload here daily.
 | [0530-minimum-absolute-difference-in-bst](https://github.com/RohanKumarJha/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/RohanKumarJha/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -1698,6 +1699,7 @@ I solved the leetCode problems and upload here daily.
 | [0530-minimum-absolute-difference-in-bst](https://github.com/RohanKumarJha/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/RohanKumarJha/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/RohanKumarJha/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/RohanKumarJha/LeetCode/tree/master/0733-flood-fill) |
@@ -1747,6 +1749,7 @@ I solved the leetCode problems and upload here daily.
 | [0515-find-largest-value-in-each-tree-row](https://github.com/RohanKumarJha/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/RohanKumarJha/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/RohanKumarJha/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/RohanKumarJha/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/RohanKumarJha/LeetCode/tree/master/0733-flood-fill) |
@@ -1798,6 +1801,7 @@ I solved the leetCode problems and upload here daily.
 | [0515-find-largest-value-in-each-tree-row](https://github.com/RohanKumarJha/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/RohanKumarJha/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/RohanKumarJha/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
