@@ -1244,6 +1244,7 @@ I solved the leetCode problems and upload here daily.
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/RohanKumarJha/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0092-reverse-linked-list-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/RohanKumarJha/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/RohanKumarJha/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RohanKumarJha/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -1646,6 +1647,7 @@ I solved the leetCode problems and upload here daily.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/RohanKumarJha/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RohanKumarJha/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -1688,6 +1690,7 @@ I solved the leetCode problems and upload here daily.
 | [0104-maximum-depth-of-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/RohanKumarJha/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RohanKumarJha/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/RohanKumarJha/LeetCode/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -1743,6 +1746,7 @@ I solved the leetCode problems and upload here daily.
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/RohanKumarJha/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0133-clone-graph](https://github.com/RohanKumarJha/LeetCode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/RohanKumarJha/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/RohanKumarJha/LeetCode/tree/master/0200-number-of-islands) |
@@ -1796,6 +1800,7 @@ I solved the leetCode problems and upload here daily.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/RohanKumarJha/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RohanKumarJha/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
