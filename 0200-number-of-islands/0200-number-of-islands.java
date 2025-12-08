@@ -1,22 +1,26 @@
 class Solution {
-    private void checkIsland(char[][] grid,int i,int j) {
-        if(i<0 || j<0 || i>=grid.length || j>=grid[0].length || grid[i][j]!='1') return ;
-        grid[i][j] = '$';
-        checkIsland(grid,i+1,j);
-        checkIsland(grid,i-1,j);
-        checkIsland(grid,i,j-1);
-        checkIsland(grid,i,j+1);
+
+    private void island(char[][] grid,int row,int col) {
+        if(row<0 || row>=grid.length || col<0 || col>=grid[0].length) return ;
+        if (grid[row][col] != '1')
+            return;
+        grid[row][col] = '0';
+        island(grid,row+1,col);
+        island(grid,row-1,col);
+        island(grid,row,col-1);
+        island(grid,row,col+1);
     }
 
     public int numIslands(char[][] grid) {
-        int noOfIslands = 0;
+        int result = 0;
         for(int i=0; i<grid.length; i++) {
             for(int j=0; j<grid[0].length; j++) {
                 if(grid[i][j] == '1') {
-                    checkIsland(grid,i,j);
-                    noOfIslands += 1;
+                    island(grid,i,j);
+                    result++;
                 }
             }
-        } return noOfIslands;
+        } 
+        return result;
     }
 }
