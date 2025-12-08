@@ -564,6 +564,7 @@ I solved the leetCode problems and upload here daily.
 | [1817-calculate-money-in-leetcode-bank](https://github.com/RohanKumarJha/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1861-building-boxes](https://github.com/RohanKumarJha/LeetCode/tree/master/1861-building-boxes) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/RohanKumarJha/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1925-count-square-sum-triples](https://github.com/RohanKumarJha/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RohanKumarJha/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/RohanKumarJha/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RohanKumarJha/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -2007,6 +2008,7 @@ I solved the leetCode problems and upload here daily.
 | [0900-reordered-power-of-2](https://github.com/RohanKumarJha/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/RohanKumarJha/LeetCode/tree/master/1656-count-good-triplets) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/RohanKumarJha/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1925-count-square-sum-triples](https://github.com/RohanKumarJha/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RohanKumarJha/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/RohanKumarJha/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RohanKumarJha/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
