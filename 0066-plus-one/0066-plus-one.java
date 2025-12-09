@@ -1,18 +1,20 @@
 class Solution {
     public int[] plusOne(int[] digits) {
-        List<Integer> li = new LinkedList<> ();
-        int k = 1;
-        for(int i=digits.length-1; i>=0; i--) {
-            li.add(0, (digits[i]+k)%10);
-            k= (digits[i] +k) / 10;
+        List<Integer> list = new ArrayList<>();
+        int carry = 1;
+        int pointer=digits.length-1;
+        while(pointer >= 0) {
+            int result = digits[pointer--] + carry;
+            list.add(0,result%10);
+            carry = result/10;
         }
-        while (k > 0) {
-            li.add(0, k % 10);
-            k /= 10;
+        if(carry != 0) list.add(0,carry);
+
+        int[] arr = new int[list.size()];
+        for(int i=0; i<list.size(); i++) {
+            arr[i] = list.get(i);
         }
-        int[] newArr = new int[li.size()];
-        for(int i=0; i<li.size(); i++) {
-            newArr[i] = li.get(i);
-        } return newArr;
+
+        return arr;
     }
 }
