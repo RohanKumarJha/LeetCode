@@ -1,15 +1,12 @@
 class Solution {
-    private void swap(char[] s,int start,int end) {
-        char temp = s[start];
-        s[start] = s[end];
-        s[end] = temp;
-    }
-
     public void reverseString(char[] s) {
-        int start=0, end=s.length-1;
-        while(start < end) {
-            swap(s,start,end);
-            start++; end--;
+        StringBuilder sb = new StringBuilder();
+        for(int i=0; i<s.length; i++) {
+            sb.append(s[i]);
+        }
+        String str = sb.reverse().toString();
+        for(int i=0; i<s.length; i++) {
+            s[i] = str.charAt(i);
         }
     }
 }
