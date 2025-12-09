@@ -166,6 +166,7 @@ I solved the leetCode problems and upload here daily.
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/RohanKumarJha/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-product-of-the-last-k-numbers](https://github.com/RohanKumarJha/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RohanKumarJha/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1480-running-sum-of-1d-array](https://github.com/RohanKumarJha/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RohanKumarJha/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RohanKumarJha/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1505-create-target-array-in-the-given-order](https://github.com/RohanKumarJha/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
@@ -928,6 +929,7 @@ I solved the leetCode problems and upload here daily.
 | [1046-max-consecutive-ones-iii](https://github.com/RohanKumarJha/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/RohanKumarJha/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1477-product-of-the-last-k-numbers](https://github.com/RohanKumarJha/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1480-running-sum-of-1d-array](https://github.com/RohanKumarJha/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/RohanKumarJha/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/RohanKumarJha/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RohanKumarJha/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
