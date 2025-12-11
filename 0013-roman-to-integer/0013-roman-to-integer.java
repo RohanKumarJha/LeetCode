@@ -1,21 +1,34 @@
 class Solution {
     public int romanToInt(String s) {
-        int result = 0;
-        Map<Character, Integer> roman = new HashMap<>();
-        roman.put('I', 1);
-        roman.put('V', 5);
-        roman.put('X', 10);
-        roman.put('L', 50);
-        roman.put('C', 100);
-        roman.put('D', 500);
-        roman.put('M', 1000);
+        int len = s.length();
+        if(len == 0) return 0;
 
-        for(int i=0; i<s.length()-1; i++) {
-            if(roman.get(s.charAt(i)) < roman.get(s.charAt(i+1))) {
-                result -= roman.get(s.charAt(i));
+        Map<Character,Integer> map = new HashMap<>();
+        map.put('I',1);
+        map.put('V',5);
+        map.put('X',10);
+        map.put('L',50);
+        map.put('C',100);
+        map.put('D',500);
+        map.put('M',1000);
+        
+        int result = 0;
+        int val = 0;
+        for(int i=0; i<len; i++) {
+            char ch = s.charAt(i);
+            int answer = map.get(ch);
+            if(i == 0) {
+                val = answer;
             } else {
-                result += roman.get(s.charAt(i));
+                if(val < answer) {
+                    val = answer-val;
+                } else {
+                    result += val;
+                    val = answer;
+                }
             }
-        } return result+roman.get(s.charAt(s.length()-1));
+        } 
+
+        return result+val;
     }
 }
