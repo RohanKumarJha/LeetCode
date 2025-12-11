@@ -1,13 +1,13 @@
 class Solution {
     public boolean isSubsequence(String s, String t) {
-        int start = 0;
-        int pointer = 0;
-        if(s.length() == 0) return true;
-        while(start < t.length()) {
-            if(s.charAt(pointer) == t.charAt(start)) {
-                pointer++;
-                if(pointer == s.length()) return true;
-            } start++;
-        } return pointer==s.length();
+        if(s.length() > t.length()) return false;
+        int pointer1=0, pointer2=0;
+        while(pointer2 < t.length()) {
+            if(pointer1 == s.length()) return true;
+            if(s.charAt(pointer1) == t.charAt(pointer2)) {
+                pointer1++;
+            } pointer2++;
+        }
+        return (pointer1 == s.length()) ? true : false;
     }
 }
