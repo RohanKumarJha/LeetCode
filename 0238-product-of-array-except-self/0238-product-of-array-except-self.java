@@ -1,15 +1,31 @@
 class Solution {
     public int[] productExceptSelf(int[] nums) {
-        int[] left = new int[nums.length];
-        for(int i=0; i<nums.length; i++) {
-            if(i==0) left[i]=1;
-            else left[i]=left[i-1]*nums[i-1];
+        long product = 1;
+        int no_of_zeroes = 0;
+        for(int i : nums) {
+            if(i != 0) {
+                product *= i;
+            } else {
+                no_of_zeroes++;
+            }
         }
-        int lastIndex = 1;
-        for(int i=nums.length-1; i>=0; i--) {
-            int carry = nums[i];
-            nums[i] = lastIndex*left[i];
-            lastIndex *= carry;
-        } return nums;
+
+        if(no_of_zeroes > 1) {
+            Arrays.fill(nums,0);
+        } else if(no_of_zeroes == 1) {
+            for(int i=0; i<nums.length; i++) {
+                if(nums[i] != 0) {
+                    nums[i] = 0;
+                } else {
+                    nums[i] = (int)product;
+                }
+            }
+        } else {
+            for(int i=0; i<nums.length; i++) {
+                nums[i] = (int)product/nums[i];
+            }
+        } 
+
+        return nums;
     }
 }
