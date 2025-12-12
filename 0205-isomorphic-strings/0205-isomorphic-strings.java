@@ -1,18 +1,18 @@
 class Solution {
-    public static boolean check(String s,String t) {
-        Map<Character, Character> map = new HashMap<>();
+    private boolean isomorphic(String s, String t) {
+        Map<Character,Character> map = new HashMap<>();
         for(int i=0; i<s.length(); i++) {
-            char ch1 = s.charAt(i);
-            char ch2 = t.charAt(i);
-            if(!map.containsKey(ch1)) {
-                map.put(ch1,ch2);
+            if(map.containsKey(s.charAt(i))) {
+                if(!map.get(s.charAt(i)).equals(t.charAt(i))) return false;
             } else {
-                if(map.get(ch1) != ch2) return false;
+                map.put(s.charAt(i),t.charAt(i));
             }
-        } return true;
+        }
+        return true;
     }
+
     public boolean isIsomorphic(String s, String t) {
         if(s.length() != t.length()) return false;
-        return check(s,t)&&check(t,s);
+        return isomorphic(s,t) && isomorphic(t,s);
     }
 }
