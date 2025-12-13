@@ -1,44 +1,49 @@
 class Solution {
     public List<Integer> spiralOrder(int[][] matrix) {
+        int row=matrix.length, col=matrix[0].length;
+        int noOfElement = row*col;
+        int count = 0;
+        int rowStart=0, rowEnd=row-1;
+        int colStart=0, colEnd=col-1;
+        
         List<Integer> list = new ArrayList<>();
-        if (matrix == null || matrix.length == 0) return list;
+        while(count < noOfElement) {
 
-        int row = matrix.length;
-        int col = matrix[0].length;
-
-        int rowStart = 0, rowEnd = row - 1;
-        int colStart = 0, colEnd = col - 1;
-
-        while (rowStart <= rowEnd && colStart <= colEnd) {
-
-            // Traverse right
-            for (int j = colStart; j <= colEnd; j++) {
-                list.add(matrix[rowStart][j]);
-            }
+            // 1st------------------------------------------------------
+            int pointer = colStart;
+            while(pointer <= colEnd) {
+                list.add(matrix[rowStart][pointer++]);
+                count++;
+            } 
             rowStart++;
+            if(count == noOfElement) return list;
 
-            // Traverse down
-            for (int i = rowStart; i <= rowEnd; i++) {
-                list.add(matrix[i][colEnd]);
-            }
+            // 2nd------------------------------------------------------
+            pointer = rowStart;
+            while(pointer <= rowEnd) {
+                list.add(matrix[pointer++][colEnd]);
+                count++;
+            } 
             colEnd--;
+            if(count == noOfElement) return list;
 
-            // Traverse left
-            if (rowStart <= rowEnd) {
-                for (int j = colEnd; j >= colStart; j--) {
-                    list.add(matrix[rowEnd][j]);
-                }
-                rowEnd--;
-            }
+            // 3rd------------------------------------------------------
+            pointer = colEnd;
+            while(pointer >= colStart) {
+                list.add(matrix[rowEnd][pointer--]);
+                count++;
+            } 
+            rowEnd--;
+            if(count == noOfElement) return list;
 
-            // Traverse up
-            if (colStart <= colEnd) {
-                for (int i = rowEnd; i >= rowStart; i--) {
-                    list.add(matrix[i][colStart]);
-                }
-                colStart++;
-            }
-        }
-        return list;
+            // 4th------------------------------------------------------
+            pointer = rowEnd;
+            while(pointer >= rowStart) {
+                list.add(matrix[pointer--][colStart]);
+                count++;
+            } 
+            colStart++;
+            if(count == noOfElement) return list;
+        } return list;
     }
 }
