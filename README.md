@@ -577,6 +577,7 @@ I solved the leetCode problems and upload here daily.
 | [1925-count-square-sum-triples](https://github.com/RohanKumarJha/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RohanKumarJha/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/RohanKumarJha/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/RohanKumarJha/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RohanKumarJha/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/RohanKumarJha/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/RohanKumarJha/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -708,6 +709,7 @@ I solved the leetCode problems and upload here daily.
 | [2107-find-unique-binary-string](https://github.com/RohanKumarJha/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/RohanKumarJha/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/RohanKumarJha/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/RohanKumarJha/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/RohanKumarJha/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/RohanKumarJha/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/RohanKumarJha/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -1119,6 +1121,7 @@ I solved the leetCode problems and upload here daily.
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/RohanKumarJha/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/RohanKumarJha/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/RohanKumarJha/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/RohanKumarJha/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2164-two-best-non-overlapping-events](https://github.com/RohanKumarJha/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/RohanKumarJha/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/RohanKumarJha/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
