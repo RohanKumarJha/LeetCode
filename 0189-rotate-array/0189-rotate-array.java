@@ -1,21 +1,22 @@
 class Solution {
+    private void swap(int[] nums,int start,int end) {
+        int temp = nums[start];
+        nums[start] = nums[end];
+        nums[end] = temp;
+    }
+
+    private void reverse(int[] nums,int start,int end) {
+        while(start < end) {
+            swap(nums,start,end);
+            start++; end--;
+        }
+    }
+
     public void rotate(int[] nums, int k) {
-        int n = nums.length;
-        k %= n;
-
-        int[] arr = new int[n];
-        int pointer = 0;
-        int pointer2 = n-k;
-        while(pointer2 < n) {
-            arr[pointer++] = nums[pointer2++];
-        }
-        pointer2 = 0;
-        while(pointer < n) {
-            arr[pointer++] = nums[pointer2++];
-        }
-
-        for(int i=0; i<n; i++) {
-            nums[i] = arr[i];
-        }
+        int len = nums.length;
+        k %= len;
+        reverse(nums,0,len-1);
+        reverse(nums,0,k-1);
+        reverse(nums,k,len-1);
     }
 }
