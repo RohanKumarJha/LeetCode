@@ -1,22 +1,16 @@
 class Solution {
     public int[] productExceptSelf(int[] nums) {
         int n = nums.length;
-
-        int[] arr = new int[n];
-
-        int ans = 1;
-        arr[0] = 1;
-
-        // Find prefix
+        int[] prefix = new int[n];
+        prefix[0] = 1;
         for(int i=1; i<n; i++) {
-            arr[i] = ans * nums[i-1];
-            ans *= nums[i-1];
+            prefix[i] = nums[i-1]*prefix[i-1];
         }
-
-        ans = 1;
+        int num = 1;
+        int[] arr = new int[n];
         for(int i=n-1; i>=0; i--) {
-            arr[i] = arr[i] * ans;
-            ans *= nums[i];
+            arr[i] = num*prefix[i];
+            num *= nums[i];
         }
 
         return arr;
