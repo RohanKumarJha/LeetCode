@@ -3,10 +3,11 @@ class Solution {
         int start=0, end=0;
         while(end < nums.length) {
             if(nums[end] != 0) {
-                nums[start] = nums[end];
-                if(start != end) nums[end] = 0;
-                start++;
+                nums[start++] = nums[end];
             } end++;
+        }
+        while(start < nums.length) {
+            nums[start++] = 0;
         }
     }
 }
