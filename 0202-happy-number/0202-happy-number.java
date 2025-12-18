@@ -1,20 +1,24 @@
-class Solution {
-    private Set<Integer> set = new HashSet<>();
-
-    private boolean happy(int n) {
-        if(n == 1) return true;
-        if(set.contains(n)) return false;
+class Solution {   
+    private int square(int n) {
         int sum = 0;
-        set.add(n);
         while(n != 0) {
             sum += ((n%10)*(n%10));
             n /= 10;
-        }
-        return happy(sum);
-    }
-    
+        } 
+        return sum;
+    } 
+
     public boolean isHappy(int n) {
         if(n < 0) return false;
-        return happy(n);
+        int slow = n;
+        int fast = n;
+        do {
+            if(fast == 1) return true;
+            slow = square(slow);
+            fast = square(fast);
+            if(fast == 1) return true;
+            fast = square(fast);
+        } while(slow != fast);
+        return false;
     }
 }
