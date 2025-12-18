@@ -401,6 +401,7 @@ I solved the leetCode problems and upload here daily.
 | [0142-linked-list-cycle-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RohanKumarJha/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/RohanKumarJha/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/RohanKumarJha/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/RohanKumarJha/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -528,6 +529,7 @@ I solved the leetCode problems and upload here daily.
 | [0150-evaluate-reverse-polish-notation](https://github.com/RohanKumarJha/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/RohanKumarJha/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/RohanKumarJha/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/RohanKumarJha/LeetCode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/RohanKumarJha/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0263-ugly-number) |
@@ -897,6 +899,7 @@ I solved the leetCode problems and upload here daily.
 | [0165-compare-version-numbers](https://github.com/RohanKumarJha/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RohanKumarJha/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/RohanKumarJha/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/RohanKumarJha/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/RohanKumarJha/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0287-find-the-duplicate-number) |
