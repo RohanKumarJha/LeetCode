@@ -401,6 +401,7 @@ I solved the leetCode problems and upload here daily.
 | [0133-clone-graph](https://github.com/RohanKumarJha/LeetCode/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/RohanKumarJha/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/RohanKumarJha/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RohanKumarJha/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/RohanKumarJha/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0202-happy-number) |
@@ -1302,6 +1303,7 @@ I solved the leetCode problems and upload here daily.
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/RohanKumarJha/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/RohanKumarJha/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/RohanKumarJha/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RohanKumarJha/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/RohanKumarJha/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/RohanKumarJha/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -2013,6 +2015,7 @@ I solved the leetCode problems and upload here daily.
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/RohanKumarJha/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/RohanKumarJha/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/RohanKumarJha/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RohanKumarJha/LeetCode/tree/master/0232-implement-queue-using-stacks) |
@@ -2039,6 +2042,7 @@ I solved the leetCode problems and upload here daily.
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/RohanKumarJha/LeetCode/tree/master/0146-lru-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/RohanKumarJha/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Merge Sort
 |  |
