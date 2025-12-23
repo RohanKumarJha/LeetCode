@@ -1,8 +1,8 @@
 class Solution {
     private int climb(int n,int[] dp) {
-        if(n <= 2) return dp[n-1];
-        if(dp[n-1] != 0) return dp[n-1];
-        dp[n-1] = climb(n-1,dp)+climb(n-2,dp);
+        for(int i=2; i<n; i++) {
+            dp[i] = dp[i-1] + dp[i-2];
+        }
         return dp[n-1];
     }
 
