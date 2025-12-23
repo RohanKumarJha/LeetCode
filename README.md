@@ -662,6 +662,7 @@ I solved the leetCode problems and upload here daily.
 | [0205-isomorphic-strings](https://github.com/RohanKumarJha/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0241-different-ways-to-add-parentheses](https://github.com/RohanKumarJha/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/RohanKumarJha/LeetCode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/RohanKumarJha/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/RohanKumarJha/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/RohanKumarJha/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/RohanKumarJha/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -1731,6 +1732,7 @@ I solved the leetCode problems and upload here daily.
 | [0226-invert-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/RohanKumarJha/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/RohanKumarJha/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/RohanKumarJha/LeetCode/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/RohanKumarJha/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
@@ -1782,6 +1784,7 @@ I solved the leetCode problems and upload here daily.
 | [0226-invert-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/RohanKumarJha/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/RohanKumarJha/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/RohanKumarJha/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/RohanKumarJha/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -1900,6 +1903,7 @@ I solved the leetCode problems and upload here daily.
 | [0226-invert-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/RohanKumarJha/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/RohanKumarJha/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/RohanKumarJha/LeetCode/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/RohanKumarJha/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
@@ -1967,6 +1971,7 @@ I solved the leetCode problems and upload here daily.
 | [0079-word-search](https://github.com/RohanKumarJha/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/RohanKumarJha/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/RohanKumarJha/LeetCode/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/RohanKumarJha/LeetCode/tree/master/0679-24-game) |
 | [1160-letter-tile-possibilities](https://github.com/RohanKumarJha/LeetCode/tree/master/1160-letter-tile-possibilities) |
