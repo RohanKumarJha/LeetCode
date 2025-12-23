@@ -1,18 +1,22 @@
 class Solution {
-    private boolean pathSum(TreeNode node,int sum,int ts) {
+    private boolean flag = false;
 
-        if(node == null) return false;
-
-        sum += node.val;
-
-        if(node.left==null && node.right==null) {
-            if(sum == ts) return true;
+    private void pathSum(TreeNode root, int sum, int targetSum) {
+        if (root == null) return;
+        sum += root.val;
+        if (root.left == null && root.right == null) {
+            if (sum == targetSum) {
+                flag = true;
+            }
+            return;
         }
-
-        return pathSum(node.left,sum,ts) || pathSum(node.right,sum,ts);
+        pathSum(root.left,sum,targetSum);
+        pathSum(root.right,sum,targetSum);
     }
+
     public boolean hasPathSum(TreeNode root, int targetSum) {
         if(root == null) return false;
-        return pathSum(root,0,targetSum);
+        pathSum(root,0,targetSum);
+        return flag;
     }
 }
