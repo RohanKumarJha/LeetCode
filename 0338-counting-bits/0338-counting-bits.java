@@ -1,16 +1,15 @@
 class Solution {
+    private int count(int n,int zeroes) {
+        while(n != 0) {
+            zeroes += (n % 2);
+            n /= 2;
+        } return zeroes;
+    }
     public int[] countBits(int n) {
-        int[] dp = new int[n + 1];
-        int sub = 1;
-
-        for (int i = 1; i <= n; i++) {
-            if (sub * 2 == i) {
-                sub = i;
-            }
-
-            dp[i] = dp[i - sub] + 1;
+        int[] result = new int[n+1];
+        for(int i=0; i<=n; i++) {
+            result[i] = count(i,0);
         }
-
-        return dp;        
+        return result;
     }
 }
