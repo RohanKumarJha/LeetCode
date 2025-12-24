@@ -312,6 +312,7 @@ I solved the leetCode problems and upload here daily.
 | [2915-count-of-interesting-subarrays](https://github.com/RohanKumarJha/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/RohanKumarJha/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3001-apply-operations-to-maximize-score](https://github.com/RohanKumarJha/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3074-apple-redistribution-into-boxes](https://github.com/RohanKumarJha/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/RohanKumarJha/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -1286,6 +1287,7 @@ I solved the leetCode problems and upload here daily.
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/RohanKumarJha/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/RohanKumarJha/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/RohanKumarJha/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3074-apple-redistribution-into-boxes](https://github.com/RohanKumarJha/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/RohanKumarJha/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/RohanKumarJha/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/RohanKumarJha/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -1524,6 +1526,7 @@ I solved the leetCode problems and upload here daily.
 | [2699-count-the-number-of-fair-pairs](https://github.com/RohanKumarJha/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/RohanKumarJha/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/RohanKumarJha/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3074-apple-redistribution-into-boxes](https://github.com/RohanKumarJha/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/RohanKumarJha/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/RohanKumarJha/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
