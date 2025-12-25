@@ -1,10 +1,15 @@
 class Solution {
+    private int minCost(int[] cost, int n,int[] dp) {
+        if (n <= 1) return 0;
+        if(dp[n-1] != -1) return dp[n-1];
+        dp[n-1] = Math.min(minCost(cost, n - 1, dp) + cost[n - 1],minCost(cost, n - 2, dp) + cost[n - 2]);
+        return dp[n-1];
+    }
+
     public int minCostClimbingStairs(int[] cost) {
         int n = cost.length;
-        int dp[] = new int[n+1];
-        for(int i=2; i<=n; i++) {
-            dp[i] = Math.min(cost[i-1]+dp[i-1], cost[i-2]+dp[i-2]);
-        }
-        return dp[n];
+        int[] dp = new int[n + 1];
+        Arrays.fill(dp, -1);
+        return minCost(cost, n, dp);
     }
 }
