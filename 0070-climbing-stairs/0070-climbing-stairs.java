@@ -1,17 +1,10 @@
 class Solution {
-    private int climb(int n,int dp[]) {
-        if(n < 3) {
-            dp[n-1] = n;
-            return n;
-        }
-        if(dp[n-1] != -1) return dp[n-1];
-        dp[n-1] = climb(n-1,dp) + climb(n-2,dp);
-        return dp[n-1];
-    }
-
     public int climbStairs(int n) {
         int dp[] = new int[n+1];
-        Arrays.fill(dp,-1);
-        return climb(n, dp);
+        dp[0] = 1;
+        if(n > 1) dp[1] = 2;
+        for(int state=3; state<=n; state++) {
+            dp[state-1] = dp[state-2] + dp[state-3];
+        } return dp[n-1];
     }
 }
