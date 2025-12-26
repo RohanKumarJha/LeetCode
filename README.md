@@ -564,6 +564,7 @@ I solved the leetCode problems and upload here daily.
 | [1018-largest-perimeter-triangle](https://github.com/RohanKumarJha/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/RohanKumarJha/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1048-clumsy-factorial](https://github.com/RohanKumarJha/LeetCode/tree/master/1048-clumsy-factorial) |
+| [1137-n-th-tribonacci-number](https://github.com/RohanKumarJha/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/RohanKumarJha/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1230-maximum-of-absolute-value-expression](https://github.com/RohanKumarJha/LeetCode/tree/master/1230-maximum-of-absolute-value-expression) |
 | [1284-four-divisors](https://github.com/RohanKumarJha/LeetCode/tree/master/1284-four-divisors) |
@@ -1133,6 +1134,7 @@ I solved the leetCode problems and upload here daily.
 | [1025-minimum-cost-for-tickets](https://github.com/RohanKumarJha/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/RohanKumarJha/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/RohanKumarJha/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1137-n-th-tribonacci-number](https://github.com/RohanKumarJha/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/RohanKumarJha/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/RohanKumarJha/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RohanKumarJha/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -1619,6 +1621,7 @@ I solved the leetCode problems and upload here daily.
 | [0241-different-ways-to-add-parentheses](https://github.com/RohanKumarJha/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/RohanKumarJha/LeetCode/tree/master/1013-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/RohanKumarJha/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/RohanKumarJha/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/RohanKumarJha/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/RohanKumarJha/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
