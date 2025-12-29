@@ -140,6 +140,7 @@ I solved the leetCode problems and upload here daily.
 | [0952-word-subsets](https://github.com/RohanKumarJha/LeetCode/tree/master/0952-word-subsets) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/RohanKumarJha/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1018-largest-perimeter-triangle](https://github.com/RohanKumarJha/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/RohanKumarJha/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-squares-of-a-sorted-array](https://github.com/RohanKumarJha/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -1210,6 +1211,7 @@ I solved the leetCode problems and upload here daily.
 | [0735-asteroid-collision](https://github.com/RohanKumarJha/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/RohanKumarJha/LeetCode/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/RohanKumarJha/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1048-clumsy-factorial](https://github.com/RohanKumarJha/LeetCode/tree/master/1048-clumsy-factorial) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/RohanKumarJha/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/RohanKumarJha/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -1239,6 +1241,7 @@ I solved the leetCode problems and upload here daily.
 | [0503-next-greater-element-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/RohanKumarJha/LeetCode/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/RohanKumarJha/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/RohanKumarJha/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/RohanKumarJha/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/RohanKumarJha/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -1779,6 +1782,7 @@ I solved the leetCode problems and upload here daily.
 | [0783-search-in-a-binary-search-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/RohanKumarJha/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1035-cousins-in-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RohanKumarJha/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -1950,6 +1954,7 @@ I solved the leetCode problems and upload here daily.
 | [0783-search-in-a-binary-search-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/RohanKumarJha/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1035-cousins-in-binary-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RohanKumarJha/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -2147,6 +2152,7 @@ I solved the leetCode problems and upload here daily.
 | [0700-search-in-a-binary-search-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/RohanKumarJha/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/RohanKumarJha/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RohanKumarJha/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Bitmask
 |  |
 | ------- |
