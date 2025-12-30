@@ -123,6 +123,7 @@ I solved the leetCode problems and upload here daily.
 | [0792-binary-search](https://github.com/RohanKumarJha/LeetCode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/RohanKumarJha/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/RohanKumarJha/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0840-magic-squares-in-grid](https://github.com/RohanKumarJha/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/RohanKumarJha/LeetCode/tree/master/0854-making-a-large-island) |
 | [0860-design-circular-queue](https://github.com/RohanKumarJha/LeetCode/tree/master/0860-design-circular-queue) |
 | [0861-flipping-an-image](https://github.com/RohanKumarJha/LeetCode/tree/master/0861-flipping-an-image) |
@@ -438,6 +439,7 @@ I solved the leetCode problems and upload here daily.
 | [0594-longest-harmonious-subsequence](https://github.com/RohanKumarJha/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/RohanKumarJha/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/RohanKumarJha/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0840-magic-squares-in-grid](https://github.com/RohanKumarJha/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/RohanKumarJha/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0904-fruit-into-baskets](https://github.com/RohanKumarJha/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/RohanKumarJha/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -563,6 +565,7 @@ I solved the leetCode problems and upload here daily.
 | [0728-self-dividing-numbers](https://github.com/RohanKumarJha/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0797-rabbits-in-forest](https://github.com/RohanKumarJha/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/RohanKumarJha/LeetCode/tree/master/0826-soup-servings) |
+| [0840-magic-squares-in-grid](https://github.com/RohanKumarJha/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0866-rectangle-overlap](https://github.com/RohanKumarJha/LeetCode/tree/master/0866-rectangle-overlap) |
 | [0867-new-21-game](https://github.com/RohanKumarJha/LeetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/RohanKumarJha/LeetCode/tree/master/0900-reordered-power-of-2) |
@@ -862,6 +865,7 @@ I solved the leetCode problems and upload here daily.
 | [0695-max-area-of-island](https://github.com/RohanKumarJha/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/RohanKumarJha/LeetCode/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/RohanKumarJha/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [0840-magic-squares-in-grid](https://github.com/RohanKumarJha/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/RohanKumarJha/LeetCode/tree/master/0854-making-a-large-island) |
 | [0861-flipping-an-image](https://github.com/RohanKumarJha/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/RohanKumarJha/LeetCode/tree/master/0898-transpose-matrix) |
