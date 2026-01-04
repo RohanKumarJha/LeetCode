@@ -1,15 +1,11 @@
 class Solution {
     public int majorityElement(int[] nums) {
         int size = nums.length;
-        Arrays.sort(nums);
-        int count = 1;
-        for(int i=1; i<size; i++) {
-            if(nums[i] == nums[i-1]) {
-                count++;
-            } else {
-                if(count > size/2) return nums[i-1];
-                count = 1;
-            }
-        } return nums[size-1];
+        Map<Integer,Integer> map = new HashMap<>();
+        for(int i=0; i<size; i++) {
+            map.put(nums[i], map.getOrDefault(nums[i], 0) + 1);
+            if(map.get(nums[i]) > size/2) return nums[i];
+        }
+        return 0;
     }
 }
