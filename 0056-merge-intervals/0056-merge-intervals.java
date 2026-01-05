@@ -1,26 +1,30 @@
 class Solution {
     public int[][] merge(int[][] intervals) {
-        Arrays.sort(intervals, (a,b) -> Integer.compare(a[0], b[0]));
-        int start=intervals[0][0], end=intervals[0][1];
-        int pos = 1;
-        List<List<Integer>> list = new ArrayList<>();
-        while(pos < intervals.length) {
-            int firstIndex = intervals[pos][0];
-            int secondIndex = intervals[pos][1];
-            if(firstIndex <= end) {
-                end = Math.max(end, secondIndex);
-            } else {
-                list.add(Arrays.asList(start,end));
-                start = firstIndex;
-                end = secondIndex;
-            } pos++;
-        } list.add(Arrays.asList(start,end));
+        Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
 
-        int size = list.size();
-        int[][] arr = new int[size][2];
-        for(int i=0; i<size; i++) {
-            arr[i][0] = list.get(i).get(0);
-            arr[i][1] = list.get(i).get(1);
-        } return arr;
+        List<List<Integer>> list = new ArrayList<>();
+
+        int start = intervals[0][0];
+        int end = intervals[0][1];
+
+        for (int i = 1; i < intervals.length; i++) {
+            if (intervals[i][0] <= end) {
+                end = Math.max(end, intervals[i][1]);
+            } else {
+                list.add(Arrays.asList(start, end));
+                start = intervals[i][0];
+                end = intervals[i][1];
+            }
+        }
+        list.add(Arrays.asList(start, end));
+
+        // 🔽 Convert List<List<Integer>> to int[][]
+        int[][] result = new int[list.size()][2];
+        for (int i = 0; i < list.size(); i++) {
+            result[i][0] = list.get(i).get(0);
+            result[i][1] = list.get(i).get(1);
+        }
+
+        return result;
     }
 }
