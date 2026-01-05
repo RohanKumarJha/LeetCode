@@ -1,8 +1,8 @@
 class Solution {
     private void swap(int[] nums,int start,int end) {
-        int temp = nums[start];
+        int num = nums[start];
         nums[start] = nums[end];
-        nums[end] = temp;
+        nums[end] = num;
     }
 
     private void reverse(int[] nums,int start,int end) {
@@ -13,33 +13,21 @@ class Solution {
     }
 
     public void nextPermutation(int[] nums) {
-        int pos = -1;
-        for(int i=nums.length-1; i>0; i--) {
-            if(nums[i-1] < nums[i]) {
-                pos = i-1;
-                break;
-            }
+        int pointer = nums.length-1;
+        while(pointer > 0) {
+            if(nums[pointer] <= nums[pointer-1]) {
+                pointer--;
+            } else break;
         }
-        if(pos == -1) {
+        if(pointer == 0) {
             reverse(nums,0,nums.length-1);
-        } 
-        else {
-            int pos2 = -1;
-            for(int i=pos+1; i<nums.length; i++) {
-                if(nums[i] <= nums[pos]) {
-                    pos2 = i-1;
-                    break;
-                }
+        } else {
+            int justgreater = pointer+1;
+            while(justgreater<nums.length && nums[pointer-1]<nums[justgreater]) {
+                justgreater++;
             }
-
-            if(pos2 == -1) {
-                swap(nums,pos,nums.length-1);
-                reverse(nums,pos+1,nums.length-1);
-            } else {
-                swap(nums,pos,pos2);
-                reverse(nums,pos+1,nums.length-1);
-            }
+            swap(nums,pointer-1,justgreater-1);
+            reverse(nums,pointer,nums.length-1);
         }
-
     }
 }
