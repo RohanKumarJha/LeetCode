@@ -124,6 +124,7 @@ I solved the leetCode problems and upload here daily.
 | [0794-swim-in-rising-water](https://github.com/RohanKumarJha/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/RohanKumarJha/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/RohanKumarJha/LeetCode/tree/master/0840-magic-squares-in-grid) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/RohanKumarJha/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0854-making-a-large-island](https://github.com/RohanKumarJha/LeetCode/tree/master/0854-making-a-large-island) |
 | [0860-design-circular-queue](https://github.com/RohanKumarJha/LeetCode/tree/master/0860-design-circular-queue) |
 | [0861-flipping-an-image](https://github.com/RohanKumarJha/LeetCode/tree/master/0861-flipping-an-image) |
@@ -1050,6 +1051,7 @@ I solved the leetCode problems and upload here daily.
 | [0745-find-smallest-letter-greater-than-target](https://github.com/RohanKumarJha/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/RohanKumarJha/LeetCode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/RohanKumarJha/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/RohanKumarJha/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/RohanKumarJha/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/RohanKumarJha/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/RohanKumarJha/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
