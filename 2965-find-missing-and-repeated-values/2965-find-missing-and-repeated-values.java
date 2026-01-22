@@ -1,33 +1,19 @@
 class Solution {
     public int[] findMissingAndRepeatedValues(int[][] grid) {
-        int size = grid.length * grid.length;
-        int[] arr = new int[size];
-        int pointer = 0;
+        long size = grid.length * grid.length;
+        long actual_sum = size*(size+1)/2;
+        long actual_square_sum = size*(size+1)*(2*size+1)/6;
+        long sum = 0;
+        long square_sum = 0;
         for(int i=0; i<grid.length; i++) {
             for(int j=0; j<grid.length; j++) {
-                arr[pointer++] = grid[i][j];
+                sum += grid[i][j];
+                square_sum += (grid[i][j]*grid[i][j]);
             }
         }
-        Arrays.sort(arr);
-        
-        int[] result = new int[2];
+        long missing = ((actual_sum - sum) + ((actual_square_sum-square_sum)/(actual_sum-sum)))/2;
+        long duplicate = missing - (actual_sum-sum);
 
-        // Find duplicate
-        for(int i=1; i<size; i++) {
-            if(arr[i] == arr[i-1]) {
-                result[0] = arr[i];
-                break;
-            }
-        }
-
-        // Find missing
-        pointer = 1;
-        for(int i=0; i<arr.length; i++) {
-            if(arr[i] == pointer) pointer++;
-        }
-
-        result[1] = pointer;
-
-        return result;
+        return new int[]{(int)duplicate,(int)missing};
     }
 }
