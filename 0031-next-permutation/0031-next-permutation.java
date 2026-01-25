@@ -1,33 +1,35 @@
 class Solution {
     private void swap(int[] nums,int start,int end) {
-        int num = nums[start];
+        int temp = nums[start];
         nums[start] = nums[end];
-        nums[end] = num;
+        nums[end] = temp;
     }
-
     private void reverse(int[] nums,int start,int end) {
         while(start < end) {
             swap(nums,start,end);
-            start++; end--;
+            start++;
+            end--;
         }
     }
 
     public void nextPermutation(int[] nums) {
-        int pointer = nums.length-1;
-        while(pointer > 0) {
-            if(nums[pointer] <= nums[pointer-1]) {
-                pointer--;
-            } else break;
+        // Find smaller elm index
+        int num = nums.length-2;
+        while(num >= 0) {
+            if(nums[num] < nums[num+1]) break;
+            else num--;
         }
-        if(pointer == 0) {
-            reverse(nums,0,nums.length-1);
-        } else {
-            int justgreater = pointer+1;
-            while(justgreater<nums.length && nums[pointer-1]<nums[justgreater]) {
-                justgreater++;
+        if(num != -1) {
+            // find just equal and smaller
+            int idx = num+1;
+            while(idx < nums.length) {
+                if(nums[num] < nums[idx]) idx++;
+                else break;
             }
-            swap(nums,pointer-1,justgreater-1);
-            reverse(nums,pointer,nums.length-1);
+            swap(nums,num,idx-1);
+            reverse(nums,num+1,nums.length-1);
+        } else {
+            reverse(nums,0,nums.length-1);
         }
     }
 }
