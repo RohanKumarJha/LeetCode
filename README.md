@@ -111,6 +111,7 @@ I solved the leetCode problems and upload here daily.
 | [0679-24-game](https://github.com/RohanKumarJha/LeetCode/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/RohanKumarJha/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0695-max-area-of-island](https://github.com/RohanKumarJha/LeetCode/tree/master/0695-max-area-of-island) |
+| [0704-binary-search](https://github.com/RohanKumarJha/LeetCode/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/RohanKumarJha/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/RohanKumarJha/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/RohanKumarJha/LeetCode/tree/master/0733-flood-fill) |
@@ -1048,6 +1049,7 @@ I solved the leetCode problems and upload here daily.
 | [0493-reverse-pairs](https://github.com/RohanKumarJha/LeetCode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RohanKumarJha/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/RohanKumarJha/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0704-binary-search](https://github.com/RohanKumarJha/LeetCode/tree/master/0704-binary-search) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/RohanKumarJha/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/RohanKumarJha/LeetCode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/RohanKumarJha/LeetCode/tree/master/0794-swim-in-rising-water) |
