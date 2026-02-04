@@ -4,12 +4,11 @@ class Solution {
         if(root == null) return list;
         Stack<TreeNode> st = new Stack<>();
         st.push(root);
-
         while(!st.isEmpty()) {
-            TreeNode elm = st.pop();
-            if(elm.left!=null) st.push(elm.left);
-            if(elm.right!=null) st.push(elm.right);
-            list.add(0,elm.val);
+            TreeNode node = st.pop();
+            if(node.left != null) st.push(node.left);
+            if(node.right != null) st.push(node.right);
+            list.add(0,node.val);
         }
         return list;
     }
