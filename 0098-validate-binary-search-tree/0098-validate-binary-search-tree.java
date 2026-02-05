@@ -1,18 +1,19 @@
 class Solution {
-    private void isValid(TreeNode node,ArrayList<Integer> arr) {
+    
+    private List<Integer> list = new ArrayList<>();
+
+    private void isValid(TreeNode node) {
         if(node == null) return ;
-        isValid(node.left,arr);
-        arr.add(node.val);
-        isValid(node.right,arr);
+        isValid(node.left);
+        list.add(node.val);
+        isValid(node.right);
     }
 
     public boolean isValidBST(TreeNode root) {
-        if(root == null) return false;
-        ArrayList<Integer> arr = new ArrayList<>();
-        isValid(root,arr);
-        for(int i=1; i<arr.size(); i++) {
-            if(arr.get(i) <= arr.get(i-1)) return false;
-        } 
+        isValid(root);
+        for(int i=1; i<list.size(); i++) {
+            if(list.get(i) <= list.get(i-1)) return false;
+        }
         return true;
     }
 }
