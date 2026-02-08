@@ -1,19 +1,24 @@
 class Solution {
     public String reverseWords(String s) {
         s = s.trim();
+        int lastIndex = s.length()-1;
+        int beginIndex = lastIndex;
         StringBuilder sb = new StringBuilder();
-        boolean flag = false;
-        int pos = s.length()-1;
-        for(int i=s.length()-1; i>=0; i--) {
-            if(s.charAt(i)==' ' && flag==false) {
-                sb.append(s.substring(i+1,pos+1));
-                sb.append(" ");
-                flag = true;
-            } else if(s.charAt(i)!=' ' && flag==true) {
-                pos = i;
-                flag = false;
+        while(beginIndex >= 0) {
+            if(s.charAt(beginIndex) == ' ') {
+                if(lastIndex != -1) {
+                    sb.append(s.substring(beginIndex+1,lastIndex+1));
+                    sb.append(' ');
+                    lastIndex = -1;
+                }
+            } else {
+                if(lastIndex == -1) {
+                    lastIndex = beginIndex;
+                } 
             }
-        } sb.append(s.substring(0,pos+1));
+            beginIndex--;
+        }
+        sb.append(s.substring(0,lastIndex+1));
         return sb.toString();
     }
 }
