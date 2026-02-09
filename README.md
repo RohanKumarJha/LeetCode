@@ -795,6 +795,7 @@ I solved the leetCode problems and upload here daily.
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/RohanKumarJha/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/RohanKumarJha/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/RohanKumarJha/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3794-reverse-string-prefix](https://github.com/RohanKumarJha/LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/RohanKumarJha/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
@@ -978,6 +979,7 @@ I solved the leetCode problems and upload here daily.
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/RohanKumarJha/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/RohanKumarJha/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/RohanKumarJha/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3794-reverse-string-prefix](https://github.com/RohanKumarJha/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## Prefix Sum
 |  |
 | ------- |
