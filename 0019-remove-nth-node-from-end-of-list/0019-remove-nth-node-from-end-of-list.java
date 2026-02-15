@@ -1,18 +1,18 @@
 class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
-        if(head == null) return head;
-        ListNode slow=head, fast=head;
-        int pointer=0;
-        while(pointer < n) {
-            fast = fast.next;
-            pointer++;
+        int size = 0;
+        ListNode temp = head;
+        while(temp != null) {
+            size++;
+            temp = temp.next;
         }
-        if(fast == null) return head.next;
-        while(fast.next != null) {
-            slow = slow.next;
-            fast = fast.next;
+        int actualSize = size-n;
+        if(actualSize == 0) return head.next;
+        temp = head;
+        for(int i=1; i<actualSize; i++) {
+            temp = temp.next;
         }
-        slow.next = slow.next.next;
+        temp.next = temp.next.next;
         return head;
     }
 }
