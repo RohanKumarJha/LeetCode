@@ -1,21 +1,20 @@
 class Solution {
     public List<List<Integer>> generate(int numRows) {
+        List<Integer> prev = new ArrayList<>();
+        prev.add(1);
         List<List<Integer>> result = new ArrayList<>();
-        if(numRows == 0) return result;
-        List<Integer> currentList = new ArrayList<>();
-        currentList.add(1);
-        result.add(currentList);
-        List<Integer> prevList = new ArrayList<>();
-        prevList = currentList;
+        result.add(new ArrayList<>(prev));
         for(int i=1; i<numRows; i++) {
-            currentList = new ArrayList<>();
-            currentList.add(1);
+            List<Integer> curr = new ArrayList<>();
+            curr.add(1);
             for(int j=1; j<i; j++) {
-                currentList.add(prevList.get(j-1)+prevList.get(j));
+                int sum = prev.get(j) + prev.get(j-1);
+                curr.add(sum);
             }
-            currentList.add(1);
-            result.add(currentList);
-            prevList = currentList;
-        } return result;
+            curr.add(1);
+            result.add(new ArrayList<>(curr));
+            prev = curr;
+        }
+        return result;
     }
 }
