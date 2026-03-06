@@ -1,12 +1,19 @@
-import java.util.Arrays;
-
 class Solution {
-    public int removeDuplicates(int[] nums) {
+    private void swap(int[] nums,int start,int end) {
+        int temp = nums[start];
+        nums[start] = nums[end];
+        nums[end] = temp;
+    }
 
-        int[] unique = Arrays.stream(nums).distinct().toArray();
-        for (int i = 0; i < unique.length; i++) {
-            nums[i] = unique[i];
+    public int removeDuplicates(int[] nums) {
+        int start = 0;
+        int end = 1;
+        while(end < nums.length) {
+            if(nums[end] != nums[start]) {
+                start++;
+                swap(nums,start,end);
+            } end++;
         }
-        return unique.length;
+        return start+1;
     }
 }
