@@ -1,26 +1,26 @@
 class Solution {
-
-    private void island(char[][] grid,int row,int col) {
-        if(row<0 || row>=grid.length || col<0 || col>=grid[0].length) return ;
-        if (grid[row][col] != '1')
-            return;
-        grid[row][col] = '0';
-        island(grid,row+1,col);
-        island(grid,row-1,col);
-        island(grid,row,col-1);
-        island(grid,row,col+1);
+    private void island(char[][] grid,int curr_row, int curr_col, int row, int col) {
+        if(curr_row==row || curr_col==col || curr_row==-1 || curr_col==-1) return ;
+        if(grid[curr_row][curr_col] != '1') return ;
+        grid[curr_row][curr_col] = '$';
+        island(grid, curr_row-1, curr_col, row, col);
+        island(grid, curr_row+1, curr_col, row, col);
+        island(grid, curr_row, curr_col-1, row, col);
+        island(grid, curr_row, curr_col+1, row, col);
     }
 
     public int numIslands(char[][] grid) {
-        int result = 0;
-        for(int i=0; i<grid.length; i++) {
-            for(int j=0; j<grid[0].length; j++) {
+        int no_of_island = 0;
+        int row = grid.length;
+        int col = grid[0].length;
+        for(int i=0; i<row; i++) {
+            for(int j=0; j<col; j++) {
                 if(grid[i][j] == '1') {
-                    island(grid,i,j);
-                    result++;
+                    island(grid,i,j,row,col);
+                    no_of_island++;
                 }
             }
-        } 
-        return result;
+        }
+        return no_of_island;
     }
 }
