@@ -2193,4 +2193,8 @@ I solved the leetCode problems and upload here daily.
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/RohanKumarJha/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/RohanKumarJha/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/RohanKumarJha/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
