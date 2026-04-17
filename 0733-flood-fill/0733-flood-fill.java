@@ -1,18 +1,19 @@
 class Solution {
-    private void changePixel(int[][] image, int sr, int sc, int org_pixel, int color) {
-        if(sr==-1 || sc==-1 || sr==image.length || sc==image[0].length) return ;
-        if(image[sr][sc] != org_pixel) return ;
-        image[sr][sc] = color;
-        changePixel(image, sr-1, sc, org_pixel, color);
-        changePixel(image, sr+1, sc, org_pixel, color);
-        changePixel(image, sr, sc-1, org_pixel, color);
-        changePixel(image, sr, sc+1, org_pixel, color);
+    private void flood(int[][] image, int sr, int sc, int color, int curr_color) {
+        if(color == curr_color) return;
+        if(sr<0 || sc<0 || sr>=image.length || sc>=image[0].length) return ;
+        if(image[sr][sc] != curr_color) return;
+        if(image[sr][sc] == curr_color) {
+            image[sr][sc] = color;
+        }
+        flood(image, sr+1, sc, color, curr_color);
+        flood(image, sr-1, sc, color, curr_color);
+        flood(image, sr, sc+1, color, curr_color);
+        flood(image, sr, sc-1, color, curr_color);
     }
 
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
-        if(image[sr][sc] == color) return image;
-        int org_pixel = image[sr][sc];
-        changePixel(image, sr, sc, org_pixel, color);
+        flood(image, sr, sc, color, image[sr][sc]);
         return image;
     }
 }
