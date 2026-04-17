@@ -1,5 +1,5 @@
 class Solution {
-    private TreeNode invert(TreeNode node) {
+    public TreeNode invert(TreeNode node) {
         if(node == null) return node;
         TreeNode left = invert(node.left);
         TreeNode right = invert(node.right);
