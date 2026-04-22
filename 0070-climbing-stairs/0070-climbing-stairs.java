@@ -1,16 +1,18 @@
 class Solution {
-    private int climbstair(int idx, int n, int[] dp) {
+    private int climbstair(int idx, int n, int first, int second) {
+        int total = 0;
         for(int i=idx; i<=n; i++) {
-            dp[i] = dp[i-1] + dp[i-2];
+            total = first + second;
+            first = second;
+            second = total;
         }
-        return dp[n];
+        return total;
     }
 
     public int climbStairs(int n) {
-        int[] dp = new int[46];
-        for(int i=1; i<=2; i++) {
-            dp[i] = i;
-        }
-        return climbstair(3, n, dp);
+        if(n <= 2) return n;
+        int first = 1;
+        int second = 2;
+        return climbstair(3, n, first, second);
     }
 }
