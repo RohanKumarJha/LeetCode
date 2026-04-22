@@ -1,10 +1,16 @@
 class Solution {
-    private int fibonacci(int n) {
-        if(n < 2) return n;
-        return fibonacci(n-1) + fibonacci(n-2);
+    private int fibonacci(int n, int[] dp) {
+        if(n < 2) {
+            dp[n] = n;
+            return n;
+        }
+        if(dp[n] != 0) return dp[n];
+        dp[n] = fibonacci(n-1, dp) + fibonacci(n-2, dp);
+        return dp[n];
     }
 
     public int fib(int n) {
-        return fibonacci(n);
+        int[] dp = new int[31];
+        return fibonacci(n, dp);
     }
 }
