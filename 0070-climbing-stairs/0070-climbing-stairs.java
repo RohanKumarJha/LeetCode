@@ -8,8 +8,9 @@ class Solution {
 
     public int climbStairs(int n) {
         int[] dp = new int[46];
-        dp[1] = 1;
-        dp[2] = 2;
+        for(int i=1; i<=2; i++) {
+            dp[i] = i;
+        }
         return climbstair(3, n, dp);
     }
 }
