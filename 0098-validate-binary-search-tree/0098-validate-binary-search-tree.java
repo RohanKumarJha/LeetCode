@@ -1,17 +1,18 @@
 class Solution {
-    private void inorder(TreeNode node,List<Integer> list) {
-        if(node == null) return ;
-        inorder(node.left,list);
-        list.add(node.val);
-        inorder(node.right,list);
-    }
+    private Integer prev = null;
 
     public boolean isValidBST(TreeNode root) {
-        List<Integer> list = new ArrayList<>();
-        inorder(root,list);
-        for(int i=1; i<list.size(); i++) {
-            if(list.get(i) <= list.get(i-1)) return false;
-        }
-        return true;
+        return inorder(root);
+    }
+
+    private boolean inorder(TreeNode node) {
+        if (node == null) return true;
+
+        if (!inorder(node.left)) return false;
+
+        if (prev != null && node.val <= prev) return false;
+        prev = node.val;
+
+        return inorder(node.right);
     }
 }
