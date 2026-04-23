@@ -7,6 +7,7 @@ class Solution {
         int right = isBalance(node.right);
         if(Math.abs(left-right) > 1) {
             result = false;
+            return 1;
         }
         return 1 + Math.max(left,right);
     }
