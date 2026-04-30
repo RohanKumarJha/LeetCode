@@ -1,4 +1,17 @@
 class Solution {
+
+    private int withoutDp(int n) {
+        int first = 1;
+        int second = 2;
+        int result = 0;
+        for(int i=3; i<=n; i++) {
+            result = first + second;
+            first = second;
+            second = result;
+        }
+        return result;
+    }
+    
     private int tabulation(int n,int[] dp) {
         dp[1] = 1;
         dp[2] = 2;
@@ -24,6 +37,7 @@ class Solution {
         if(n <= 2) return n;
         int[] dp = new int[n+1];
         // return memoization(n,dp);
-        return tabulation(n,dp);
+        // return tabulation(n,dp);
+        return withoutDp(n);
     }
 }
