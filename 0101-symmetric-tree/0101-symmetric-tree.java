@@ -1,9 +1,9 @@
 class Solution {
-    private boolean symmetric(TreeNode left, TreeNode right) {
-        if(left==null & right==null) return true;
-        if(left==null || right==null) return false;
-        if(left.val != right.val) return false;
-        return symmetric(left.left, right.right) & symmetric(left.right, right.left);
+    private boolean symmetric(TreeNode node1, TreeNode node2) {
+        if(node1 == null && node2 == null) return true;
+        if(node1 == null || node2 == null) return false;
+        if(node1.val != node2.val) return false;
+        return symmetric(node1.left, node2.right) & symmetric(node1.right, node2.left);
     }
 
     public boolean isSymmetric(TreeNode root) {
