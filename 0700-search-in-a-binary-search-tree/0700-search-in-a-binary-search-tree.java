@@ -1,9 +1,7 @@
 class Solution {
     public TreeNode searchBST(TreeNode root, int val) {
-        if(root == null) return null;
+        if(root == null) return root;
         if(root.val == val) return root;
-        if(root.val < val) {
-            return searchBST(root.right, val);
-        } return searchBST(root.left, val);
+        return (root.val < val) ? searchBST(root.right, val) : searchBST(root.left, val);
     }
 }
