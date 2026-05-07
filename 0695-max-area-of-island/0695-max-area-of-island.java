@@ -1,27 +1,25 @@
 class Solution {
-    private int max_area = 0;
     private int area = 0;
+    private int max_area = 0; 
 
-    private void findArea(int[][] grid,int i,int j) {
-        if(i<0 || j<0 || i>=grid.length || j>=grid[0].length || grid[i][j]!=1) return ;
-        if(grid[i][j] == 1) {
-            area += 1;
-            grid[i][j] = 0;
-        }
-        findArea(grid,i-1,j);
-        findArea(grid,i+1,j);
-        findArea(grid,i,j-1);
-        findArea(grid,i,j+1);
+    private void maxArea(int[][] grid,int row,int col) {
+        if(row<0 || col<0 || row>=grid.length || col>=grid[0].length || grid[row][col]!=1) return;
+        grid[row][col] = 0;
+        area += 1;
+        maxArea(grid,row+1,col);
+        maxArea(grid,row-1,col);
+        maxArea(grid,row,col+1);
+        maxArea(grid,row,col-1);
     }
+
     public int maxAreaOfIsland(int[][] grid) {
         for(int i=0; i<grid.length; i++) {
             for(int j=0; j<grid[0].length; j++) {
-                if(grid[i][j] == 1) {
-                    findArea(grid,i,j);
-                    max_area = Math.max(max_area,area);
-                    area = 0;
-                }
+                maxArea(grid,i,j);
+                max_area = Math.max(max_area,area);
+                area = 0;
             }
-        } return max_area;
+        }
+        return max_area;
     }
 }
