@@ -1,10 +1,10 @@
 class Solution {
     private int result = 0;
 
-    private int diameter(TreeNode node) {
-        if(node == null) return 0;
-        int left = diameter(node.left);
-        int right = diameter(node.right);
+    private int diameter(TreeNode root) {
+        if(root == null) return 0;
+        int left = diameter(root.left);
+        int right = diameter(root.right);
         result = Math.max(result,left+right);
         return 1 + Math.max(left,right);
     }
