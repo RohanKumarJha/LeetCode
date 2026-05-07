@@ -1,9 +1,7 @@
 class Solution {
     private void checkIsland(char[][] grid,int row, int col) {
         if(row>=grid.length || col>=grid[0].length || row<0 || col<0 || grid[row][col] != '1') return;
-        if(grid[row][col] == '1') {
-            grid[row][col] = '$';
-        }
+        grid[row][col] = '$';
         checkIsland(grid,row+1,col);
         checkIsland(grid,row-1,col);
         checkIsland(grid,row,col+1);
