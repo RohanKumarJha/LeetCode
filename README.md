@@ -2201,4 +2201,5 @@ I solved the leetCode problems and upload here daily.
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/RohanKumarJha/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/RohanKumarJha/LeetCode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
