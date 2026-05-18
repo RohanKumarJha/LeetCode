@@ -1,16 +1,18 @@
 class Solution {
     List<Integer> list = new ArrayList<>();
 
-    private void postorder(TreeNode node) {
-        if(node == null) return ;
-        postorder(node.left);
-        postorder(node.right);
-        list.add(node.val);
-    }
-
     public List<Integer> postorderTraversal(TreeNode root) {
         if(root == null) return list;
-        postorder(root);
+        Stack<TreeNode> st = new Stack<>();
+        st.push(root);
+
+        while(!st.isEmpty()) {
+            TreeNode node = st.pop();
+            if(node.left != null) st.push(node.left);
+            if(node.right != null) st.push(node.right);
+            list.add(0,node.val);
+        }
+
         return list;
     }
 }
