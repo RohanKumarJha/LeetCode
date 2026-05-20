@@ -1,25 +1,19 @@
 class Solution {
+    private List<Integer> result = new ArrayList<>();
 
-    private int count = 0;
-    private int result = 0;
-
-    private void inorder(TreeNode node, int k) {
-        if(node == null) return;
-
-        inorder(node.left, k);
-
-        count++;
-
-        if(count == k) {
-            result = node.val;
-            return;
-        }
-
-        inorder(node.right, k);
+    private void kth(TreeNode node) {
+        if(node == null) return ;
+        kth(node.left);
+        result.add(node.val);
+        kth(node.right);
     }
 
     public int kthSmallest(TreeNode root, int k) {
-        inorder(root, k);
-        return result;
+        if(root == null) return -1;
+        kth(root);
+        for(int i=0; i<result.size(); i++) {
+            if(i+1 == k) return result.get(i);
+        }
+        return -1;
     }
 }
