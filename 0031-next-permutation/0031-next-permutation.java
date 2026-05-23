@@ -4,32 +4,35 @@ class Solution {
         nums[start] = nums[end];
         nums[end] = temp;
     }
+
     private void reverse(int[] nums,int start,int end) {
         while(start < end) {
             swap(nums,start,end);
-            start++;
-            end--;
+            start++; end--;
         }
     }
 
     public void nextPermutation(int[] nums) {
-        // Find smaller elm index
-        int num = nums.length-2;
-        while(num >= 0) {
-            if(nums[num] < nums[num+1]) break;
-            else num--;
-        }
-        if(num != -1) {
-            // find just equal and smaller
-            int idx = num+1;
-            while(idx < nums.length) {
-                if(nums[num] < nums[idx]) idx++;
-                else break;
+        int size = nums.length;
+        int end = size-2;
+        while(end >= 0) {
+            if(nums[end] < nums[end+1]) {
+                break;
+            } else {
+                end--;
             }
-            swap(nums,num,idx-1);
-            reverse(nums,num+1,nums.length-1);
+        }
+        if(end == -1) {
+            reverse(nums,0,size-1);
         } else {
-            reverse(nums,0,nums.length-1);
+            int just_greater_index_value = size-1;
+            while(just_greater_index_value > end) {
+                if(nums[just_greater_index_value] > nums[end]) {
+                    swap(nums,just_greater_index_value,end);
+                    reverse(nums,end+1,size-1);
+                    break;
+                } just_greater_index_value--;
+            }
         }
     }
 }
