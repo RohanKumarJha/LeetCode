@@ -7,14 +7,18 @@ class Solution {
 
     public void sortColors(int[] nums) {
         int size = nums.length;
-        for(int i=0; i<size; i++) {
-            int index = i;
-            for(int j=i; j<size; j++) {
-                if(nums[j] < nums[index]) {
-                    index = j;
-                }
+        int start=0, mid=0, end=size-1;
+        while(mid <= end) {
+            if(nums[mid] == 0) {
+                swap(nums,start,mid);
+                start++;
+                mid++;
+            } else if(nums[mid] == 1) {
+                mid++;
+            } else {
+                swap(nums,mid,end);
+                end--;
             }
-            swap(nums,index,i);
         }
     }
 }
