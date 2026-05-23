@@ -7,7 +7,8 @@ class Solution {
             int mid = start + (end-start)/2;
             if(matrix[mid/col][mid%col] == target) {
                 return true;
-            } else if(matrix[mid/col][mid%col] < target) {
+            }
+            else if(matrix[mid/col][mid%col] < target) {
                 start = mid+1;
             } else {
                 end = mid-1;
