@@ -1,52 +1,26 @@
 class Solution {
-
     public List<List<Integer>> threeSum(int[] nums) {
-
+        int size = nums.length;
         List<List<Integer>> result = new ArrayList<>();
-
         Arrays.sort(nums);
-
-        int n = nums.length;
-
-        for (int i = 0; i < n - 2; i++) {
-
-            // Skip duplicate i
-            if (i > 0 && nums[i] == nums[i - 1]) {
-                continue;
-            }
-
-            int start = i + 1;
-            int end = n - 1;
-
-            while (start < end) {
-
-                int sum = nums[i] + nums[start] + nums[end];
-
-                if (sum == 0) {
-
-                    result.add(Arrays.asList(nums[i], nums[start], nums[end]));
-
-                    start++;
-                    end--;
-
-                    // Skip duplicate start values
-                    while (start < end && nums[start] == nums[start - 1]) {
-                        start++;
-                    }
-
-                    // Skip duplicate end values
-                    while (start < end && nums[end] == nums[end + 1]) {
-                        end--;
-                    }
-
-                } else if (sum < 0) {
-                    start++;
+        for(int i=0; i<size-2; i++) {
+            int left=i+1, right=size-1;
+            if(i>0 && nums[i]==nums[i-1]) continue;
+            while(left < right) {
+                int sum = nums[i]+nums[left]+nums[right];
+                if(sum == 0) {
+                    result.add(Arrays.asList(nums[i],nums[left],nums[right]));
+                    left += 1;
+                    right -= 1;
+                    while(left<right && nums[left]==nums[left-1]) left += 1;
+                    while(left<right && nums[right]==nums[right+1]) right -= 1;
+                } else if(sum < 0) {
+                    left += 1;
                 } else {
-                    end--;
+                    right -= 1;
                 }
             }
         }
-
         return result;
     }
 }
