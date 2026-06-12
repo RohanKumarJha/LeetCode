@@ -1,18 +1,16 @@
 class Solution {
-    private int fibonacci(int idx, int n, int first, int second) {
-        int result = 0;
-        for(int i=idx; i<=n; i++) {
-            result = first + second;
-            first = second;
-            second = result;
+    private int fibonacci(int n,int[] dp) {
+        if(dp[n] != 0) return dp[n];
+        if(n <= 1) {
+            dp[n] = n;
+            return n;
         }
-        return result;
+        dp[n] = fibonacci(n-1,dp) + fibonacci(n-2,dp);
+        return dp[n];
     }
 
     public int fib(int n) {
-        if(n < 2) return n;
-        int first = 0;
-        int second = 1;
-        return fibonacci(2, n, first, second);
+        int[] dp = new int[n+1];
+        return fibonacci(n,dp);
     }
 }
